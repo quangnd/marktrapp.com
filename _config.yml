@@ -1,0 +1,19 @@
+name: Mark Trapp
+timezone: America/Los_Angeles
+
+source: jekyll
+lsi: false
+
+# Project permalinks use /projects/:category/:title and are set on each post.
+permalink: /blog/:year/:month/:day/:title
+
+encoding: UTF-8
+markdown: redcarpet
+pygments: true
+
+redcarpet:
+    extensions: ['highlight', 'footnotes']
+
+# Site-specific settings.
+diffprefix: https://github.com/itafroma/itafroma.github.io/commits/master/
+
