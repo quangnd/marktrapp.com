@@ -1,0 +1,29 @@
+---
+license: MIT
+---
+{% case page.date.pattern %}
+{% when '%Y' %}
+    {% assign datename = page.date.value | date: "%Y" %}
+{% when '%Y/%m' %}
+    {% assign datename = page.date.value | date: "%B %Y" %}
+{% when '%Y/%m/%d' %}
+    {% assign datename = page.date.value | date: "%B %d, %Y" %}
+{% endcase %}
+<!DOCTYPE html>
+<html manifest="manifest.appcache">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Blog archive — {{ datename }}</title>
+</head>
+<body>
+    <h2>Blog archive — {{ datename }}</h2>
+    <ul>
+{% for post in page.posts %}
+        <li>
+            <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt }}</p>
+        </li>
+{% endfor %}
+    </ul>
+</body>
+</html>

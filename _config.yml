@@ -1,5 +1,6 @@
 name: Mark Trapp
 timezone: America/Los_Angeles
+uri: http://marktrapp.com
 
 source: jekyll
 lsi: false
@@ -10,6 +11,11 @@ permalink: /blog/:year/:month/:day/:title
 encoding: UTF-8
 markdown: redcarpet
 pygments: true
+
+archive:
+    path: /blog
+    layout: archive
+    exclude: ['projects', 'hidden']
 
 redcarpet:
     extensions: ['highlight', 'footnotes']
