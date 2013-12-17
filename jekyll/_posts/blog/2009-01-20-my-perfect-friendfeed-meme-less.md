@@ -1,6 +1,7 @@
 ---
 
 title: "My Perfect FriendFeed: Meme-less"
+date: 2009-01-20T15:10:51-08:00
 excerpt: FriendFeed should not be work to use constructively. Better filtering tools, and more predictive tools, would elevate FriendFeed beyond the goof-off place it is today.
 
 categories: [commentary]

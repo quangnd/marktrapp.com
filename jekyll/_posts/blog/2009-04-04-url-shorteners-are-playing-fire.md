@@ -1,6 +1,7 @@
 ---
 
 title: URL Shorteners Are Playing with Fire
+date: 2009-04-04T09:24:08-07:00
 excerpt: URL shorteners, due to their very nature, may be on borrowed time. One step by Google and the entire industry collapses like the house of cards it is.
 
 categories: [commentary]

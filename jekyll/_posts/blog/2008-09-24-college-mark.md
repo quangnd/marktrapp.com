@@ -1,6 +1,7 @@
 ---
 
 title: The college of Mark
+date: 2008-09-24T17:34:19-07:00
 excerpt: Mark. Blog. is going back to school.
 note: This was a dumb idea.
 

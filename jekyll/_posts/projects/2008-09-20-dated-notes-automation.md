@@ -1,6 +1,7 @@
 ---
 
 title: Dated Notes Automation
+date: 2008-09-20T19:04:28-07:00
 excerpt: An Automator workflow for creating dated text files.
 
 permalink: /projects/dated-notes-automation

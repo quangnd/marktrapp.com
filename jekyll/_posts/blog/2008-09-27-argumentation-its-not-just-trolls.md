@@ -1,6 +1,7 @@
 ---
 
 title: "Argumentation: it’s not just for trolls"
+date: 2008-09-27T13:19:07-07:00
 excerpt: Separating the argument from the arguing and the people doing the arguing lets us talk about topics in a broader depth and get things done.
 
 categories: [philosophy]

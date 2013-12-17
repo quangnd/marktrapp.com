@@ -1,6 +1,7 @@
 ---
 
 title: Kongregate Latest Badges Feed
+date: 2009-04-12T20:53:57-07:00
 excerpt: A Feed43 pattern for creating a badge feed for Kongregate.
 note: Kongregate no longer provides badge information in a format that is easily parseable.
 

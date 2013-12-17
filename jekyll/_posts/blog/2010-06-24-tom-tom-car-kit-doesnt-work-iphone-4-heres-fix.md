@@ -1,6 +1,7 @@
 ---
 
 title: "TomTom car kit doesn’t work with iPhone 4: here’s the fix"
+date: 2010-06-24T08:41:07-07:00
 excerpt: Sticking something 1.78mm/0.07in thick behind the base of the iPhone 4 when sticking it into the iPhone car kit gets the kit to recognize the 30 pin dock connector.
 
 categories: [how-tos, hidden]

@@ -1,6 +1,7 @@
 ---
 
 title: EnderRain
+date: 2012-04-22T03:09:47-07:00
 excerpt: A Minecraft mod that disables Enderman teleporting when it’s raining.
 note: Minecraft 1.4 and later includes the ability to use [game rules](http://minecraft.gamepedia.com/Command_Block#Game_Rules) which makes this mod largely obsolete for my purposes, even if updated. While it won't prevent endermen from teleporting into your base, `/gamerule mobGriefing true` will prevent endermen from wrecking it once there.
 

@@ -1,6 +1,7 @@
 ---
 
 title: Twitter vs. the Business-to-Business Model
+date: 2009-01-08T15:07:26-08:00
 excerpt: The value of social media for the business-to-business model, especially as we start to look at who participates in social media and who the decision makers are, is unclear. What do you think?
 note: This was a poorly-thought out attempt at getting engagement on my blog.
 

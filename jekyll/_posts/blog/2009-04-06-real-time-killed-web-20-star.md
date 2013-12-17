@@ -1,6 +1,7 @@
 ---
 
 title: Real-time killed the web 2.0 star
+date: 2009-04-06T16:40:04-07:00
 excerpt: "The real-time web renders the old web 2.0 convention of following tons of people obsolete: filters replace follows, and trying to maintain the old order will break your user experience of what’s to come."
 
 categories: [commentary]

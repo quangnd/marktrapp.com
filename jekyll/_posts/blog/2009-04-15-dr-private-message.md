@@ -1,6 +1,7 @@
 ---
 
 title: Dr. Private Message
+date: 2009-04-15T09:54:42-07:00
 excerpt: "We ought not to fear because the problem of private messages is too hard: we ought to fear because we’ve already solved them yet won’t use that knowledge."
 
 categories: [commentary]

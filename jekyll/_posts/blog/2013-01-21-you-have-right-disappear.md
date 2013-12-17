@@ -1,6 +1,7 @@
 ---
 
 title: You have the right to disappear
+date: 2013-01-21T15:13:38-08:00 # Real date: 2013-01-21T16:13:38-08:00
 excerpt: You, as a member of humanity, always have the right to leave. Never be afraid to “ragequit”.
 
 categories: [philosophy]

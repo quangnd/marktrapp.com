@@ -1,6 +1,7 @@
 ---
 
 title: YouTube Subs as Home
+date: 2013-01-07T16:52:40-08:00
 excerpt: A Safari extension to set the YouTube home page to the subscriptions feed.
 
 permalink: /projects/youtube-subs-home

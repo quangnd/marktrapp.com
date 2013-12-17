@@ -1,6 +1,7 @@
 ---
 
 title: BuddyFeed, a Native FriendFeed Client
+date: 2009-01-16T04:56:52-08:00
 excerpt: BuddyFeed is a promising native iPhone client for FriendFeed, but there are a few things it fails to handle which probably makes it a non-starter for most people, even for its relatively small price tag of 99 cents.
 note: This app is no longer available.
 

@@ -1,6 +1,7 @@
 ---
 
 title: Save for Web Automation
+date: 2008-09-20T19:03:51-07:00
 excerpt: An Automator workflow for converting images to a web-ready format.
 
 permalink: /projects/save-web-automation

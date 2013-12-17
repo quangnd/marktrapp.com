@@ -1,6 +1,7 @@
 ---
 
 title: Internet access is a human right
+date: 2012-01-05T12:55:39-08:00
 excerpt: One only needs to look back to the early 20th century to see the profound effect of making rights enablers themselves human rights.
 
 categories: [the web]
