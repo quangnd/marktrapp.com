@@ -1,0 +1,17 @@
+---
+license: MIT
+
+layout: default
+---
+<article>
+    <header>
+        <h2>{{ page.title }}</h2>
+    </header>
+    <main>
+    {% if page.markdown %}
+        {{ content | markdownify }}
+    {% else %}
+        {{ content }}
+    {% endif %}
+    </main>
+</article>

@@ -1,4 +1,5 @@
 name: Mark Trapp
+tagline: Philosophical ideas in usability, technology, and management.
 timezone: America/Los_Angeles
 uri: http://marktrapp.com
 
@@ -10,7 +11,7 @@ permalink: /blog/:year/:month/:day/:title
 
 encoding: UTF-8
 markdown: redcarpet
-pygments: true
+pygments: false
 
 archive:
     path: /blog
