@@ -1,0 +1,13 @@
+---
+license: MIT
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for page in site.pages %}
+    {% unless page.url == '/contact/index.html' %}
+    <url>
+        <loc>{{ site.uri }}{{ page.url | remove:'index.html' }}</loc>
+    </url>
+    {% endunless %}
+    {% endfor %}
+</urlset>
