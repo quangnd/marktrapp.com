@@ -29,4 +29,6 @@ author:
 copyright: Copyright © Mark Trapp. All rights reserved.
 
 diffprefix: https://github.com/itafroma/itafroma.github.io/commits/master/
-
+googleanalytics:
+    account: UA-767493-8
+    domain: marktrapp.com
