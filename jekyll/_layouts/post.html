@@ -9,7 +9,7 @@ layout: default
     </header>
     <main>
     {% if page.markdown %}
-        {{ content | markdownify }}
+        {{ content | markdownify | indent: 8 }}
     {% else %}
         {{ content }}
     {% endif %}
