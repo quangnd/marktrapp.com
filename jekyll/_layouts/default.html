@@ -14,6 +14,7 @@ license: MIT
         <title>{{ page.title }} | {{ site.name }}</title>
         {% endif %}
         <link rel="canonical" href="{{ site.uri }}{{ page.url }}">
+        <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Blog and Projects" href="/atom.xml">
     </head>
     <body>
         <header>
@@ -31,7 +32,7 @@ license: MIT
         </header>
         {{ content }}
         <footer>
-            <p>Copyright © 2013 Mark Trapp. All rights reserved.</p>
+            <p>{{ site.copyright }}</p>
         </footer>
     </body>
 </html>

@@ -1,0 +1,35 @@
+---
+license: MIT
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>{{ site.name | xml_escape }} - Blog and Projects</title>
+    <subtitle>{{ site.tagline | xml_escape }}</subtitle>
+    <link rel="self" href="{{ site.uri }}/atom.xml" />
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <author>
+        <name>{{ site.author.name | xml_escape }}</name>
+        <uri>{{ site.author.uri | xml_escape }}</uri>
+        <email>{{ site.author.email | xml_escape }}</email>
+    </author>
+    <id>{{ site.uri }}/</id>
+    <rights>{{ site.copyright | xml_escape }}</rights>
+    {% for post in site.posts %}
+    {% unless post.categories contains 'hidden' %}
+    <entry>
+        <title>{{ post.title | xml_escape }}</title>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <author>
+            <name>{{ site.author.name | xml_escape }}</name>
+            <uri>{{ site.author.uri | xml_escape }}</uri>
+            <email>{{ site.author.email | xml_escape }}</email>
+        </author>
+        <id>{{ site.uri }}{{ post.url }}</id>
+        <rights>{{ site.copyright | xml_escape }}</rights>
+        <link rel="alternate" href="{{ site.uri }}{{ post.url }}" title="{{ post.title | xml_escape }}" />
+        <summary type="html">{{ post.excerpt | xml_escape }}</summary>
+        <content type="html">{{ post.content | xml_escape | strip_newlines }}</content>
+    </entry>
+    {% endunless %}
+    {% endfor %}
+</feed>

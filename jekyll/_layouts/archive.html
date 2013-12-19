@@ -18,6 +18,7 @@ license: MIT
         <meta name="viewport" content="width=device-width">
         <title>Blog archive — {{ datename }} | {{ site.name }}</title>
         <link rel="canonical" href="{{ site.uri }}{{ page.url }}">
+        <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Blog and Projects" href="{{ site.uri }}/atom.xml">
     </head>
     <body>
         <header>
@@ -51,7 +52,7 @@ license: MIT
             </main>
         </section>
         <footer>
-            <p>Copyright © 2013 Mark Trapp. All rights reserved.</p>
+            <p>{{ site.copyright }}</p>
         </footer>
     </body>
 </html>

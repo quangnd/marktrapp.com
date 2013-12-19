@@ -22,5 +22,11 @@ redcarpet:
     extensions: ['highlight', 'footnotes']
 
 # Site-specific settings.
+author:
+    name: Mark Trapp
+    uri: http://marktrapp.com
+    email: mark@marktrapp.com
+copyright: Copyright © Mark Trapp. All rights reserved.
+
 diffprefix: https://github.com/itafroma/itafroma.github.io/commits/master/
 
