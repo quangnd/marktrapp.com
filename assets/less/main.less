@@ -156,6 +156,12 @@ body {
     }
 }
 
+dd {
+    .task {
+        margin-bottom: 0.5rem;
+    }
+}
+
 dt {
     font-weight: bold;
     display: run-in;
@@ -309,32 +315,6 @@ pre {
     overflow-x: scroll;
 }
 
-.task {
-    .button();
-    font-size: 90%;
-}
-
-dd .task {
-    margin-bottom: 0.5rem;
-}
-
-.note {
-    font-style: italic;
-    margin-bottom: 2rem;
-
-    h1 {
-        color: @color-black;
-        font-family: @font-main;
-        font-size: @font-size;
-        font-weight: bold;
-        display: run-in;
-
-        &:after {
-            content: ": ";
-        }
-    }
-}
-
 .listing {
     .main-content();
 
@@ -354,4 +334,26 @@ dd .task {
             margin-bottom: 0;
         }
     }
+}
+
+.note {
+    font-style: italic;
+    margin-bottom: 2rem;
+
+    h1 {
+        color: @color-black;
+        font-family: @font-main;
+        font-size: @font-size;
+        font-weight: bold;
+        display: run-in;
+
+        &:after {
+            content: ": ";
+        }
+    }
+}
+
+.task {
+    .button();
+    font-size: 90%;
 }
