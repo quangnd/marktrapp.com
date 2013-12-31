@@ -5,20 +5,14 @@ license: MIT
 
 layout: default
 ---
-<section>
-    <header>
-        <h2>Projects</h2>
-    </header>
-    <main>
-        {% for post in site.posts %}
-        {% if post.categories contains 'projects' %}
-        <article>
-            <header>
-                <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
-            </header>
-            <main>{{ post.excerpt }}</main>
-        </article>
-        {% endif %}
-        {% endfor %}
-    </main>
+<section class="listing">
+    <h1>{{ page.title }}</h1>
+    {% for post in site.posts %}
+    {% if post.categories contains 'projects' %}
+    <article>
+        <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
+        {{ post.excerpt }}
+    </article>
+    {% endif %}
+    {% endfor %}
 </section>

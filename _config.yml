@@ -28,7 +28,8 @@ author:
     email: mark@marktrapp.com
 copyright: Copyright © Mark Trapp. All rights reserved.
 
-diffprefix: https://github.com/itafroma/itafroma.github.io/commits/master/
+diffprefix: https://github.com/itafroma/marktrapp.com/commits/master/jekyll/
+fileprefix: http://files.marktrapp.com/
 googleanalytics:
     account: UA-767493-8
     domain: marktrapp.com

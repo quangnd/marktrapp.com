@@ -4,14 +4,57 @@ license: MIT
 layout: default
 ---
 <article>
-    <header>
-        <h2>{{ page.title }}</h2>
-    </header>
-    <main>
-    {% if page.markdown %}
+    <h1>{{ page.title }}</h1>
+    <div class="content">
+        {% if page.note %}
+        <section class="note">
+            <h1>Author note</h1>
+            {{ page.note | markdownify | indent: 12 }}
+        </section>
+        {% endif %}
+        {% if page.markdown %}
         {{ content | markdownify | indent: 8 }}
-    {% else %}
-        {{ content }}
-    {% endif %}
-    </main>
+        {% else %}
+        {{ content | indent: 8 }}
+        {% endif %}
+    </div>
+    {% unless page.sidebar == false %}
+    <footer>
+        <hr>
+        <section class="metadata-page">
+            <dl>
+                <dt>Posted on</dt>
+                <dd><time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time></dd>
+
+                <dd><a class="task" title="View page changes" href="{{ site.diffprefix }}{{ page.path }}" rel="nofollow">View page changes</a></dd>
+            </dl>
+        </section>
+        {% if page.categories contains 'projects' %}
+        <section class="metadata-project">
+            <dl>
+                {% if page.downloads %}
+                <dt>Downloads</dt>
+                <dd>
+                {% for download in page.downloads %}
+                    <a class="task" title="Download {{ download.title }}" href="{{ site.fileprefix }}{{ download.file }}">{{ download.title }}</a>
+                {% endfor %}
+                </dd>
+                {% endif %}
+
+                <dt>License</dt>
+                {% if page.license == 'none' %}
+                <dd>none, practice <a title="Wikipedia article on fair use" href="http://wikipedia.org/wiki/Fair_use">fair use</a></dd>
+                {% else %}
+                <dd>{{ page.license }}</dd>
+                {% endif %}
+
+                {% if page.repository %}
+                <dd><a class="task" title="View source" href="{{ page.repository }}" rel="nofollow">View source</a></dd>
+                {% endif %}
+
+            </dl>
+        </section>
+        {% endif %}
+    </footer>
+    {% endunless %}
 </article>
