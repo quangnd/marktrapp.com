@@ -292,17 +292,21 @@ main {
                 padding: 0;
             }
 
-            > p {
-                &:first-of-type:first-letter {
-                    .dropcap();
-                }
-            }
-
             p:last-child {
                 margin-bottom: 0;
             }
         }
 
+
+        &:not(.front-page) {
+            .content {
+                > p {
+                    &:first-of-type:first-letter {
+                        .dropcap();
+                    }
+                }
+            }
+        }
     }
 }
 
@@ -315,8 +319,23 @@ pre {
     overflow-x: scroll;
 }
 
+.front-page {
+    h3 {
+        a {
+            &:after {
+                content: ' →';
+            }
+
+            &:hover {
+                font-weight: bold;
+            }
+        }
+    }
+}
+
 .listing {
     .main-content();
+    padding-top: 1rem;
 
     @media (min-width: @screen-sm-min) {
         margin-right: @sidebar-width;
