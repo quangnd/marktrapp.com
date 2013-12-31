@@ -37,9 +37,9 @@ Where applicable, all other files are copyright © Mark Trapp.
 
 All other files within this repository are licensed on an individual basis. Note that there are automatic limitations to copyright (called "fair use" or "fair dealing")—including, but not limited to, excerpting, commentary, and personal reproduction—that do not require a license.
 
-If an automatic license is granted for a specific file, the license the file uses is specified in its [front-matter][10] under the `license:` key or in its opening comment block. The full text of the licenses used can be found in the `licenses` directory in the files prefixed with `marktrapp-`.
+If an automatic license is granted for a specific file, the license the file uses is specified in its [front-matter][7] under the `license:` key or in its opening comment block. The full text of the licenses used can be found in the `licenses` directory in the files prefixed with `marktrapp-`.
 
-Some files (e.g., the files that appear in the `_posts` directory) are not granted an automatic license, and and for those files, all rights are reserved (again, fair use is an automatic limitation to those rights). These files are indicated by having a `license: none` entry in their front-matter. With these files, if there's a use that falls outside the bounds of fair use, [contact me][11].
+Some files (e.g., the files that appear in the `_posts` directory) are not granted an automatic license, and and for those files, all rights are reserved (again, fair use is an automatic limitation to those rights). These files are indicated by having a `license: none` entry in their front-matter. With these files, if there's a use that falls outside the bounds of fair use, [contact me][8].
 
 [1]: http://marktrapp.com "Mark Trapp’s website"
 [2]: http://bundler.io "Bundler website"
@@ -47,8 +47,5 @@ Some files (e.g., the files that appear in the `_posts` directory) are not grant
 [4]: https://github.com/itafroma/jekyll "Forked Jekyll repository supporting RedCarpet 3"
 [5]: http://kerotaa.hateblo.jp/ "kerotaa’s website"
 [6]: https://gist.github.com/kerotaa/5788650 "kerotaa’s remove-empty-lines-html.rb"
-[7]: http://ospublish.constantvzw.org "OSP website"
-[8]: http://ospublish.constantvzw.org/foundry/sans-guilt/ "OSP Foundry - Sans Guilt"
-[9]: http://downloads.ghostscript.com/public/fonts/ "/public/fonts in Ghostscript’s file repository"
-[10]: http://jekyllrb.com/docs/frontmatter/ "Jekyll: Front-matter"
-[11]: http://marktrapp.com/contact "Contact Mark Trapp"
+[7]: http://jekyllrb.com/docs/frontmatter/ "Jekyll: Front-matter"
+[8]: http://marktrapp.com/contact "Contact Mark Trapp"
