@@ -14,8 +14,6 @@ layout: post
 
 ---
 
-## Introduction
-
 Every minute, some technology analyst is predicting the future. 99 times out of 100, they're wrong. And it's not really worth writing about. But every once in a while, there's a prognostication that's so crazy—but nevertheless written as though it's an inevitability—it pains the mind.
 
 Today, MG Siegler wrote [an article about how iPad looks like old news][1] compared to the forthcoming iPhone 4. In it, he opines that, among the main problems the just-released iPad has, its display simply doesn't measure up to the new iPhone 4's display. I take him at his word: I haven't seen it yet, and nearly everyone who has says it's an amazing display.
