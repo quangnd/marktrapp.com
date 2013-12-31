@@ -1,0 +1,6 @@
+{
+    "name": "marktrapp.com",
+    "dependencies": {
+        "bootstrap": "~3.0.0"
+    }
+}
