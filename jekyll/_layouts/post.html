@@ -31,6 +31,7 @@ layout: default
                 <dd><time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time></dd>
 
                 <dd><a class="task" title="View page changes" href="{{ site.diffprefix }}{{ page.path }}" rel="nofollow">View page changes</a></dd>
+                <dd><a class="task" title="Suggest an edit" href="{{ site.editprefix }}{{ page.path }}" rel="nofollow">Suggest an edit</a></dd>
             </dl>
         </section>
         {% if page.categories contains 'projects' %}
