@@ -10,7 +10,7 @@
 # Acknowledgements::
 #   - Inspired by the example provided by Mike Fulcher:
 #     http://drawingablank.me/blog/indentation-for-injected-jekyll-content.html
-#   - <pre> element handling inspired by keratoaaa's newline collapsing plugin:
+#   - <pre> element handling inspired by kerotaa's newline collapsing plugin:
 #     https://gist.github.com/kerotaa/5788650
 #     See also collapse_newlines.rb
 
