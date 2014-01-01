@@ -32,7 +32,7 @@ The generated site will be contained in the `_sites` directory.
 
 ### jekyll/\_plugins/collapse\_newlines.rb
 
-`collapse_newlines.rb` is copyright © 2012 [kerotaa][7] and is used with permission under the terms of the MIT license, which can be found in the `licenses/collapse_newlines.txt' file. It has been modified from its [original form][8].
+`collapse_newlines.rb` is copyright © 2012 [kerotaa][7] and is used with permission under the terms of the MIT license, which can be found in the `licenses/collapse_newlines.txt` file. It has been modified from its [original form][8].
 
 ### Everything else
 
