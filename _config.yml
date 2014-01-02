@@ -17,7 +17,7 @@ pygments: false
 archive:
     path: /blog
     layout: archive
-    exclude: ['projects', 'hidden']
+    exclude: ['projects', 'hidden', 'pages']
 
 redcarpet:
     extensions: ['highlight', 'footnotes']
