@@ -2,6 +2,7 @@ name: Mark Trapp
 tagline: Philosophical ideas in usability, technology, and management.
 timezone: America/Los_Angeles
 uri: http://marktrapp.com
+domain: marktrapp.com
 
 source: jekyll
 lsi: false
@@ -26,6 +27,7 @@ author:
     name: Mark Trapp
     uri: http://marktrapp.com
     email: mark@marktrapp.com
+    twitter: "@itafroma"
 copyright: Copyright © Mark Trapp. All rights reserved.
 
 diffprefix: https://github.com/itafroma/marktrapp.com/commits/production/jekyll/
