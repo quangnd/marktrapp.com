@@ -18,8 +18,8 @@
         <meta name="twitter:image:src" content="{{ site.uri }}/assets/images/logo-green-144.png">
         <meta name="twitter:domain" content="{{ site.domain }}">
         <meta property="og:title" content="{{ page.title }}">
-        <meta property="og:type" content="{{ article }}">
-        <meta property="og:url" content="{{ page.path }}">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="{{ site.uri }}{{ page.url }}/">
         <meta property="og:image" content="{{ site.uri }}/assets/images/logo-green-144.png">
         <meta property="og:description" content="{{ page.excerpt }}">
         <meta property="og:site_name" content="{{ site.name }}">
@@ -29,7 +29,7 @@
         {% else %}
         <title>{{ page.title }} | {{ site.name }}</title>
         {% endif %}
-        <link rel="canonical" href="{{ site.uri }}{{ page.url }}">
+        <link rel="canonical" href="{{ site.uri }}{{ page.url }}/">
         <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Blog and Projects" href="/atom.xml">
         <link rel="stylesheet" href="/assets/css/main.css">
         <link rel="icon" type="image/png" href="/assets/images/logo-green-32.png">
