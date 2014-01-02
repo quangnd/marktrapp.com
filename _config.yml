@@ -30,9 +30,11 @@ author:
     twitter: "@itafroma"
 copyright: Copyright © Mark Trapp. All rights reserved.
 
-diffprefix: https://github.com/itafroma/marktrapp.com/commits/production/jekyll/
-editprefix: https://github.com/itafroma/marktrapp.com/edit/production/jekyll/
-fileprefix: http://files.marktrapp.com/
+prefix:
+    diff: https://github.com/itafroma/marktrapp.com/commits/production/jekyll/
+    edit: https://github.com/itafroma/marktrapp.com/edit/production/jekyll/
+    file: http://files.marktrapp.com/
+
 googleanalytics:
     account: UA-767493-8
     domain: marktrapp.com

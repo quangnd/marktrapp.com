@@ -88,8 +88,8 @@
                             <dt>Posted on</dt>
                             <dd><time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time></dd>
 
-                            <dd><a class="task" title="View page changes" href="{{ site.diffprefix }}{{ page.path }}" rel="nofollow">View page changes</a></dd>
-                            <dd><a class="task" title="Suggest an edit" href="{{ site.editprefix }}{{ page.path }}" rel="nofollow">Suggest an edit</a></dd>
+                            <dd><a class="task" title="View page changes" href="{{ site.prefix.diff }}{{ page.path }}" rel="nofollow">View page changes</a></dd>
+                            <dd><a class="task" title="Suggest an edit" href="{{ site.prefix.edit }}{{ page.path }}" rel="nofollow">Suggest an edit</a></dd>
                         </dl>
                     </section>
                     {% if page.categories contains 'projects' %}
@@ -99,7 +99,7 @@
                             <dt>Downloads</dt>
                             <dd>
                             {% for download in page.downloads %}
-                                <a class="task" title="Download {{ download.title }}" href="{{ site.fileprefix }}{{ download.file }}">{{ download.title }}</a>
+                                <a class="task" title="Download {{ download.title }}" href="{{ site.prefix.file }}{{ download.file }}">{{ download.title }}</a>
                             {% endfor %}
                             </dd>
                             {% endif %}
