@@ -10,7 +10,7 @@ license: none
 layout: post
 
 ---
-It’s a new year, so that means things have to change, right? On January 31st, my long-term contract with Bear Brook and Brandopoly will end. After 7 years, I’m officially a free agent, looking for the next opportunity.
+It’s a new year, so that means things have to change, right? On January 31st, my long-term contract with [Bear Brook][1] and [Brandopoly][2] will end. After 7 years, I’m officially a free agent, looking for the next opportunity.
 
 Coming to this milestone, I realized I haven’t really talked much about what I’ve done at Bear Brook, at least not directly. At its core, Bear Brook was a client services company: clients came to us with problems, and we figured out ways to solve them. This proved to be a weird situation for me when it came to self-promotion. Unlike a job where you sell a specific product, it felt weird (or many times, inappropriate) to talk about the work we completed. Did the client want the world to know what parts of the job we did? Would people who share my interests really care?
 
@@ -45,6 +45,12 @@ Developing and maintaining Brandopoly was where I’ve been since.
 
 ## What’s next
 
-The Bureau of Labor Statistics says the average time a person stays at a job is now 4.4 years, with most millenials (of which I am a part) expect to stay at any one job for less than 3 years. This January will be my 7th anniversary working for Bear Brook continuously: it’s time for a change.
+The Bureau of Labor Statistics says the [average time a person stays at a job][2] is now 4.4 years, with most millenials (of which I am a part) expect to stay at any one job for less than 3 years. This January will be my 7th anniversary working for Bear Brook continuously: it’s time for a change.
 
-I’m itching to apply my knowledge to new challenges. I have a few personal projects I’ll no doubt spend some time on over the next few months, but if you, or someone you know, is looking for someone with my background, skills, and expertise, [let’s definitely talk].
+I’m itching to apply my knowledge to new challenges. I have a few personal projects I’ll no doubt spend some time on over the next few months, and I plan on blogging a lot more, but if you, or someone you know, is looking for someone with [my background, skills, and expertise][3], [let’s definitely talk][4].
+
+[1]: http://bearbrook.com "Bear Brook’s website"
+[2]: http://www.forbes.com/sites/jeannemeister/2012/08/14/job-hopping-is-the-new-normal-for-millennials-three-ways-to-prevent-a-human-resource-nightmare/ "Job Hopping Is the “New Normal” for Millennials: Three Ways to Prevent a Human Resource Nightmare"
+[3]: http://brandopoly.com "Brandopoly’s website"
+[4]: http://marktrapp.com/about "My about page"
+[5]: http://marktrapp.com/contact "My contact page"
