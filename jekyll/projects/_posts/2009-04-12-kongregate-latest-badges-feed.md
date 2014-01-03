@@ -7,7 +7,6 @@ note: Kongregate no longer provides badge information in a format that is easily
 
 permalink: /projects/kongregate-latest-badges-feed
 
-categories: [projects]
 tags: [Kongregate, Feed43, RSS]
 
 license: MIT

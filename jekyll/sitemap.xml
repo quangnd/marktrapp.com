@@ -10,4 +10,9 @@ license: MIT
     </url>
     {% endunless %}
     {% endfor %}
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.uri }}{{ post.url }}/</loc>
+    </url>
+    {% endfor %}
 </urlset>

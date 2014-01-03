@@ -6,7 +6,6 @@ excerpt: An Automator workflow for converting images to a web-ready format.
 
 permalink: /projects/save-web-automation
 
-categories: [projects]
 tags: [Automator, conversion, MIT license]
 
 license: MIT
