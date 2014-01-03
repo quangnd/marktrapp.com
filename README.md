@@ -10,8 +10,8 @@ This repository contains the code for generating [marktrapp.com][1]. The purpose
 
 * Ruby 2.0.0 or higher
 * [Bundler][2]
-* The latest version of [RedCarpet][3] 3
-* A [fork of Jekyll supporting RedCarpet 3][4]
+* The latest HEAD of [RedCarpet][3] 3
+* The latest HEAD of [Jekyll][4]
 * [Rake][5]
 * [Node Package Manager (NPM)][6]
 
@@ -47,7 +47,7 @@ Some files (e.g., the files that appear in the `_posts` directory) are not grant
 [1]: http://marktrapp.com "Mark Trapp’s website"
 [2]: http://bundler.io "Bundler website"
 [3]: https://github.com/vmg/redcarpet "RedCarpet repository"
-[4]: https://github.com/itafroma/jekyll "Forked Jekyll repository supporting RedCarpet 3"
+[4]: https://github.com/jekyll/jekyll "Jekyll repository"
 [5]: http://rake.rubyforge.org "RAKE - Ruby Make"
 [6]: http://npmjs.org "NPM website"
 [7]: http://kerotaa.hateblo.jp/ "kerotaa’s website"
