@@ -15,7 +15,7 @@ license: MIT
     <id>{{ site.uri }}/</id>
     <rights>{{ site.copyright | xml_escape }}</rights>
     {% for post in site.posts %}
-    {% unless post.categories contains 'hidden' %}
+    {% unless post.categories contains 'hidden' or post.categories contains 'pages' %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
