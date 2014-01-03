@@ -29,25 +29,26 @@ The first thing, a complete inventory of all the possible marketing materials, h
 
 The second thing, having a system in place that was faster and easier to use than the alternatives, was essential to making sure people used the stuff available. If it’s easier for me to just mock something up in Photoshop than it is to use the branded materials, I’m not going to bother with the branded stuff.
 
-The two aspects of Brandopoly allowed companies to get their branded stuff out in front of everybody really, really fast. Instead of waiting days to get the new branded materials, and hours to modify them for the specific use cases, teams would be able to create customized marketing materials with the correct branding within a few minutes. Brandopoly, in a lot of cases, obviated the need for an on-site design team.
+The two aspects of Brandopoly allowed companies to get their branded stuff out in front of everybody really, really fast. Instead of waiting days to get the new branded materials, and hours to modify them for the specific use cases, teams would be able to create customized marketing materials with the correct branding within a few minutes. Brandopoly, in a lot of cases, obviated the need for an on-site design team, and was quickly adopted by some of the largest entertainment companies, including ABC and HBO.
+
 
 ## My role
 
-I actually started working for Bear Brook as a summer job in college in 2004. I was looking for something to do besides working as a customer service rep for a local Stop and Shop (the job I had throughout high school), and I got an opportunity to shadow Bear Brook’s systems support analyst (SSA). It was right about this time that Brandopoly was getting into gear, so I got to spend a lot of time seeing how the sausage was made: technical meetings, getting servers up and running, and so on. But Brandopoly, while interesting, was only a part of what Bear Brook was doing at the time and a lot of my time was spent working on pretty rote technical support issues: software licenses, setting up machines, etc.
+I joined Bear Brook after college as an IT manager, acting as the technical liason for vendors and clients while being in charge of all of Bear Brook's on-site tech and Brandopoly's devops. In 2008, I helped transition Bear Brook from a physical office with employees to a completely virtual environment with everyone telecommuting.[^1]
 
-It was something of a weird setup: most of the employees were designers or salespeople, but Brandopoly was a highly technical project. Rather than bringing a bunch of people in house, Bear Brook contracted with a few different companies to get Brandopoly up and running with only the SSA and myself as the in-house technical team. By the time the summer was over, the SSA had left and I became the sole technical person on site. When I left, the outside teams took over pretty much all the technical stuff for Bear Brook.
+Eventually, I took over the development of the Brandopoly product, releasing a version for small businesses in 2009. In 2011, I architected the complete rewrite of the enterprise product, replacing the now-7-year-old code base and infrastructure to a more modern, modular system on AWS.[^2]
 
-A couple of years later, Bear Brook was big enough that it wanted to have an in-house technical team again, I was asked to help make it work. In 2006, I started working from college remotely part time, then eventually left college to work on-site full time as Bear Brook’s IT manager. I acted as the technical liason for our vendors and our clients, helping to figure out and implement the technical requirements for jobs as they came in.
-
-By 2009, Brandopoly became more or less the main focus of Bear Brook, and I took over the continued development of it: a small-business, self-serve version was developed, then the main enterprise version was rewritten from its 8-year-old codebase on managed, physical servers to a more modular system that could run anywhere.
-
-Developing and maintaining Brandopoly was where I’ve been since.
+Since the rewrite, I've been working on adding features and improving the admin experience to give it a firm footing for another 10 years.
 
 ## What’s next
 
 The Bureau of Labor Statistics says the [average time a person stays at a job][2] is now 4.4 years, with most millenials (of which I am a part) expect to stay at any one job for less than 3 years. This January will be my 7th anniversary working for Bear Brook continuously: it’s time for a change.
 
 I’m itching to apply my knowledge to new challenges. I have a few personal projects I’ll no doubt spend some time on over the next few months, and I plan on blogging a lot more, but if you, or someone you know, is looking for someone with [my background, skills, and expertise][3], [let’s definitely talk][4].
+
+[^1]: This lead to the opportunity to move cross-country to Portland, Oregon.
+[^2]: We were actually able to do this gradually without disruption to Brandopoly's clients: nobody even noticed until the end of the migration when we launched a new UI.
+
 
 [1]: http://bearbrook.com "Bear Brook’s website"
 [2]: http://www.forbes.com/sites/jeannemeister/2012/08/14/job-hopping-is-the-new-normal-for-millennials-three-ways-to-prevent-a-human-resource-nightmare/ "Job Hopping Is the “New Normal” for Millennials: Three Ways to Prevent a Human Resource Nightmare"
