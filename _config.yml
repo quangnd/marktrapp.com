@@ -12,7 +12,7 @@ permalink: /blog/:year/:month/:day/:title
 
 encoding: UTF-8
 markdown: redcarpet
-pygments: false
+highlighter: nil
 
 archive:
     path: /blog
