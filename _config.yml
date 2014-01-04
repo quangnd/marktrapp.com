@@ -13,6 +13,10 @@ permalink: /blog/:year/:month/:day/:title
 encoding: UTF-8
 markdown: redcarpet
 highlighter: nil
+gems:
+    - 'jekyll/itafroma/archive'
+    - 'jekyll/itafroma/collapse_newlines'
+    - 'jekyll/itafroma/indent_filter'
 
 archive:
     path: /blog
