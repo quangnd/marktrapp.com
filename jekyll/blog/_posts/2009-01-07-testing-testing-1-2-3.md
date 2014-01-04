@@ -4,8 +4,7 @@ title: Testing, Testing, 1-2-3
 date: 2009-01-07T17:58:32-08:00
 excerpt: Before testing out the latest shiny toy, take a few minutes and ask yourself a few pointed questions about whether or not it’s a Good Idea.
 
-categories: [commentary]
-tags: [Disqus, FriendFeed, Mark Hopkins, social media, Steven Hodson, testing, Twitter]
+tags: [Disqus, FriendFeed, Mark Hopkins, social media, Steven Hodson, testing, Twitter, commentary]
 
 license: none
 

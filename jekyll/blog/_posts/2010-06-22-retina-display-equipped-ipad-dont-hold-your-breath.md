@@ -6,7 +6,7 @@ excerpt: You'll be waiting a long time for a Retina display-equipped iPad. A lon
 note: This blog post was written in early 2010, right after world got its first taste of cheap HiDPI displays in the form of iPhone 4. While HiDPI displays are common (if not ubiquitous) now, they were anything but in 2010. The historical significance of this post is that it took 2 years to see a HiDPI iPad (or, for that matter, consumer-grade HiDPI displays larger than 4 inches diagonal), not 6 months as was being predicted at the time.
 
 categories: [commentary]
-tags: [iPad, iPhone, MG Siegler, Prognostication]
+tags: [iPad, iPhone, MG Siegler, Prognostication, commentary]
 
 license: none
 

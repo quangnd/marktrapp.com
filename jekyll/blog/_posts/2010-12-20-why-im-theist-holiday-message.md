@@ -5,8 +5,7 @@ date: 2010-12-20T07:53:01-08:00
 excerpt: An essay about the problem of inductive reasoning and why I believe in God.
 note: "This blog post isn’t about technology, so if you’ve subscribed to my posts or follow me because of my technology-related stuff, I wouldn’t be offended if you skipped over this post. The title is inspired by an op-ed in the Wall Street Journal titled, “[A holiday message from Ricky Gervais: Why I’m An Atheist](http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/)”."
 
-categories: [philosophy]
-tags: [induction, philosophy, religion, theism]
+tags: [induction, philosophy, religion, theism, philosophy]
 
 license: none
 

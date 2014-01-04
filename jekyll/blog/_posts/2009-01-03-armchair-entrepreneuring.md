@@ -4,8 +4,7 @@ title: Armchair Entrepreneuring
 date: 2009-01-03T12:14:03-08:00
 excerpt: "We need to change how we approach early adopter feedback: stop thinking about “they clearly messed up, those idiots” and start thinking about “why did they do it this way?”"
 
-categories: [commentary]
-tags: [cabal, curmudgeonry, friendfeed, Louis Gray]
+tags: [cabal, curmudgeonry, friendfeed, Louis Gray, commentary]
 
 license: none
 

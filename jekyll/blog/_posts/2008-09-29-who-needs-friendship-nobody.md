@@ -4,8 +4,7 @@ title: Who needs Friendship? Nobody
 date: 2008-09-29T16:49:23-07:00
 excerpt: "Both sides of the Friendship aisle miss the point: Friendship is a disposition one finds oneself in, not something to strive for."
 
-categories: [philosophy]
-tags: [friendship, Jeremiah Owyang, Mark O’Neill, Steve Hodson, tracks]
+tags: [friendship, Jeremiah Owyang, Mark O’Neill, Steve Hodson, tracks, philosophy]
 
 license: none
 

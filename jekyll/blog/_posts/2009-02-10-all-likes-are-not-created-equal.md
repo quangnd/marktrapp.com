@@ -4,8 +4,7 @@ title: All Likes Are Not Created Equal
 date: 2009-02-10T17:24:23-08:00
 excerpt: Facebook still doesn’t hold a torch to the basic user experience of FriendFeed not because it isn’t trying, but because of the rules it’s decided to play by.
 
-categories: [commentary]
-tags: [Facebook, FriendFeed, like, Robert Scoble]
+tags: [Facebook, FriendFeed, like, Robert Scoble, commentary]
 
 license: none
 

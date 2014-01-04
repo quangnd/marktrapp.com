@@ -5,8 +5,7 @@ date: 2009-10-12T10:42:24-07:00
 excerpt: Using two features from Google Voice and AT&T, you can maximize your Google Voice usage on an iPhone (or any other iPhone) in spite of the public bickering between Apple and Google.
 note: The dispute that prevented a Google Voice app from being available on iOS was eventually resolved. Additionally, iOS 4 added support for sending and receiving VoIP calls, obviating the need for this workaround.
 
-categories: [how-tos, hidden]
-tags: [AT&T, calling circle, Google Voice, iPhone]
+tags: [AT&T, calling circle, Google Voice, iPhone, how-tos, hidden]
 
 license: none
 

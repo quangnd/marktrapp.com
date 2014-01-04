@@ -4,8 +4,7 @@ title: Anatomy of an Argument
 date: 2009-01-04T14:35:20-08:00
 excerpt: "Every argument can be reduced down to three different parts: any argument can be understood or defeated by identifying these parts."
 
-categories: [philosophy]
-tags: [arguments, guide, justifications]
+tags: [arguments, guide, justifications, philosophy]
 
 license: none
 

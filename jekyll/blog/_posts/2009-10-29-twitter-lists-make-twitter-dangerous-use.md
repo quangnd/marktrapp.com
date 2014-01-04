@@ -4,8 +4,7 @@ title: Twitter Lists Make Twitter Dangerous to Use
 date: 2009-10-29T11:43:08-07:00
 excerpt: Twitter implemented lists in the riskiest way possible, and using Twitter after it has been rolled out puts yourself at risk.
 
-categories: [commentary]
-tags: [categorization, lists, Robert Scoble, Twitter]
+tags: [categorization, lists, Robert Scoble, Twitter, commentary]
 
 license: none
 

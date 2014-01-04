@@ -4,8 +4,7 @@ title: Friendship in the digital world (Part 2)
 date: 2008-09-23T20:00:00-07:00
 excerpt: "Friendship differs from other relationships in one key respect: friends aren’t in it for personal gain, but to achieve something that makes each other better."
 
-categories: [philosophy]
-tags: [friendship, social networking]
+tags: [friendship, social networking, philosophy]
 
 license: none
 
