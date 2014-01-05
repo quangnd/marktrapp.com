@@ -30,15 +30,9 @@ The generated site will be contained in the `_sites` directory.
 
 ## Licenses and usage
 
-### jekyll/\_plugins/collapse\_newlines.rb
+Where applicable, all files are copyright © Mark Trapp.
 
-`collapse_newlines.rb` is copyright © 2012 [kerotaa][7] and is used with permission under the terms of the MIT license, which can be found in the `licenses/collapse_newlines.txt` file. It has been modified from its [original form][8].
-
-### Everything else
-
-Where applicable, all other files are copyright © Mark Trapp.
-
-All other files within this repository are licensed on an individual basis. Note that there are automatic limitations to copyright (called "fair use" or "fair dealing")—including, but not limited to, excerpting, commentary, and personal reproduction—that do not require a license.
+Files within this repository are licensed on an individual basis. Note that there are automatic limitations to copyright (called "fair use" or "fair dealing")—including, but not limited to, excerpting, commentary, and personal reproduction—that do not require a license.
 
 If an automatic license is granted for a specific file, the license the file uses is specified in its [front-matter][9] under the `license:` key or in its opening comment block. The full text of the licenses used can be found in the `licenses` directory in the files prefixed with `marktrapp-`.
 
@@ -50,7 +44,5 @@ Some files (e.g., the files that appear in the `_posts` directory) are not grant
 [4]: https://github.com/jekyll/jekyll "Jekyll repository"
 [5]: http://rake.rubyforge.org "RAKE - Ruby Make"
 [6]: http://npmjs.org "NPM website"
-[7]: http://kerotaa.hateblo.jp/ "kerotaa’s website"
-[8]: https://gist.github.com/kerotaa/5788650 "kerotaa’s remove-empty-lines-html.rb"
-[9]: http://jekyllrb.com/docs/frontmatter/ "Jekyll: Front-matter"
-[10]: http://marktrapp.com/contact "Contact Mark Trapp"
+[7]: http://jekyllrb.com/docs/frontmatter/ "Jekyll: Front-matter"
+[8]: http://marktrapp.com/contact "Contact Mark Trapp"
