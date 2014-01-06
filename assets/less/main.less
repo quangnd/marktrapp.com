@@ -336,6 +336,20 @@ pre {
         margin-right: @sidebar-width;
     }
 
+    > section {
+        padding-bottom: @font-size-h1;
+        border-bottom: 1px solid @color-main;
+
+        > h1 {
+            .heading(@font-size-h1);
+        }
+
+        &:last-child {
+            padding-bottom: 1em;
+            border-bottom: none;
+        }
+    }
+
     article {
         margin-bottom: 2rem;
 
@@ -344,7 +358,7 @@ pre {
         }
 
         h1 {
-            .heading(@font-size-h2);
+            .heading(@font-size-h3);
         }
     }
 }

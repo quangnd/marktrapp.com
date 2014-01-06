@@ -2,8 +2,9 @@
 
 title: What’s changed and what to expect
 date: 2014-01-04T20:40:00-08:00
-
 excerpt: Some thoughts about the changes to this blog and what will change in the future.
+
+section: Meta
 
 license: none
 

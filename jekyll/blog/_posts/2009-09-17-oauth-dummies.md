@@ -5,6 +5,7 @@ date: 2009-09-17T10:30:09-07:00
 excerpt: OAuth is a tricky beast, but once the general workflow is worked out, it’s more tedious than difficult.
 note: This article applies to OAuth 1.0 and 1.0a. Your mileage will vary when using OAuth 1.1 or 2.0.
 
+section: Programming
 tags: [OAuth, how-tos]
 
 license: none

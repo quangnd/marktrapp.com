@@ -4,6 +4,7 @@ title: Friendship in the digital world (Part 1)
 date: 2008-09-22T19:00:00-07:00
 excerpt: Friendship is a complex concept that few web applications define, leaving the users to make sense of what their relationships are in the digital world.
 
+section: Philosophy
 tags: [Facebook, friendship, social networking, philosophy]
 
 license: none

@@ -2,8 +2,9 @@
 
 title: The end of an era
 date: 2014-01-01T19:00:00-08:00
-
 excerpt: On January 31st, my long-term contract with Bear Brook and Brandopoly will end. After 7 years, I’m officially a free agent.
+
+section: Meta
 
 license: none
 

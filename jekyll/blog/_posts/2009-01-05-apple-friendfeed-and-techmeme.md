@@ -4,6 +4,7 @@ title: On Apple, FriendFeed, and Techmeme
 date: 2009-01-05T16:06:54-08:00
 excerpt: When discussing about a subject that you’re passionate about, it’s important to take a step back and figure out if you’re providing a reasonable argument about it.
 
+section: Social Media
 tags: [Apple, argumentation, FriendFeed, Gabe Rivera, Techmeme, commentary]
 
 license: none

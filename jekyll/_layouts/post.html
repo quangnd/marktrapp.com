@@ -87,6 +87,11 @@
                         <dl>
                             <dt>Posted on</dt>
                             <dd><time datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time></dd>
+                            {% if page.section %}
+                            <dt>Section</dt>
+                            <dd><a href="/{{ page.url | remove_first:'/' | split: '/' | first }}/#{{ page.section | escape }}">{{ page.section }}</a></dd>
+                            {% endif %}
+                            <dd></dd>
 
                             <dd><a class="task" title="View page changes" href="{{ site.prefix.diff }}{{ page.path }}" rel="nofollow">View page changes</a></dd>
                             <dd><a class="task" title="Suggest an edit" href="{{ site.prefix.edit }}{{ page.path }}" rel="nofollow">Suggest an edit</a></dd>

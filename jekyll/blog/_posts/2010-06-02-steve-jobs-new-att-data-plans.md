@@ -4,6 +4,7 @@ title: Steve Jobs on the new AT&T data plans
 date: 2010-06-02T15:07:38-07:00
 excerpt: Steve Jobs says, “I think its going to work out just fine for almost all customers. Try it.”
 
+section: Tech Business
 tags: [Apple, AT&T, Steve Jobs, commentary]
 
 license: none
