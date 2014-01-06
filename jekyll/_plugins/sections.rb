@@ -17,7 +17,14 @@ module Jekyll
         site.posts.each do |post|
           if post.data.has_key? SECTION_KEY
             section = post.data.fetch(SECTION_KEY)
-            unless site.config['section']['exclude'].include? section
+
+            if site.config['section'] && site.config['section']['exclude']
+              exclude_categories = site.config['section']['exclude']
+            else
+              exclude_categories = []
+            end
+
+            unless exclude_categories.include? section
               hash[section] << post
             end
           end
