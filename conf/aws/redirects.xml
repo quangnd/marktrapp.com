@@ -40,4 +40,20 @@ License: none
             <ReplaceKeyWith>blog/</ReplaceKeyWith>
         </Redirect>
     </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>taxonomy/term/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>blog/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>author/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>about/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
 </RoutingRules>
