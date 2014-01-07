@@ -21,9 +21,7 @@ a {
 }
 
 blockquote {
-    border-left: 0.3rem solid @color-main;
-    border-radius: 0.3rem;
-    padding-left: 0.7rem;
+    .blockquote();
 }
 
 blockquote, dd, dl, p {
@@ -276,6 +274,12 @@ main {
             }
         }
 
+        pre {
+            .blockquote();
+
+            font-size: 0.9rem;
+        }
+
         .content {
             .main-content();
 
@@ -310,8 +314,9 @@ ol, ul {
     padding-left: 1rem;
 }
 
-pre {
+pre, code {
     overflow-x: scroll;
+    white-space: pre;
 }
 
 .front-page {
