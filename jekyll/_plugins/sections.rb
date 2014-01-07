@@ -23,7 +23,7 @@ module Jekyll
       end
 
       ##
-      # Generates a hash using a key from a post's front matter.
+      # Generates a hash using a key from a post's front-matter.
       #
       def post_key_hash(site, post_key, exclude)
         # Build a hash map based on the specified post attribute ( post attr =>
