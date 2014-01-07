@@ -1,6 +1,8 @@
 #
 # Adds a site.sections variable.
 #
+# See http://marktrapp.com/blog/2014/01/06/group-posts-jekyll-front-matter/
+#
 # Author:: Mark Trapp
 # Copyright: Copyright (c) 2014 Mark Trapp
 # License:: MIT
