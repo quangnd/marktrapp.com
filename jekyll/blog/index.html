@@ -15,11 +15,13 @@ layout: default
             {{ post.excerpt }}
         </article>
     </section>
-    {% for section in site.sections | sort %}
+    {% capture section_names %}{% for section in site.sections %}{{ section[0] }}||{% endfor %}{% endcapture %}
+    {% assign section_names_sorted  = section_names | split: '||' | sort %}
+    {% for section_name in section_names_sorted %}
     <section>
-        <h1 id="{{ section[0] | escape }}">{{ section[0] }}</h1>
+        <h1 id="{{ section_name | escape }}">{{ section_name }}</h1>
 
-        {% for post in section[1] %}
+        {% for post in site.sections[section_name] %}
         {% if post.categories contains 'blog' %}
         {% unless post.tags contains 'hidden' %}
         <article>
