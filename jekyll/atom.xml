@@ -27,8 +27,8 @@ license: MIT
         <id>{{ site.uri }}{{ post.url }}</id>
         <rights>{{ site.copyright | xml_escape }}</rights>
         <link rel="alternate" href="{{ site.uri }}{{ post.url }}" title="{{ post.title | xml_escape }}" />
-        <summary type="html">{{ post.excerpt | xml_escape }}</summary>
-        <content type="html">{{ post.content | xml_escape | strip_newlines }}</content>
+        <summary type="html"><![CDATA[{{ post.excerpt }}]]></summary>
+        <content type="html"><![CDATA[{{ post.content | indent: 8 }}]]></content>
     </entry>
     {% endunless %}
     {% endfor %}
