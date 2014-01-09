@@ -183,13 +183,15 @@ section:
 ```
 
 Any post tagged with `section: Philosophy` won’t appear in `site.sections`.
-
-I may release a general-purpose version of this code as a Ruby gem like I did with my other Jekyll plugins, but for now, you can find the code I use on marktrapp.com [on GitHub][6]. The code is MIT licensed.
 {% endraw %}
+
+## Plugin
+
+I created a general-purpose plugin that allows posts to be grouped on any front-matter key, available as a gem for easy inclusion in an existing Jekyll website. You can find more information on [its project page][6].
 
 [1]: http://jekyllrb.com "Jekyll website"
 [2]: http://jekyllrb.com/docs/frontmatter/ "Jekyll documentation on front-matter"
 [3]: https://github.com/jekyll/jekyll/blob/92064134d67eb17392a45e4fc82d83423a4b8ff4/lib/jekyll/site.rb#L309 "site_payload within site.rb"
 [4]: http://pages.github.com "GitHub Pages website"
 [5]: https://github.com/jekyll/jekyll/blob/92064134d67eb17392a45e4fc82d83423a4b8ff4/lib/jekyll/site.rb#L279 "post_attr_hash within site.rb"
-[6]: https://github.com/itafroma/marktrapp.com/blob/production/jekyll/_plugins/sections.rb "sections.rb within the marktrapp.com repository"
+[6]: http://marktrapp.com/projects/jekyll-post-groups/ "Jekyll Post Group Generator project page"
