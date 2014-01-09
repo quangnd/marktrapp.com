@@ -23,6 +23,10 @@ archive:
     layout: archive
     exclude: ['projects', 'hidden', 'pages']
 
+post_groups:
+    - key: section
+      key_plural: sections
+
 redcarpet:
     extensions: ['highlight', 'footnotes']
 

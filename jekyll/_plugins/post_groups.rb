@@ -1,5 +1,5 @@
 #
-# Adds a site.sections variable.
+# Creates site variables that group posts by arbitrary keys.
 #
 # See http://marktrapp.com/blog/2014/01/06/group-posts-jekyll-front-matter/
 #
@@ -9,17 +9,14 @@
 
 module Jekyll
   module Itafroma
-    class SectionGenerator < Jekyll::Generator
-      SECTION_KEY = 'section'
-      SECTION_KEY_PLURAL = 'sections'
-
+    class PostGroupsGenerator < Jekyll::Generator
       def generate(site)
-        if site.config[SECTION_KEY] && site.config[SECTION_KEY]['exclude']
-          exclude = site.config[SECTION_KEY]['exclude']
-        else
-          exclude = []
+        site.config['post_groups'].each do |group|
+          key = group['key']
+          key_plural = group['key_plural'] || group['key']
+          exclude = group['exclude'] || []
+          site.config[key_plural] = post_key_hash(site, key, exclude)
         end
-        site.config[SECTION_KEY_PLURAL] = post_key_hash(site, SECTION_KEY, exclude)
       end
 
       ##
@@ -31,9 +28,9 @@ module Jekyll
         hash = Hash.new { |hsh, key| hsh[key] = Array.new }
         site.posts.each do |p|
           # Skip post if it doesn't have the correct key
-          next unless p.data.has_key? post_key
+          next unless p.data.key? post_key
 
-          # Load the value for the key and check to see if it should be excluded
+          # Load the value for the key and check if it should be excluded
           t = p.data.fetch(post_key)
           next if exclude.include? t
 
