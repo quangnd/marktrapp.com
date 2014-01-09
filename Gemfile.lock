@@ -32,6 +32,7 @@ GEM
     jekyll-itafroma-archive (0.1.1)
     jekyll-itafroma-collapse_newlines (0.1.0)
     jekyll-itafroma-indent_filter (0.1.0)
+    jekyll-itafroma-post_groups (0.1.0)
     liquid (2.5.4)
     listen (1.3.1)
       rb-fsevent (>= 0.9.3)
@@ -65,6 +66,7 @@ DEPENDENCIES
   jekyll-itafroma-archive
   jekyll-itafroma-collapse_newlines
   jekyll-itafroma-indent_filter
+  jekyll-itafroma-post_groups
   rake
   redcarpet!
   rouge

@@ -17,6 +17,7 @@ gems:
     - 'jekyll/itafroma/archive'
     - 'jekyll/itafroma/collapse_newlines'
     - 'jekyll/itafroma/indent_filter'
+    - 'jekyll/itafroma/post_groups'
 
 archive:
     path: /blog
