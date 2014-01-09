@@ -15,7 +15,7 @@ layout: default
             {{ post.excerpt }}
         </article>
     </section>
-    {% capture section_names %}{% for section in site.sections %}{{ section[0] }}||{% endfor %}{% endcapture %}
+    {% capture section_names %}{% for section in site.sections %}{{ section | first }}||{% endfor %}{% endcapture %}
     {% assign section_names_sorted  = section_names | split: '||' | sort %}
     {% for section_name in section_names_sorted %}
     <section>
