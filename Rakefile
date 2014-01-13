@@ -33,3 +33,29 @@ task :build do |t|
   cp_r 'assets/images', "#{target}/assets"
   rm_rf prep
 end
+
+desc 'Replace "lazy" Markdown references with proper versions'
+task :refs do |t|
+  FileList.new('jekyll/**/*.md').each do |path|
+    File.open(path, 'r+') do |file|
+      contents = file.read
+
+      # Search file contents for Markdown references containing asterisks
+      #  instead of numbers and replace them with numbers in the correct order.
+      #  See http://brettterpstra.com/2013/10/19/lazy-markdown-reference-links/
+      #  Credit to Glenn Fleishman and Brett Terpstra for the idea and
+      #  implementation.
+      counter = 0
+      while contents =~ /(\[[^\]]+\]\s*\[)\*(\].*?^\[)\*\]\:/m
+        contents.sub!(/(\[[^\]]+\]\s*\[)\*(\].*?^\[)\*\]\:/m) do
+          counter += 1
+          Regexp.last_match[1] + counter.to_s + Regexp.last_match[2] + counter.to_s + ']:'
+        end
+      end
+
+      file.pos = 0
+      file.print contents
+      file.truncate(file.pos)
+    end
+  end
+end
