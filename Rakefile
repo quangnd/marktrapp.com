@@ -13,16 +13,19 @@ end
 
 desc "Regenerate the website files and place them into _site."
 task :build do |t|
-  sh "rm -rf ./_site"
+  target = "_site"
+  prep = "_prep"
+
+  rm_rf target
   sh "bundle exec jekyll build"
-  sh "mkdir -p ./_site/assets/css ./_site/assets/images ./_site/assets/fonts ./_prep"
+  mkdir_p ["#{target}/assets/css", "#{target}/assets/images", "#{target}/assets/fonts", prep]
 
   # group-css-media-queries requires uncompressed CSS, so run lessc again after
   #   group-css-media-queries to compress it.
-  sh "./node_modules/.bin/lessc --no-color ./assets/less/main.less > ./_prep/main.css"
-  sh "./node_modules/.bin/group-css-media-queries ./_prep/main.css ./_prep/main.css"
-  sh "./node_modules/.bin/lessc --no-color --compress ./_prep/main.css > ./_site/assets/css/main.css"
+  sh "./node_modules/.bin/lessc --no-color assets/less/main.less > #{prep}/main.css"
+  sh "./node_modules/.bin/group-css-media-queries #{prep}/main.css #{prep}/main.css"
+  sh "./node_modules/.bin/lessc --no-color --compress #{prep}/main.css > #{target}/assets/css/main.css"
 
-  sh "cp ./assets/images/* ./_site/assets/images"
-  sh "rm -rf ./_prep"
+  cp_r "assets/images", "#{target}/assets"
+  rm_rf prep
 end
