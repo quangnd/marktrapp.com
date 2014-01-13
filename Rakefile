@@ -5,11 +5,13 @@
 # Copyright: Copyright (c) 2013 Mark Trapp
 # License:: MIT
 
+desc "Install the necessary dependencies for building the website."
 task :install do |t|
   sh "npm install"
   sh "./node_modules/.bin/bower install"
 end
 
+desc "Regenerate the website files and place them into _site."
 task :build do |t|
   sh "rm -rf ./_site"
   sh "bundle exec jekyll build"
