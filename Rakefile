@@ -18,7 +18,7 @@ task :build do |t|
 
   rm_rf target
   sh "bundle exec jekyll build"
-  mkdir_p ["#{target}/assets/css", "#{target}/assets/images", "#{target}/assets/fonts", prep]
+  mkdir_p ["#{target}/assets/css", "#{target}/assets/images", prep]
 
   # group-css-media-queries requires uncompressed CSS, so run lessc again after
   #   group-css-media-queries to compress it.
