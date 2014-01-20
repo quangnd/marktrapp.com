@@ -10,7 +10,7 @@ tags: [Automator, conversion, MIT license]
 
 license: MIT
 
-layout: post
+layout: project
 
 downloads:
     - title: Save For Web

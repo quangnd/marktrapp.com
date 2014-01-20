@@ -10,7 +10,7 @@ tags: [Jekyll, Ruby, MIT]
 
 license: MIT
 
-layout: post
+layout: project
 
 repository: https://github.com/itafroma/jekyll-post_groups
 

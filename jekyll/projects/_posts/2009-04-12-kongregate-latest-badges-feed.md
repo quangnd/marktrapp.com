@@ -11,7 +11,7 @@ tags: [Kongregate, Feed43, RSS]
 
 license: MIT
 
-layout: post
+layout: project
 
 ---
 

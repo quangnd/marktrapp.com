@@ -36,4 +36,28 @@ layout: article
             <dd><a class="task" title="Suggest an edit" href="{{ site.prefix.edit }}{{ page.path }}" rel="nofollow">Suggest an edit</a></dd>
         </dl>
     </section>
+    <section class="metadata-project">
+        <dl>
+            {% if page.downloads %}
+            <dt>Downloads</dt>
+            <dd>
+            {% for download in page.downloads %}
+                <a class="task" title="Download {{ download.title }}" href="{{ site.prefix.file }}{{ download.file }}">{{ download.title }}</a>
+            {% endfor %}
+            </dd>
+            {% endif %}
+
+            <dt>License</dt>
+            {% if page.license == 'none' %}
+            <dd>none, practice <a title="Wikipedia article on fair use" href="http://wikipedia.org/wiki/Fair_use">fair use</a></dd>
+            {% else %}
+            <dd>{{ page.license }}</dd>
+            {% endif %}
+
+            {% if page.repository %}
+            <dd><a class="task" title="View source" href="{{ page.repository }}" rel="nofollow">View source</a></dd>
+            {% endif %}
+
+        </dl>
+    </section>
 </footer>

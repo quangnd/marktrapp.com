@@ -10,7 +10,7 @@ tags: [Automator, MIT license]
 
 license: MIT
 
-layout: post
+layout: project
 
 downloads:
     - title: Dated Notes

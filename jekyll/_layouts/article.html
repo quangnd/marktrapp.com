@@ -1,0 +1,72 @@
+---
+# license: MIT
+---
+<!DOCTYPE html>
+<html>
+    <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="msapplication-TileImage" content="/assets/iamges/logo-green-144-alpha.png">
+        <meta name="msapplication-TileColor" content="#DFD9C4">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="{{ site.author.twitter }}">
+        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="twitter:description" content="{{ page.excerpt | truncate: 200 }}">
+        <meta name="twitter:creator" content="{{ site.author.twitter }}">
+        <meta name="twitter:image:src" content="{{ site.uri }}/assets/images/logo-green-144.png">
+        <meta name="twitter:domain" content="{{ site.domain }}">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="{{ site.uri }}{{ page.url }}/">
+        <meta property="og:image" content="{{ site.uri }}/assets/images/logo-green-144.png">
+        <meta property="og:description" content="{{ page.excerpt }}">
+        <meta property="og:site_name" content="{{ site.name }}">
+        <meta property="article:published_time" content="{{ page.date }}">
+        {% if page.path == 'index.html' %}
+        <title>{{ site.name }} | {{ site.tagline}}</title>
+        {% else %}
+        <title>{{ page.title }} | {{ site.name }}</title>
+        {% endif %}
+        <link rel="canonical" href="{{ site.uri }}{{ page.url }}/">
+        <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Blog and Projects" href="/atom.xml">
+        <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="icon" type="image/png" href="/assets/images/logo-green-32.png">
+        <link rel="apple-touch-icon-precomposed" href="/assets/images/logo-green-60.png">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/images/logo-green-76.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/images/logo-green-120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/images/logo-green-152.png">
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', '{{ site.googleanalytics.account }}', '{{ site.googleanalytics.domain }}');
+          ga('send', 'pageview');
+        </script>
+    </head>
+    <body>
+        <header>
+            <h1><a href="/">{{ site.name }}</a></h1>
+            <nav>
+                <h2>Main site navigation</h2>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/projects">Projects</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <article>
+                {{ content | indent: 16 }}
+            </article>
+        </main>
+        <footer>
+            <p>{{ site.copyright }} <a href="/atom.xml">Atom feed</a></p>
+        </footer>
+    </body>
+</html>

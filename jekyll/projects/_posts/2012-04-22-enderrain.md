@@ -11,7 +11,7 @@ tags: [Endermen, Minecraft]
 
 license: none
 
-layout: post
+layout: project
 
 downloads:
     - title: EnderRain Standard 1.2.5
