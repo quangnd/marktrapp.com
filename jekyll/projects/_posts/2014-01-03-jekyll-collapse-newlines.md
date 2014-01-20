@@ -4,7 +4,7 @@ title: Jekyll Newline Collapse
 date: 2014-01-03T22:20:00-08:00
 excerpt: A Jekyll plugin to strip extraneous whitespace.
 
-permalink: /projects/jekyll-collapse_newlines
+permalink: /projects/jekyll-collapse-newlines
 
 tags: [Jekyll, Ruby, MIT]
 
