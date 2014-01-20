@@ -103,4 +103,46 @@ License: none
             <ReplaceKeyWith>itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2010-06-24-tom-tom-car-kit-doesnt-work-iphone-4-heres-fix.md</ReplaceKeyWith>
         </Redirect>
     </RoutingRule>
+
+    <!-- Posts with adjusted permalinks -->
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>projects/jekyll-collapse_newlines</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>projects/jekyll-collapse-newlines/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2014/01/19/lisp-with-os-x-sublime-text</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>blog/2014/01/20/lisp-with-os-x-sublime-text/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2014/01/06/group-posts-jekyll-front-matter</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>blog/2014/01/07/group-posts-jekyll-front-matter/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2014/01/05/lord-of-the-rings-true-hero</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>blog/2014/01/06/lord-of-the-rings-true-hero/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2014/01/04/whats-changed</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <ReplaceKeyWith>blog/2014/01/05/whats-changed/</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
 </RoutingRules>
