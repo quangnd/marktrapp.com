@@ -56,4 +56,51 @@ License: none
             <ReplaceKeyWith>about/</ReplaceKeyWith>
         </Redirect>
     </RoutingRule>
+
+    <!-- Posts removed from site -->
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2009/10/12/dirty-little-google-voice-secret/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <HostName>github.com</HostName>
+            <ReplaceKeyWith>itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-10-12-dirty-little-google-voice-secret.md</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2008/09/24/college-mark/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <HostName>github.com</HostName>
+            <ReplaceKeyWith>itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2008-09-24-college-mark.md</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2009/01/08/twitter-vs-business-business-model/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <HostName>github.com</HostName>
+            <ReplaceKeyWith>itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-01-08-twitter-vs-business-business-model.md</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2009/01/16/buddyfeed-native-friendfeed-client/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <HostName>github.com</HostName>
+            <ReplaceKeyWith>itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-01-16-buddyfeed-native-friendfeed-client.md</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
+    <RoutingRule>
+        <Condition>
+            <KeyPrefixEquals>blog/2010/06/24/tom-tom-car-kit-doesnt-work-iphone-4-heres-fix/</KeyPrefixEquals>
+        </Condition>
+        <Redirect>
+            <HostName>github.com</HostName>
+            <ReplaceKeyWith>itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2010-06-24-tom-tom-car-kit-doesnt-work-iphone-4-heres-fix.md</ReplaceKeyWith>
+        </Redirect>
+    </RoutingRule>
 </RoutingRules>
