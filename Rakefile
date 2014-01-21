@@ -38,6 +38,12 @@ task :build => :prepare do
   cp_r "#{prep}/.", "#{target}/assets"
 end
 
+desc 'Regenerate the website files (with drafts) and place them into _site.'
+task :build_drafts => :prepare do
+  sh 'bundle exec jekyll build --drafts'
+  cp_r "#{prep}/.", "#{target}/assets"
+end
+
 desc 'Clean up prepared and built files.'
 task :clean do
   rm_rf [prep, target]
