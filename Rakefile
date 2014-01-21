@@ -6,6 +6,8 @@
 # License:: MIT
 
 npm_bin = `npm bin`.chomp
+prep = '_prep'
+target = '_site'
 
 desc 'Install the necessary dependencies for building the website.'
 task :install do |t|
@@ -13,25 +15,32 @@ task :install do |t|
   sh "#{npm_bin}/bower install"
 end
 
-desc 'Regenerate the website files and place them into _site.'
-task :build do |t|
-  target = '_site'
-  prep = '_prep'
-
-  rm_rf target
-  sh 'bundle exec jekyll build'
-  mkdir_p ["#{target}/assets/css", "#{target}/assets/images", prep]
+desc 'Prepare the website assets.'
+task :prepare => :clean do
+  mkdir_p ["#{prep}/css", "#{prep}/images"]
 
   lessc = "#{npm_bin}/lessc --no-color"
 
   # group-css-media-queries requires uncompressed CSS, so run lessc again after
   #   group-css-media-queries to compress it.
-  sh "#{lessc} assets/less/main.less > #{prep}/main.css"
-  sh "#{npm_bin}/group-css-media-queries #{prep}/main.css #{prep}/main.css"
-  sh "#{lessc} --compress #{prep}/main.css > #{target}/assets/css/main.css"
+  css_file = "#{prep}/css/main.css"
+  sh "#{lessc} assets/less/main.less > #{css_file}.pre"
+  sh "#{npm_bin}/group-css-media-queries #{css_file}.pre #{css_file}.pre"
+  sh "#{lessc} --compress #{css_file}.pre > #{css_file}"
+  rm "#{css_file}.pre"
 
-  cp_r 'assets/images', "#{target}/assets"
-  rm_rf prep
+  cp_r 'assets/images', prep
+end
+
+desc 'Regenerate the website files and place them into _site.'
+task :build => :prepare do
+  sh 'bundle exec jekyll build'
+  cp_r "#{prep}/.", "#{target}/assets"
+end
+
+desc 'Clean up prepared and built files.'
+task :clean do
+  rm_rf [prep, target]
 end
 
 desc 'Replace "lazy" Markdown references with proper versions'
