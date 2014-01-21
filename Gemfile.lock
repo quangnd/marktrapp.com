@@ -1,13 +1,13 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 60a231f16d6c9b8832a6e3798d6b8119d5a59e7a
+  revision: d37ea10cf8e61054bcd03c137497fb8ccd044706
   specs:
     jekyll (1.4.0)
       classifier (~> 1.3)
       colorator (~> 0.1)
-      liquid (~> 2.5.2)
+      liquid (~> 2.5.5)
       listen (~> 1.3)
-      maruku (~> 0.7.0)
+      maruku (= 0.7.0)
       mercenary (~> 0.2.0)
       pygments.rb (~> 0.5.0)
       redcarpet (~> 3.0)
@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: https://github.com/vmg/redcarpet.git
-  revision: 84d610317182be56e1f4bc74992c6cd1ff1fa1d7
+  revision: 0c4cd0e7ea5f7f44e2953f3013fdf751af91162d
   specs:
     redcarpet (3.0.0)
 
@@ -29,11 +29,11 @@ GEM
     colorator (0.1)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
-    jekyll-itafroma-archive (0.1.1)
+    jekyll-itafroma-archive (0.1.2)
     jekyll-itafroma-collapse_newlines (0.1.0)
     jekyll-itafroma-indent_filter (0.1.0)
     jekyll-itafroma-post_groups (0.1.0)
-    liquid (2.5.4)
+    liquid (2.5.5)
     listen (1.3.1)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
@@ -52,8 +52,8 @@ GEM
       ffi (>= 0.5.0)
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
-    rouge (1.3.1)
-    safe_yaml (1.0.0)
+    rouge (1.3.2)
+    safe_yaml (1.0.1)
     toml (0.1.0)
       parslet (~> 1.5.0)
     yajl-ruby (1.1.0)
