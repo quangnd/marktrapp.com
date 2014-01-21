@@ -52,7 +52,7 @@ end
 desc 'Replace "lazy" Markdown references with proper versions'
 task :refs do |t|
   FileList.new('jekyll/**/*.md').each do |path|
-    File.open(path, 'r+') do |file|
+    File.open(path, 'r+:utf-8') do |file|
       contents = file.read
 
       # Search file contents for Markdown references containing asterisks
