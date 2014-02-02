@@ -11,7 +11,7 @@ lsi: false
 permalink: /blog/:year/:month/:day/:title
 
 encoding: UTF-8
-markdown: redcarpet
+markdown: ItafromaRedcarpetExtra
 highlighter: nil
 gems:
     - 'jekyll/itafroma/archive'

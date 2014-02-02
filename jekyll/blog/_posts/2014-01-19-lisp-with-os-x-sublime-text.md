@@ -96,6 +96,10 @@ Once you have a working environment, you’re free to play around with CL. I’d
 [^3]: More information on configuring ST3 key bindings can be found in its [unoffical documentation][11].
 [^4]: More information on configuring ST3 build systems can also be found in its [unofficial documentation][12].
 
+*[CL]: Common Lisp
+*[CLT]: Command Line Tools
+*[ST3]: Sublime Text 3
+
 [1]: http://www.sublimetext.com "Sublime Text website"
 [2]: http://brew.sh "Homebrew website"
 [3]: http://www.sbcl.org "Steel Bank Common Lisp website"
