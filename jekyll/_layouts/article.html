@@ -13,7 +13,7 @@
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="{{ site.author.twitter }}">
         <meta name="twitter:title" content="{{ page.title }}">
-        <meta name="twitter:description" content="{{ page.excerpt | truncate: 200 }}">
+        <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 200 }}">
         <meta name="twitter:creator" content="{{ site.author.twitter }}">
         <meta name="twitter:image:src" content="{{ site.uri }}/assets/images/logo-green-144.png">
         <meta name="twitter:domain" content="{{ site.domain }}">
@@ -21,7 +21,7 @@
         <meta property="og:type" content="article">
         <meta property="og:url" content="{{ site.uri }}{{ page.url }}/">
         <meta property="og:image" content="{{ site.uri }}/assets/images/logo-green-144.png">
-        <meta property="og:description" content="{{ page.excerpt }}">
+        <meta property="og:description" content="{{ page.excerpt | strip_html }}">
         <meta property="og:site_name" content="{{ site.name }}">
         <meta property="article:published_time" content="{{ page.date }}">
         {% if page.path == 'index.html' %}
