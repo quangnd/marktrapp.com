@@ -2,7 +2,7 @@
 
 title: Jekyll Post Group Generator
 date: 2014-01-08T22:15:00-08:00
-excerpt: Jekyll plugin to group posts by arbitrary front-matter keys.
+excerpt: A Jekyll plugin to group posts by arbitrary front-matter keys.
 
 permalink: /projects/jekyll-post-groups
 
