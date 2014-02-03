@@ -15,7 +15,7 @@ license: MIT
     <id>{{ site.uri }}/</id>
     <rights>{{ site.copyright | xml_escape }}</rights>
     {% for post in site.posts %}
-    {% unless post.categories contains 'pages' or post.tags contains 'hidden' %}
+    {% if post.categories contains 'blog' or post.categories contains 'projects' %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
@@ -30,6 +30,6 @@ license: MIT
         <summary type="html"><![CDATA[{{ post.excerpt }}]]></summary>
         <content type="html"><![CDATA[{{ post.content | indent: 8 }}]]></content>
     </entry>
-    {% endunless %}
+    {% endif %}
     {% endfor %}
 </feed>

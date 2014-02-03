@@ -5,8 +5,9 @@ date: 2008-09-24T17:34:19-07:00
 excerpt: Mark. Blog. is going back to school.
 note: This was a dumb idea.
 
+published: false
 section: Meta
-tags: [tracks, office hours, philosophy, hidden]
+tags: [tracks, office hours, philosophy]
 
 license: none
 

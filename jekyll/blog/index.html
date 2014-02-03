@@ -20,15 +20,12 @@ layout: default
     {% for section_name in section_names_sorted %}
     <section>
         <h1 id="{{ section_name | escape }}">{{ section_name }}</h1>
-
         {% for post in site.sections[section_name] %}
         {% if post.categories contains 'blog' %}
-        {% unless post.tags contains 'hidden' %}
         <article>
             <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
             {{ post.excerpt }}
         </article>
-        {% endunless %}
         {% endif %}
         {% endfor %}
     </section>
