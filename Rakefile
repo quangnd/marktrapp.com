@@ -17,7 +17,7 @@ end
 
 desc 'Prepare the website assets.'
 task :prepare => :clean do
-  mkdir_p ["#{prep}/css", "#{prep}/images"]
+  mkdir_p ["#{prep}/css", "#{prep}/images", "#{prep}/js"]
 
   lessc = "#{npm_bin}/lessc --no-color"
 
