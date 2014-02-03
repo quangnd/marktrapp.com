@@ -15,7 +15,8 @@ license: MIT
     <id>{{ site.uri }}/</id>
     <rights>{{ site.copyright | xml_escape }}</rights>
     {% for post in site.posts %}
-    {% if post.categories contains 'blog' or post.categories contains 'projects' %}
+    {% assign feed_categories = post.categories | intersect: site.feed.categories %}
+    {% if feed_categories != empty %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
         <updated>{{ post.date | date_to_xmlschema }}</updated>

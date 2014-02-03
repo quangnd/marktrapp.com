@@ -39,6 +39,9 @@ author:
     twitter: "@itafroma"
 copyright: Copyright © Mark Trapp. All rights reserved.
 
+feed:
+    categories: ['blog', 'projects']
+
 prefix:
     diff: https://github.com/itafroma/marktrapp.com/commits/production/jekyll/
     edit: https://github.com/itafroma/marktrapp.com/edit/production/jekyll/
