@@ -9,7 +9,7 @@ license: none
 layout: wormtrails
 
 ---
-Original blog post: “[Charting US city and state growth over time][1]”
+Original blog post: “[Visualizing US city and state growth with Wormtrails][1]”
 
 This graph is quite large: scroll down and to the right to see it in its entirety.
 
@@ -240,4 +240,4 @@ This graph is quite large: scroll down and to the right to see it in its entiret
     <area target="_new" shape="rect" onmouseover="updateBanner('New York (pop. 2,977,000)', '#F42910')" coords="3025,25,3225,918">
 </map>
 
-[1]: http://marktrapp.com/blog/2014/02/03/american-population-growth/ "Charting US city and state growth over time"
+[1]: http://marktrapp.com/blog/2014/02/03/american-population-growth/ "Visualizing US city and state growth with Wormtrails"

@@ -19,7 +19,7 @@ repository: https://github.com/itafroma/wormtrails-csv
 
 ## Demonstration
 
-Examples of *Wormtrails CSV*’s output can be found in my blog post, “[Charting US city and state growth over time][4]“. Other examples of “wormtrails”-style streamgraphs can be found on Zach Beane‘s [movie box office charts microsite][2].
+Examples of *Wormtrails CSV*’s output can be found in my blog post, “[Visualizing US city and state growth with Wormtrails][4]“. Other examples of “wormtrails”-style streamgraphs can be found on Zach Beane‘s [movie box office charts microsite][2].
 
 ## Installation
 
@@ -78,7 +78,7 @@ All other files copyright © 2014 Mark Trapp where applicable. They are licensed
 [1]: http://www.xach.com "Zach beane’s website"
 [2]: http://www.xach.com/moviecharts/ "Movie box office charts"
 [3]: https://github.com/xach/wormtrails "Wormtrails repository on GitHub"
-[4]: http://marktrapp.com/2014/02/01/american-population-growth/ "Charting US city and state growth over time"
+[4]: http://marktrapp.com/2014/02/01/american-population-growth/ "Visualizing US city and state growth with Wormtrails"
 [5]: http://quicklisp.org/ "Quicklisp website"
 [6]: http://common-lisp.net/project/asdf/ "ASDF website"
 [7]: http://marktrapp.com/blog/2014/01/20/lisp-with-os-x-sublime-text/ "Setting up a Common Lisp environment on OS X with Sublime Text 3"

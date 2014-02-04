@@ -1,6 +1,6 @@
 ---
 
-title: Visualizing US city and state growth over time with Wormtrails
+title: Visualizing US city and state growth with Wormtrails
 excerpt: A few thoughts and observations using the Wormtrails library to visualize US census data.
 note: The full-size versions of the graphs in this blog post are gigantic and very mobile unfriendly. You’ve been warned!
 
