@@ -13,9 +13,9 @@ layout: post
 
 ---
 
-A couple of weeks ago, [Kevin Fox][*] tweeted a link to Peakbagger.com’s “[Historical Metropolitan Populations of the United States][*]” and asked [if there was a way to improve it][*]. I immediately thought of [Zach Beane][*]’s [movie box office streamgraphs][*] that went viral a couple of years ago. Fortunately, Beane open-sourced the library used to create them, [*Wormtrails*][*]. Less fortunately for me, it was written in Common Lisp, a language I haven’t used in almost a decade.
+A couple of weeks ago, [Kevin Fox][1] tweeted a link to [Peakbagger.com][2]’s “[Historical Metropolitan Populations of the United States][3]” and asked [if there was a way to improve it][4]. I immediately thought of [Zach Beane][5]’s [movie box office streamgraphs][6] that went viral a couple of years ago. Fortunately, Beane open-sourced the library used to create them, [*Wormtrails*][7]. Less fortunately for me, it was written in Common Lisp, a language I haven’t used in almost a decade.
 
-But after a few hours of refamiliarization, I was able to cobble together a wrapper library, which I uncreatively call [*Wormtrails CSV*][*], that takes a CSV file as input and outputs a chart that resembles Beane’s movie box office graphs.
+But after a few hours of refamiliarization, I was able to cobble together a wrapper library, which I uncreatively call [*Wormtrails CSV*][8], that takes a CSV file as input and outputs a chart that resembles Beane’s movie box office graphs.
 
 ## State census data
 
@@ -98,10 +98,11 @@ One last example: what *would* happen if the scale was increased to allow the ea
 
 Totally unreadable, but hilarious.
 
-[*]: http://fury.com "Kevin Fox’s website"
-[*]: http://www.peakbagger.com/pbgeog/histmetropop.aspx "Historical Metropolitan Populations of the United States"
-[*]: https://twitter.com/kfury/status/424368704948686848 "Kevin Fox’s tweet about Peakbagger.com’s charts"
-[*]: http://xach.com "Zach Beane’s website"
-[*]: http://www.xach.com/moviecharts/ "Movie box office charts"
-[*]: https://github.com/xach/wormtrails "Wormtrails repository on GitHub"
-[*]: http://marktrapp.com/projects/wormtrails-csv/ "Wormtrails CSV project page"
+[1]: http://fury.com "Kevin Fox’s website"
+[2]: http://peakbagger.com
+[3]: http://www.peakbagger.com/pbgeog/histmetropop.aspx "Historical Metropolitan Populations of the United States"
+[4]: https://twitter.com/kfury/status/424368704948686848 "Kevin Fox’s tweet about Peakbagger.com’s charts"
+[5]: http://xach.com "Zach Beane’s website"
+[6]: http://www.xach.com/moviecharts/ "Movie box office charts"
+[7]: https://github.com/xach/wormtrails "Wormtrails repository on GitHub"
+[8]: http://marktrapp.com/projects/wormtrails-csv/ "Wormtrails CSV project page"
