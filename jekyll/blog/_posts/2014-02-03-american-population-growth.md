@@ -28,7 +28,7 @@ The first test of this new library was a relatively simple one: using decennial 
 
 With this example, you can see some obvious properties like the gradual population expansion over time and New York’s relative population dominance since the early 19th century. There is one interesting feature: Georgia seemed to be destined to be in the bottom tier when compared to the other original 13 states, but its fortune did a 180 in the 1970s, overtaking New Jersey in the last census to become the 3rd most populous state of the original 13.
 
-Another interesting feature is the sharp drop in New Jersey’s ranking, which leads to an important caveat with Wormtrails—style graphs. Even though they have a superficial resemblance to a line graph that tracks absolute numbers, the position of a particular “worm” at any point along the x-axis merely denotes its ranking amongst the other “worms” at the same point. New Jersey did not suddenly have a population drop-off between 2000 and 2010: in fact, its population grew. It’s merely that the populations of Georgia and North Carolina grew faster, leading to their populations being higher than New Jersey’s in 2010 but not in 2000.
+Another interesting feature is the sharp drop in New Jersey’s ranking, which leads to an important caveat with *Wormtrails*-style graphs. Even though they have a superficial resemblance to a line graph that tracks absolute numbers, the position of a particular “worm” at any point along the x-axis merely denotes its ranking amongst the other “worms” at the same point. New Jersey did not suddenly have a population drop-off between 2000 and 2010: in fact, its population grew. It’s merely that the populations of Georgia and North Carolina grew faster, leading to their populations being higher than New Jersey’s in 2010 but not in 2000.
 
 With the first basic test done, I decided to see what it would look like with all 50 states:
 
@@ -78,7 +78,7 @@ Because of the scaling issues, I wanted to see what would happen if the timeline
     <figcaption>Wormtrails graph of Peakbagger.com’s US metro populations, 1790–1890. <a href="peakbagger-cities-1790-1890">Full size</a></figcaption>
 </figure>
 
-While New York dominates the graph as before, there are still some interesting aspects that weren’t readily apparent on the full graph. For example, a number of upstate New York cities make the list for a few decades: Albany, Buffalo, Rochester, and Syracuse. While Albany was fairly populous from the start, the others no doubt are in the top 20 due to the completion and subsequent use of the Erie Canal. Chicago’s entry around the same time is no doubt causally connected.
+While New York dominates the graph as before, there are still some interesting aspects that weren’t readily apparent on the full graph. For example, a number of upstate New York cities make the list for a few decades: Albany, Buffalo, Rochester, and Syracuse. While Albany was fairly populous from the start, the others no doubt are in the top 20 due to the completion and subsequent use of the Erie Canal. Chicago’s entry around the same time is almost certainly causally connected.
 
 Now to look at 1900–2010:
 
