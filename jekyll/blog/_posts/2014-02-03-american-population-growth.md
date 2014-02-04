@@ -1,6 +1,8 @@
 ---
 
-title: Charting US city and state growth over time
+title: Visualizing US city and state growth over time with Wormtrails
+excerpt: A few thoughts and observations using the Wormtrails library to visualize US census data.
+note: The full-size versions of the graphs in this blog post are gigantic and very mobile unfriendly. You’ve been warned!
 
 section: Programming
 tags: [Lisp, Common Lisp, Wormtrails, Zach Beane, US Census, graphs]
