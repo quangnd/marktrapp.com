@@ -344,6 +344,39 @@ main {
             }
         }
     }
+
+    &.wormtrails {
+        .clearfix();
+
+        > article {
+            float: left;
+
+            figure {
+                position: relative;
+                padding-bottom: 2rem;
+
+                img {
+                    border: 5px solid @color-main;
+                    border-radius: 0.5rem;
+                    box-sizing: border-box;
+                    max-width: none;
+                }
+            }
+        }
+
+        #wormtrails-banner {
+            box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+            position: fixed;
+            z-index: 11000;
+            top: 17.5rem;
+            margin-left: 0.5rem;
+            padding: 0.5rem;
+            border-radius: 0.5rem;
+            font-weight: bold;
+            color: #fff;
+            background-color: @color-main;
+        }
+    }
 }
 
 ol, ul {

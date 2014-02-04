@@ -29,6 +29,11 @@ task :prepare => :clean do
   sh "#{lessc} --compress #{css_file}.pre > #{css_file}"
   rm "#{css_file}.pre"
 
+  js = [
+    'assets/js/wormtrails.js'
+  ].join(' ')
+  sh "#{npm_bin}/uglifyjs #{js} -o #{prep}/js/wormtrails.js -c -m"
+
   cp_r 'assets/images', prep
 end
 
