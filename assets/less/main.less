@@ -334,12 +334,10 @@ main {
         }
 
 
-        &:not(.front-page) {
-            .content {
-                > p {
-                    &:first-of-type:first-letter {
-                        .dropcap();
-                    }
+        .content:not(.dropcap-hide) {
+            > p {
+                &:first-of-type:first-letter {
+                    .dropcap();
                 }
             }
         }
