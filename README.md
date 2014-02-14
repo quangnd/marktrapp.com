@@ -23,7 +23,7 @@ RedCarpet, Jekyll, and Rake have their own requirements and dependencies. If you
 2. Install Bundler: `gem install bundler`.
 3. Clone this repository: `git clone git@github.com:/itafroma/marktrapp.com`.
 4. Run `bundle install` inside the cloned repository.
-5. Run `bundle exec rake install` insisde the cloned repository.
+5. Run `bundle exec rake install` inside the cloned repository.
 6. Run `bundle exec rake build` inside the cloned repository.
 
 The generated site will be contained in the `_sites` directory.
