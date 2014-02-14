@@ -30,13 +30,13 @@ The generated site will be contained in the `_sites` directory.
 
 ## Licenses and usage
 
-Where applicable, all files are copyright © Mark Trapp.
+Where applicable, all files are copyright © 2013–2014 Mark Trapp.
 
 Files within this repository are licensed on an individual basis. Note that there are automatic limitations to copyright (called "fair use" or "fair dealing")—including, but not limited to, excerpting, commentary, and personal reproduction—that do not require a license.
 
-If an automatic license is granted for a specific file, the license the file uses is specified in its [front-matter][9] under the `license:` key or in its opening comment block. The full text of the licenses used can be found in the `licenses` directory.
+If an automatic license is granted for a specific file, the license the file uses is specified in its [front-matter][7] under the `license:` key or in its opening comment block. The full text of the licenses used can be found in the `licenses` directory.
 
-Some files (e.g., the files that appear in the `_posts` directory) are not granted an automatic license, and and for those files, all rights are reserved (again, fair use is an automatic limitation to those rights). These files are indicated by having a `license: none` entry in their front-matter. With these files, if there's a use that falls outside the bounds of fair use, [contact me][10].
+Some files (e.g., the files that appear in the `_posts` directory) are not granted an automatic license, and and for those files, all rights are reserved (again, fair use is an automatic limitation to those rights). These files are indicated by having a `license: none` entry in their front-matter. With these files, if there's a use that falls outside the bounds of fair use, [contact me][8].
 
 [1]: http://marktrapp.com "Mark Trapp’s website"
 [2]: http://bundler.io "Bundler website"
