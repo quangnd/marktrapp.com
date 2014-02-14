@@ -41,6 +41,16 @@ For everyone else? The folder hierarchy standard *is* PSR-0: there are no others
 
 And that sucks. So please, don’t throw out the baby with the bathwater and just leave PSR-0 alone.
 
+## Update
+
+I had a [conversation with Phil on Twitter][6] and there are a couple of things to clarify.
+
+First, pushing back on PSR-0 deprecation isn’t about forcing people to use the same folder structure, but about preserving the viability of the implicit foldier hierarchy guidelines in PSR-0. My concern was that by deprecating PSR-0, it would signal that the hierarchy guidelines were to be avoided even though PSR-4 only provided a replacement for PSR-0’s autoloader specification and was silent on organization.
+
+Second, Phil [assured][7] that by deprecation, it would simply mean that PSR-4 would be recommended over PSR-0, and it’s not disavowal of PSR-0: everything still using PSR-0 should continue to be able to do so “forever”.
+
+In effect, it would be to deprecate PSR-0’s autoloader in favor of PSR-4, but say nothing about the folder hierarchy guidelines. If you want to structure your library to be PSR-0 compliant (in addition to being PSR-4 compliant), the PHP-FIG would not be saying that you’re doing it wrong. That’s something I can agree with.
+
 [^1]: In essence, incorporating the namespace in to the class name to deal with the lack of namespace support in PHP 5.2.
 [^2]: Or, if you roll your own autoloader, manually map my library’s namespace to whatever the folder structure is.
 [^3]: Or WordPress, Joomla!, or any other system that has a large, disparate contributor base.
@@ -50,3 +60,5 @@ And that sucks. So please, don’t throw out the baby with the bathwater and jus
 [3]: http://www.php-fig.org/psr/psr-0/ "PSR-0: Autoloading Standard"
 [4]: http://www.php-fig.org/psr/psr-4/ "PSR-4: Autoloading Standard"
 [5]: https://drupal.org/node/1971198 "[policy] Drupal and PSR-0/PSR-4 Class Loading"
+[6]: https://twitter.com/philsturgeon/status/434112525006028800 "it was measured and well written. Good stuff. I still feel like “if you’ve made it confusing, you’ve done it wrong.” is true. :)"
+[7]: https://twitter.com/philsturgeon/status/434117621055643648 "it's not so much disavow, just: you should use PSR-4 but PSR-0 is around if you want it. Composer won’t delete it, etc."
