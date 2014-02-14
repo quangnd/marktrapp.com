@@ -9,7 +9,7 @@ section: Programming
 layout: post
 ---
 
-In “[PHP-FIG: Autoloaders, Amendments and The "15th Standard"][1]”, Phil Sturgen discusses the differences between the two [PHP-FIG][2] autoloading standards and suggests that [PSR-0][3] should be deprecated in favor of [PSR-4][4].
+In “[PHP-FIG: Autoloaders, Amendments and The "15th Standard"][1]”, Phil Sturgeon discusses the differences between the two [PHP-FIG][2] autoloading standards and suggests that [PSR-0][3] should be deprecated in favor of [PSR-4][4].
 
 His reasoning for this is compelling: anything you could do with PSR-0 you can do with PSR-4 with the exception of using PEAR-style namespaces.[^1] If I prefer the verbose directory structure required by PSR-0, I can still use it in PSR-4 by mapping the namespace prefix to a folder within my class folder hierarchy. In other words, this:
 
