@@ -8,20 +8,27 @@ layout: default
 <section class="listing">
     <h1>{{ page.title }}</h1>
     <section class="featured">
-        {% assign post = site.categories['blog'] | first %}
+        {% for post in site.categories['blog'] %}
+        {% if post.unlisted != true %}
+            {% assign latest_post = post %}
+        {% break %}
+        {% endif %}
+        {% endfor %}
         <h1>Latest</h1>
         <article>
-            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-            {{ post.excerpt }}
+            <h1><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h1>
+            {{ latest_post.excerpt }}
         </article>
     </section>
     {% capture section_names %}{% for section in site.sections %}{{ section | first }}||{% endfor %}{% endcapture %}
     {% assign section_names_sorted  = section_names | split: '||' | sort %}
     {% for section_name in section_names_sorted %}
+    {% for post in site.sections[section_name] %}
+    {% if post.categories contains 'blog' and post.unlisted != true %}
     <section>
         <h1 id="{{ section_name | escape }}">{{ section_name }}</h1>
         {% for post in site.sections[section_name] %}
-        {% if post.categories contains 'blog' %}
+        {% if post.categories contains 'blog' and post.unlisted != true %}
         <article>
             <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
             {{ post.excerpt }}
@@ -29,5 +36,8 @@ layout: default
         {% endif %}
         {% endfor %}
     </section>
+    {% break %}
+    {% endif %}
+    {% endfor %}
     {% endfor %}
 </section>
