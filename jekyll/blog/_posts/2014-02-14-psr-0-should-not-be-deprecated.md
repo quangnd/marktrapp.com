@@ -3,10 +3,13 @@
 title: PSR-0 should not be deprecated
 excerpt: While PSR-4 supersedes PSR-0’s autoloading specification, PSR-0’s folder hierarchy requirements still have value and should not be thrown away.
 
-category: blog
-
 section: Programming
+tags: [PHP, PHP-FIG, PSR-0, deprecation]
+
+license: none
+
 layout: post
+
 ---
 
 In “[PHP-FIG: Autoloaders, Amendments and The "15th Standard"][1]”, Phil Sturgeon discusses the differences between the two [PHP-FIG][2] autoloading standards and suggests that [PSR-0][3] should be deprecated in favor of [PSR-4][4].
