@@ -11,7 +11,7 @@ license: MIT
     {% endunless %}
     {% endfor %}
     {% for post in site.posts %}
-    {% unless post.tags contains 'hidden' %}
+    {% unless post.tags contains 'hidden' or post.unlisted == true %}
     <url>
         <loc>{{ site.uri }}{{ post.url }}/</loc>
     </url>
