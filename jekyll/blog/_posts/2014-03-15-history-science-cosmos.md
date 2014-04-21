@@ -36,13 +36,13 @@ About 45 seconds in, deGrasse's narration mentions that we will "encounter being
     <figcaption>Tardigrade</figcaption>
 </figure>
 
-This is a tardigrade, or waterbear: a microscopic organism part of a group known as "extremophiles." Extremophiles have the ability to live in habitates humans and most other organisms would find completely inhospitable: the waterbear, for example, can live under miles of ice, withstand temperatures close to the boiling point of water, and even [survive the vacuum of space][1].
+This is a tardigrade, or waterbear: a microscopic organism part of a group known as "extremophiles." Extremophiles have the ability to live in habitats humans and most other organisms would find completely inhospitable: the waterbear, for example, can live under miles of ice, withstand temperatures close to the boiling point of water, and even [survive the vacuum of space][1].
 
 However, while the "ice" part of the narration is correct, there is no known organism that can withstand, much less live in, even the lower bounds of temperatures associated with fire (~750°C). Even the hardy waterbear has only [survived a few minutes at ~150°C][2]. So unfortunately, we won't encounter beings that live in fire.
 
 ### Stars that never die
 
-In the very next animation, DeGrasse states we'll also "explore the planets of stars that never die." Depending on how you define "die", this is either another impossibility or in actuality not that wild and fantastical. There are many types of stars and equally as many different expected lifecycles for stars. Some stars might explode into supernovae, some may even turn into black holes. But many will burn through their fuel and eventually shrink down to a small fraction of their former selves called a black dwarf.
+In the very next animation, deGrasse Tyson states we'll also "explore the planets of stars that never die." Depending on how you define "die", this is either another impossibility or, in actuality, not that wild and fantastical. There are many types of stars and equally as many different expected lifecycles for stars. Some stars might explode into supernovae, some may even turn into black holes. But many will burn through their fuel and eventually shrink down to a small fraction of their former selves called a black dwarf.
 
 The supernova is pretty uncontroversially a "death" of a star: there is nothing left but a cloud of star material that may then go on to form something else, like a new star. So that leaves the other two scenarios: black holes and dwarfs. It is in these two scenarios where we need to hone our understanding of the word "die". What does it mean for a star to "die"? Do we mean the same thing as a super nova, where there is no single "thing" we can point to and say, "that's a star"?
 
@@ -50,7 +50,7 @@ If so, black holes and black dwarfs would qualify as "stars that never die", tho
 
 ### Atoms as massive as suns
 
-Still under a minute, we reach the next animation, where DeGrasse mentions "atoms as massive as suns". There are no such things in the Universe. The element with the largest atomic radius, [Cesium][4], is a mere 265 pm (or 2.65 x 10<sup>-10</sup> meters).
+Still under a minute, we reach the next animation, where deGrasse Tyson mentions "atoms as massive as suns". There are no such things in the Universe. The element with the largest atomic radius, [Cesium][4], is a mere 265 pm (or 2.65 x 10<sup>-10</sup> meters).
 
 ### Credits
 
@@ -62,7 +62,7 @@ A bit later, we're treated to a very impressive nova remnant/iris combination th
 
 ### Earth / Ship of the Imagination
 
-DeGrasse is shown on the bridge of the *Ship of the Imagination*, explaining how things work on it. He then shows a picture of the Earth from 250 million years ago, and another of the Earth "how it could appear 250 million years from now", complete with evidence that human life is still there. This is all well and good (it's a ship of the imagination after all), but I want to call back to something he said in the opening. If you recall, this was the contract as described by him:
+deGrasse Tyson is shown on the bridge of the *Ship of the Imagination*, explaining how things work on it. He then shows a picture of the Earth from 250 million years ago, and another of the Earth "how it could appear 250 million years from now", complete with evidence that human life is still there. This is all well and good (it's a ship of the imagination after all), but I want to call back to something he said in the opening. If you remember, this was the contract as described by him:
 
 > This adventure is made possible by generations of searchers strictly adhering to a simple set of rules:
 >
@@ -80,7 +80,7 @@ Less than 3 minutes after laying these terms out, *Cosmos* is already violating 
 
 #### Mercury
 
-At around the 6 minute mark, deGrasse Tyson begins to narrate our journey through the solar system. He has something to say about almost every planet. Except Mercury. "The Sun holds all the worlds in our solar system in its gravitational embrace, starting with Mercury." And that's it. We don't even get a clear shot of the closest planet to the Sun. Why no love for Mercury? Someone on the *Cosmos* staff is clearly an Anti-Mercurite.
+Around the 6 minute mark, deGrasse Tyson begins to narrate our journey through the solar system. He has something to say about almost every planet, except Mercury. "The Sun holds all the worlds in our solar system in its gravitational embrace, starting with Mercury." And that's it. We don't even get a clear shot of the closest planet to the Sun. Why no love for Mercury? Someone on the *Cosmos* staff is *clearly* an Anti-Mercurite.
 
 #### Mars
 
@@ -110,7 +110,7 @@ So you have this shot of Neil deGrasse Tyson whizzing through this minefield of 
 
 #### Voyager I
 
-Voyager I is then shown, complete with its famous golden record. However, the record is shown rotating under its cover with music blaring. This isn't the case at all: there is nowhere near enough power to maintain the continuous playing of a record for decades. And as noted above, there is no medium through which the music would play even if it were.[^1] In reality, directions for playing the recorded are [etched on the cover][10], complete with some basic diagrams about how to measure time and where we are in the galaxy.
+Voyager I is then shown, complete with its famous golden record. However, the record is shown rotating under its cover with music blaring. This isn't the case at all: there is nowhere near enough power to maintain the continuous playing of a record for decades. And as noted above, there is no medium through which the music would play even if it were. In reality, directions for playing the recorded are [etched on the cover][10], complete with some basic diagrams about how to measure time and where we are in the galaxy.
 
 A couple of interesting notes about the [contents of the golden record][11]:
 
