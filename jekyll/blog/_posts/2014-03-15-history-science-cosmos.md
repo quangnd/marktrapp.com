@@ -31,6 +31,11 @@ So I hope the list of mistakes, ambiguities, and outright fictions are taken in 
 
 About 45 seconds in, deGrasse's narration mentions that we will "encounter beings who live in fire and ice." The image displayed is an animation of this guy:
 
+<figure>
+    <img src="/assets/images/tardigrade.png" alt="Tardigrade">
+    <figcaption>Tardigrade</figcaption>
+</figure>
+
 This is a tardigrade, or waterbear: a microscopic organism part of a group known as "extremophiles." Extremophiles have the ability to live in habitates humans and most other organisms would find completely inhospitable: the waterbear, for example, can live under miles of ice, withstand temperatures close to the boiling point of water, and even [survive the vacuum of space][1].
 
 However, while the "ice" part of the narration is correct, there is no known organism that can withstand, much less live in, even the lower bounds of temperatures associated with fire (~750°C). Even the hardy waterbear has only [survived a few minutes at ~150°C][2]. So unfortunately, we won't encounter beings that live in fire.
