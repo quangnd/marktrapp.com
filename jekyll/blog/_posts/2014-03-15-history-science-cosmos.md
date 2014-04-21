@@ -209,9 +209,9 @@ Oddly, after glossing over the theological issues with Bruno's philosophy throug
 * Believing that God's Wrath is not eternal; everyone will be saved
 * Asserting the existence of other worlds
 
-To be clear, this is a fiction. We don't know what heresies Bruno was convicted of: the record of his trial has been lost. Various historians have created their own speculative lists, indicating that his assertion of an infinite Universe or multiple worlds was but one issue among several theological errors. We do know that the Church had no stance on the Copernican model of the Universe at the time of his conviction, so he could not have been convicted of a heresy related to that.
+To be clear, this is a fiction. We don't know what heresies Bruno was convicted of: the record of his trial has been lost. Various historians have created their own speculative lists, indicating that his assertion of an infinite Universe or multiple worlds was but one issue among several theological errors. But we do know that the Church had no stance on the Copernican model of the Universe at the time of his conviction, so he could not have been convicted of a heresy related to that.
 
-We also know that Bruno was not highly regarded by other scientists at the time, like Kepler and Galileo, contrary to deGrasse Tyson's claim that Galileo realized 10 years later that Bruno had "been right all along".
+We also know that Bruno was not highly regarded by other scientists at the time, like Kepler and Galileo, contrary to deGrasse Tyson's claim that Galileo realized 10 years later that Bruno had "been right all along."
 
 deGrasse Tyson wraps up the segment on Bruno with the following monologue:
 
@@ -227,7 +227,7 @@ For the most part, the Cosmic Calendar is a faithful retelling of cosmology as w
 
 First, the description of how the Moon formed—where it was simply a collection of random debris that coalesced in a singular object—is a bit of an oversimplification of the currently accepted lunar origin hypotheses. The most widely accepted hypothesis of how the Moon was formed is called the [giant impact hypothesis][24], where a planet the size of Mars called *Theia* collided with Earth and its resulant ejecta coallesced to for the Moon. *Cosmos* shows a planetoid hitting Earth, but what they showed is much smaller than the proposed Theia.[^1]
 
-Second, deGrasse Tyson mentions that we "invented Astronomy." The use of "invented" is problematic: we didn't make astronomy up like we did with astrology. I'd strongly argue "discover" is a more appropriate description of our relation to astronomy and the other sciences.
+Second, deGrasse Tyson mentions that we "invented Astronomy." The use of "invented" is problematic: we didn't make astronomy up like we did with, say, astrology. I'd strongly argue "discover" is a more appropriate description of our relation to astronomy and the other sciences.
 
 Third, another slight nitpick: deGrasse Tyson dates a "revolution in the way we live" (the so-called [Neolithic Revolution][25]) at around 10,000 years ago. It actually occurred 12,000–13,000 years ago. A drop in the bucket on the cosmological scale, but still 20–30% longer than deGrasse Tyson describes.
 
