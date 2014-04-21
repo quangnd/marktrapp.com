@@ -170,20 +170,18 @@ This section is rough and strays heavily into outright fiction. Because of the s
 
 #### Excommunication
 
-At this point, I want to interject and explain what excommunication is, because deGrasse Tyson never explains what it meant for Bruno to be excommunicated by three different groups. In the context of Christianity, the Communion is what unites Christians with Jesus Christ. The details vary from demonination to demonination, but it's essentially the thing that makes Christians *Christians*.
+At this point, I want to interject and explain what excommunication is, because deGrasse Tyson never explains what it meant for Bruno to be excommunicated by three different groups.
 
-If at any point you decide you don't want to be a Christian anymore, that bond of communion is broken. That decision to turn away from Jesus Christ is called *excommunication*. There are different ways one might be excommunicated:
+In the context of Christianity, the Communion is what unites Christians with Jesus Christ. The details vary from demonination to demonination, but it's essentially the thing that makes Christians *Christians*.
 
-* It can be intentional and explict: you simply decide, "I don't want to be a Christian anymore: it's not for me."
-* It can be automatic: demoninations that adhere to the [Nicene Creed][*] (e.g., Roman Catholics, Eastern Orthodoxy, most Protestants) believe there is only one Church, and theirs is the correct one. If you decide you want to switch demoninations, you are generally automatically excommunicated from the one you left.
-* It can be recognized by a third party: if you do something so contrary to the accepted norms of the demonination in which you are in, others may deem that you are excommunicated by virtue of your actions
+That bond can be severed, however: if, for example, you decide that you don't want to be a Christian anymore, you'd no longer be in communion with the Church. Similarly, there are certain beliefs that a Church may hold to be core to its understanding of Christianity: by rejecting those beliefs, you'd fail to be in communion with the Church as well.
 
-Generally, the consequences for excommunication are as follows:
+That breaking of the bonds is called *excommunication*. Generally, the consequences for excommunication are as follows:
 
 * You can't participate in any of the Sacraments. Sacraments are specific Christian rites—like receiving the Holy Eucharist—that are manifestations of God's divine favor.
-* You may be ostracised by those who don't want to associate with people who are not of the same faith. One practical implication of this, as Giodorno Bruno ran into occassionally, may be that you can't attend or teach at an institution associated with the demoniation from which you were excommunicated.
+* You may be ostracised by those who don't want to associate with people who are not of the same faith. One practical implication of this, as Giodorno Bruno occasionally ran into, may be that you can't attend or teach at an institution associated with the demoniation from which you were excommunicated.
 
-Excommunication is not, and never was, a euphemism for capital punishment. It's also intended to be temporary. Atone for whatever you did and it's lifted. Atonement generally consists of recognizing whatever you did was wrong (confession) and making up for the act (penance). Of course, if you don't believe you did anything wrong or you simply don't want to be a part of the demonination, you wouldn't do any of that and you'd simply stay excommunicated.
+Excommunication is not, and never was, a euphemism for capital punishment. It's also intended to be temporary (what Roman Catholics refer to as a "medicinal penalty"): atone for whatever you did and it's lifted. Atonement generally consists of recognizing whatever you did was wrong (confession) and making up for the act (penance). Of course, if you don't believe you did anything wrong or you simply don't want to be a part of the demonination, you wouldn't do any of that and you'd simply stay excommunicated.
 
 However, back when most of the Western World was under autocratic rule, if you kept making waves and stirring the pot and being a general rabblerouser, someone in a position of authority was going to decide that something is going to need to be done about you. Because virtually all monarchs believed they [ruled with divine favor][*], they considered themselves defenders of the faith as they saw it. This meant civil authorities having laws against spiritual wrongs like heresy and blasphemy, almost all of which was cruel and unusual.
 
