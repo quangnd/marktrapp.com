@@ -1,38 +1,12 @@
-GIT
-  remote: git@github.com:/itafroma/jekyll-archive
-  revision: e8d780515e33475bfa014d30ada9fd3c779e3aa7
-  branch: 0.2
-  specs:
-    jekyll-itafroma-archive (0.1.3)
-
-GIT
-  remote: https://github.com/jekyll/jekyll.git
-  revision: 56a633ae95f4c914caa5c8059c3d4d3a7a3c0d45
-  specs:
-    jekyll (1.4.3)
-      classifier (~> 1.3)
-      colorator (~> 0.1)
-      jekyll-coffeescript (~> 1.0)
-      liquid (~> 2.5.5)
-      listen (~> 1.3)
-      maruku (= 0.7.0)
-      mercenary (~> 0.2.0)
-      pygments.rb (~> 0.5.0)
-      redcarpet (~> 3.0)
-      safe_yaml (~> 1.0)
-      sass (~> 3.2)
-      toml (~> 0.1.0)
-
-GIT
-  remote: https://github.com/vmg/redcarpet.git
-  revision: a1a42f53936b00c1eb335d25b788c63b6d4e75de
-  specs:
-    redcarpet (3.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
     blankslate (2.1.2.4)
+    celluloid (0.15.2)
+      timers (~> 1.1.0)
+    celluloid-io (0.15.0)
+      celluloid (>= 0.15.0)
+      nio4r (>= 0.5.0)
     classifier (1.3.4)
       fast-stemmer (>= 1.0.0)
     coffee-script (2.2.0)
@@ -43,34 +17,52 @@ GEM
     execjs (2.0.2)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
+    jekyll (2.0.1)
+      classifier (~> 1.3)
+      colorator (~> 0.1)
+      jekyll-coffeescript (~> 1.0)
+      jekyll-sass-converter (~> 1.0)
+      kramdown (~> 1.3)
+      liquid (~> 2.5.5)
+      listen (~> 2.5)
+      mercenary (~> 0.3.1)
+      pygments.rb (~> 0.5.0)
+      redcarpet (~> 3.1)
+      safe_yaml (~> 1.0)
+      toml (~> 0.1.0)
     jekyll-coffeescript (1.0.0)
       coffee-script (~> 2.2)
+    jekyll-itafroma-archive (0.2.1)
     jekyll-itafroma-collapse_newlines (0.1.0)
     jekyll-itafroma-indent_filter (0.1.0)
     jekyll-itafroma-post_groups (0.1.0)
+    jekyll-sass-converter (1.0.0)
+      sass (~> 3.2)
+    kramdown (1.3.3)
     liquid (2.5.5)
-    listen (1.3.1)
+    listen (2.7.4)
+      celluloid (>= 0.15.2)
+      celluloid-io (>= 0.15.0)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-      rb-kqueue (>= 0.2)
-    maruku (0.7.0)
-    mercenary (0.2.1)
+    mercenary (0.3.2)
+    nio4r (1.0.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rake (10.1.1)
+    rake (10.3.1)
     rb-fsevent (0.9.4)
-    rb-inotify (0.9.3)
+    rb-inotify (0.9.4)
       ffi (>= 0.5.0)
-    rb-kqueue (0.2.0)
-      ffi (>= 0.5.0)
-    rouge (1.3.2)
-    safe_yaml (1.0.1)
-    sass (3.2.14)
-    toml (0.1.0)
+    redcarpet (3.1.1)
+    rouge (1.3.4)
+    safe_yaml (1.0.3)
+    sass (3.3.7)
+    timers (1.1.0)
+    toml (0.1.1)
       parslet (~> 1.5.0)
     yajl-ruby (1.1.0)
 
@@ -78,11 +70,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll!
-  jekyll-itafroma-archive!
+  jekyll
+  jekyll-itafroma-archive
   jekyll-itafroma-collapse_newlines
   jekyll-itafroma-indent_filter
   jekyll-itafroma-post_groups
   rake
-  redcarpet!
+  redcarpet
   rouge
