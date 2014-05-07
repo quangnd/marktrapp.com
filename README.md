@@ -10,8 +10,8 @@ This repository contains the code for generating [marktrapp.com][1]. The purpose
 
 * Ruby 2.0.0 or higher
 * [Bundler][2]
-* The latest HEAD of [RedCarpet][3] 3
-* The latest HEAD of [Jekyll][4]
+* [RedCarpet][3] 3.1.2 or later
+* [Jekyll][4] 2.0.0 or later
 * [Rake][5]
 * [Node Package Manager (NPM)][6]
 
