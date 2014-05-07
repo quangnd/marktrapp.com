@@ -9,8 +9,6 @@ tags: [Disqus, FriendFeed, Mark Hopkins, social media, Steven Hodson, testing, T
 section: Social Media
 license: none
 
-layout: post
-
 ---
 
 This weekend, Twitter was the target of an extensive phishing campaign and a shady 3rd-party app that sold all its user data. Thousands of people were affected, and even the celebrities and news organizations were not spared. On FriendFeed, a 3rd-party application was introduced last night that produced unintended results: this week should serve as an indicator that we, as early adopters, need to take off our blinders and realize we need to add some thought before we try things out.

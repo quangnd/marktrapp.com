@@ -9,8 +9,6 @@ tags: [argumentation, college, debates, Godwin’s law, politics, trolling, phil
 
 license: none
 
-layout: post
-
 ---
 
 Most people consider an argument to be two people shouting at each other, getting angrier and angrier as time progresses. I’m going to talk about a different kind of argument: one that I hope would be more palatable to more people.

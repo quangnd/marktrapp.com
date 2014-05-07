@@ -9,8 +9,6 @@ tags: [Common Lisp, Lisp, MIT, streamgraph, wormtrail]
 
 license: MIT
 
-layout: project
-
 repository: https://github.com/itafroma/wormtrails-csv
 
 ---

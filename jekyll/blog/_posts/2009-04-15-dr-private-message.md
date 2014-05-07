@@ -9,8 +9,6 @@ tags: [Rob Diana, John Bredehoft, federation, private messages, Alexander van El
 
 license: none
 
-layout: post
-
 ---
 
 Today, Alexander Van Elsas had a sort of [95 Thesis/20 Questions amalgam][1] about a host of issues involving the state of the internet today. One set of questions provoked a couple points of discussion from [Rob Diana][2] and [John Bredehoft][3]:

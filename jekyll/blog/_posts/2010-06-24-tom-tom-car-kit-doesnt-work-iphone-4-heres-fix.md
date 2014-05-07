@@ -10,8 +10,6 @@ tags: [iPhone, iPhone 4, TomTom, TomTom iPhone car kit, how-tos]
 
 license: none
 
-layout: post
-
 ---
 
 Never underestimate the the internet's ability to solve problems.

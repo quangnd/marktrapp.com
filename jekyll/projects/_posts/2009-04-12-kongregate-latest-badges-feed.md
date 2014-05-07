@@ -11,8 +11,6 @@ tags: [Kongregate, Feed43, RSS]
 
 license: MIT
 
-layout: project
-
 ---
 
 [Kongregate][1] is a great site for online Flash gaming, combining the ease of use of Flash with the addiction of an achievement system. However, for some reason, they don't provide an RSS feed of the latest badges added to the site. So, I've created a feed using [Feed43][2] you can use to view badges as they come in.

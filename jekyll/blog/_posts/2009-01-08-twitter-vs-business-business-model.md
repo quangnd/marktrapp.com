@@ -11,8 +11,6 @@ tags: [business to business, enterprise 2.0, social media, Twitter, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 Over the past couple of days, I’ve been thinking about Business-to-Business (B2B) marketing as it relates to social media, and truth be told, I’m lost. Rather than go into a rant about how the internet’s wronged me today, or try to get into a lesson about an abstract concept, I’m going to go through my take on the state of B2B social media marketing and pass it off to you, the reader.

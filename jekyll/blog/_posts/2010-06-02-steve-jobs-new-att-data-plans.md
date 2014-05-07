@@ -9,8 +9,6 @@ tags: [Apple, AT&T, Steve Jobs, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 This morning, I checked TechMeme and saw the big news: AT&T decided to restructure its data plans to remove the option for unlimited data. This disappoints me greatly: I, like I'm sure thousands of other customers, bought the iPad WiFi + 3G based on the deal Apple struck with AT&T to offer a no-contract, $30/month, cancel-and-activate any time you need it plan. Like Gizmodo said, the purchase was insurance in case I ever needed to be on 3G exclusively for a while.

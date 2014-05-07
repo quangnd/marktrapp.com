@@ -9,8 +9,6 @@ tags: [Jeff Atwood, privacy, right to disappear, philosophy]
 
 license: none
 
-layout: post
-
 ---
 
 Jeff Atwood, one of the founders of [Stack Overflow][1] and [Stack Exchange][2], recently created a blog post about the death of Aaron Swartz and “[the end of ragequitting][3].” While the crux of his post is largely about Swartz’s suicide, his comparison to “ragequitting” his network, or the departure of \_why and and Mark Pilgrim from the public internet touched on something I’ve been discussing in smaller circles for some time:

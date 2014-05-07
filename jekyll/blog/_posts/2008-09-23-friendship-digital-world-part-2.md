@@ -9,8 +9,6 @@ tags: [friendship, social networking, philosophy]
 
 license: none
 
-layout: post
-
 ---
 
 Yesterday I mentioned [three basic intuitions][1] most people have about what Friendship is:

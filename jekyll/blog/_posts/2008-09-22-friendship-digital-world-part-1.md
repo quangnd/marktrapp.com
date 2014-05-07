@@ -9,8 +9,6 @@ tags: [Facebook, friendship, social networking, philosophy]
 
 license: none
 
-layout: post
-
 ---
 
 One of the fundamental concepts in social media is the idea of Friendship: in order to participate in any social network or to utilize any of the social media tools, one needs to have friends. From a purely technical perspective, a friend is simply a connection on an individual’s social graph: a similar entity that has been defined as “connected” to the individual.

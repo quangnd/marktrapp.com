@@ -10,8 +10,6 @@ tags: [Automator, MIT license]
 
 license: MIT
 
-layout: project
-
 downloads:
     - title: Dated Notes
       file: DatedNotes-1.0.0.zip

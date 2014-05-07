@@ -31,7 +31,20 @@ post_groups:
 redcarpet:
     extensions: ['highlight', 'footnotes']
 
-# Site-specific settings.
+defaults:
+    - scope:
+        path: ''
+      values:
+        layout: 'page'
+    - scope:
+        path: 'blog'
+      values:
+        layout: 'post'
+    - scope:
+        path: 'projects'
+      values:
+        layout: 'project'
+
 author:
     name: Mark Trapp
     uri: http://marktrapp.com

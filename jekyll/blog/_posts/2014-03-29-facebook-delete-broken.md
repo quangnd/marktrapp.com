@@ -9,8 +9,6 @@ tags: [Facebook, user interface, user experience]
 
 license: none
 
-layout: post
-
 ---
 
 Today, I irreversably lost three years of posts and comments on Facebook. Three years of memories, discussions, and conversations: lost to the ether. How? I missed the target area for a button by a single pixel.

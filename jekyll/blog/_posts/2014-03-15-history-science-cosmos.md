@@ -7,8 +7,6 @@ tags: [Cosmos, Niel deGrasse Tyson]
 
 license: none
 
-layout: post
-
 ---
 
 Like many others, I was both interested and concerned when it was announced there'd be a reboot of *Cosmos*. I wasn't yet born when it first aired, but I nevertheless saw it when I was a kid and loved it. I read Sagan's book of the same name and *Contact*, which lead to reading the works of Stephen Hawking, Richard Feynman, and many others. I thought, as I'm sure many others did, *how is the guy who made Family Guy of all things going ruin it*?

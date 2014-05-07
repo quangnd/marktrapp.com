@@ -10,8 +10,6 @@ tags: [Lisp, Common Lisp, Sublime Text]
 
 license: none
 
-layout: post
-
 ---
 This weekend, I wanted to mess around with a couple of Lisp libraries, but I didn’t really have a good starting point. My preliminary research seemed to indicate I was going to have to tough it out and use Emacs, but after a few hours I was able to piece together a working environment using the tools I was already comfortable with: [Sublime Text][1] 3 on OS X.
 

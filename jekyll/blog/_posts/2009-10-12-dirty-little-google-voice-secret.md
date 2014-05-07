@@ -11,8 +11,6 @@ tags: [AT&T, calling circle, Google Voice, iPhone, how-tos]
 
 license: none
 
-layout: post
-
 ---
 
 If you use Google Voice, have an iPhone, or are interested in smart phones, you’re probably aware of the ongoing spat between Apple, AT&T, and Google over network neutrality and Google Voice on the iPhone (c.f. [Apple’s take][1], [AT&T’s take][2], and [Google’s take][3]). If you’re like me, you don’t really care who’s to blame for why you can’t use Google Voice on your iPhone: they’re probably all at fault.

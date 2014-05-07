@@ -11,8 +11,6 @@ tags: [Endermen, Minecraft]
 
 license: none
 
-layout: project
-
 downloads:
     - title: EnderRain Standard 1.2.5
       file: EnderRain-Standard-1.2.5.zip

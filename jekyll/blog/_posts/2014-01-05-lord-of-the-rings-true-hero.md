@@ -10,8 +10,6 @@ tags: [Lord of the Rings]
 
 license: none
 
-layout: post
-
 ---
 
 Who was the hero of *the Lord of the Rings*? There are quite a lot characters who do heroic acts throughout the narrative: from obvious choices like Gandalf holding off the Balrog of Moria so that the Fellowship may escape or Éowyn and Merry defeating the Witch King to less recognized (but equally as important) events like Merry and Pippin convincing Treebeard and the other Ents to lay siege to Orthanc or Fatty Bolger staying behind to distract the Black Riders so Frodo and the others could flee Buckland.

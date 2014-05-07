@@ -10,8 +10,6 @@ tags: [iPad, iPhone, MG Siegler, Prognostication, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 Every minute, some technology analyst is predicting the future. 99 times out of 100, they're wrong. And it's not really worth writing about. But every once in a while, there's a prognostication that's so crazy—but nevertheless written as though it's an inevitability—it pains the mind.

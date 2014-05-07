@@ -11,8 +11,6 @@ tags: [BuddyFeed, FriendFeed, iPhone, review]
 
 license: none
 
-layout: post
-
 ---
 
 One of the things that’s been missing from FriendFeed has been a native iPhone client. Sure, there’s the [iPhone version of the website][1], and there’s [FFToGo][2], but they both miss a lot of administrative features of FriendFeed and don’t provide the lustery UI of a native app. Recently, a third-party FriendFeed iPhone app came out called [BuddyFeed][3]. It’s promising, but there are a few things it fails to handle which probably makes it a non-starter for most people, even for its relatively small price tag of 99 cents. It also has a few UI failures that really need to be addressed.

@@ -9,8 +9,6 @@ tags: [cabal, curmudgeonry, friendfeed, Louis Gray, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 This weekend, Louis Gray [offered up his suggestions][1] on what FriendFeed must do in order to continue to grow. It included imperatives on for FriendFeed in a variety of areas: from the need to appeal to the mainstream, to its need to better define its value. Several other bloggers and big names in tech jumped on this, laying charges from FriendFeed’s [lack of big fish awareness][2] to FriendFeed’s [apparent lack of a business model][3].

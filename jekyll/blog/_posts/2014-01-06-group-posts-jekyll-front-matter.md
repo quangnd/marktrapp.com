@@ -9,8 +9,6 @@ tags: [Ruby, Jekyll]
 
 license: none
 
-layout: post
-
 ---
 {% raw %}
 Within [Jekyll][1], there are two built-in "grouping" variables for posts: `site.categories` and `site.tags`. But what if you want to group your posts on another [front-matter][2] key? While Jekyll allows you to add any custom key you want to your post front-matter, it doesn’t automatically group your posts by those custom keys. I ran into this issue on this site: I wanted to group my blog posts by topic, but I was already using categories and tags for other things.

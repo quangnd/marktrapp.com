@@ -8,8 +8,6 @@ section: Meta
 
 license: none
 
-layout: post
-
 ---
 It’s a new year, so that means things have to change, right? On January 31st, my long-term contract with [Bear Brook][1] and [Brandopoly][2] will end. After 7 years, I’m officially a free agent, looking for the next opportunity.
 

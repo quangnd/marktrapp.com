@@ -10,8 +10,6 @@ tags: [OAuth, how-tos]
 
 license: none
 
-layout: post
-
 ---
 
 One of the projects I’ve been working on instead of updating this blog has been a set of modules for [Drupal][1] that allow [FriendFeed][2] users do all sorts of interesting things. While I’m not ready to release the details of those projects, one of the biggest mind-benders I’ve experienced in my work has been [OAuth][3], a technology FriendFeed uses as its preferred authentication mechanism in the latest version of its API.

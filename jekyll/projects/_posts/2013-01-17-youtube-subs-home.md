@@ -10,9 +10,6 @@ tags: [extension, Safari, YouTube, GPLv2 license]
 
 license: GPLv2 only
 
-layout: project
-highlighting: true
-
 repository: https://github.com/itafroma/youtube-subs-as-home
 downloads:
     - title: YouTube Subs as Home 1.0.3

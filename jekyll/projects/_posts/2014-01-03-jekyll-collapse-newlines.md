@@ -10,8 +10,6 @@ tags: [Jekyll, Ruby, MIT]
 
 license: MIT
 
-layout: project
-
 repository: https://github.com/itafroma/jekyll-collapse_newlines
 
 ---

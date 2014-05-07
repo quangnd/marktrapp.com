@@ -9,8 +9,6 @@ tags: [friendship, Jeremiah Owyang, Mark O’Neill, Steve Hodson, tracks, philos
 
 license: none
 
-layout: post
-
 ---
 
 That’s right: *nobody*. Of all the things that are necessary in life, Friendship is not one of them. Not even close.

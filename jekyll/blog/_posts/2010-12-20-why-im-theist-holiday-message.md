@@ -10,8 +10,6 @@ tags: [induction, philosophy, religion, theism, philosophy]
 
 license: none
 
-layout: post
-
 ---
 
 How can you be sure the Sun will rise tomorrow? It’s not a question most people dwell on. We all take it for granted that some scientist—maybe it was Galileo or Copernicus or one of those guys from Italy or somesuch a long time ago who bothered to find out—proved, using the scientific method, that when the Sun sets at the end of the day, it’s going to rise again the next morning.

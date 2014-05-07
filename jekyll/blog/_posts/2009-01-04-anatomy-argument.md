@@ -9,8 +9,6 @@ tags: [arguments, guide, justifications, philosophy]
 
 license: none
 
-layout: post
-
 ---
 
 A few months ago, I discussed the [value of discussing, not debating, ideas][1]: that we should be focused on a person’s argument, not the person. Yesterday, I talked a little about a [real-world application of a discussion of ideas][2], and the value of understanding an opposing argument before providing your own. Today, I’m going to go back to basics and discuss what, exactly, constitutes an argument, and how knowing how to spot an argument can help one form one’s own arguments.

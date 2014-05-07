@@ -9,8 +9,6 @@ tags: [Lisp, Common Lisp, Wormtrails, Zach Beane, US Census, graphs]
 
 license: none
 
-layout: post
-
 ---
 
 A couple of weeks ago, [Kevin Fox][1] tweeted a link to [Peakbagger.com][2]’s “[Historical Metropolitan Populations of the United States][3]” and asked [if there was a way to improve it][4]. I immediately thought of [Zach Beane][5]’s [movie box office streamgraphs][6] that went viral a couple of years ago. Fortunately, Beane open-sourced the library used to create them, [*Wormtrails*][7]. Less fortunately for me, it was written in Common Lisp, a language I haven’t used in almost a decade.

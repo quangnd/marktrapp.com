@@ -11,8 +11,6 @@ tags: [tracks, office hours, philosophy]
 
 license: none
 
-layout: post
-
 ---
 
 In starting this blog, I had a couple things I wanted to talk about for a long time and get people’s reactions. After a couple posts, I’m starting to think about what my long term goals are, what interests me, and what may be of some value to others.

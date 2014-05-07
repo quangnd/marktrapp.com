@@ -9,8 +9,6 @@ tags: [Dave Winer, Digg, Google, Jason Kottke, Joshua Schachter, URL shorteners,
 
 license: none
 
-layout: post
-
 ---
 
 Yesterday, Joshua Schachter had an [excellent piece][1] on the perils of the URL shortener: it’s clear, concise, and scathing. [Jason Kottke][2] and [Dave Winer][3] had a few suggestions on how to mitigate the problem, or get us on the right track to eventually deprecating the use of URL shorteners.

@@ -9,8 +9,6 @@ tags: [Apple, argumentation, FriendFeed, Gabe Rivera, Techmeme, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 Although the title should make for some excellent Google bait, there were a couple topics today that seem to fit into what I’ve been discussing for the past couple of days. This morning, there was a lot of discussion on FriendFeed started Robert Scoble about Gabe Rivera’s comments on FriendFeed founder [Paul Buchheit’s post on FriendFeed][1] (hope you’re still with me). From the post, [Rivera said][2]:

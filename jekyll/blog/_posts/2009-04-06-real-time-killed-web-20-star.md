@@ -9,8 +9,6 @@ tags: [Dunbar’s Number, FriendFeed, real-time, semantic filtering, Robert Scob
 
 license: none
 
-layout: post
-
 ---
 
 Today, FriendFeed unveiled [a redesign of its product][1], focusing on real-time communication as a principle design goal. Expectedly, there are more than a few detractors of the decision to place real-time at the forefront (see [Steven Hodson’s post on Inquisitr][2], [Michael Arrington’s post on TechCrunch][3], or do a [search on FriendFeed][4]). I think they’re stuck in a paradigm that’s lasted for years that real-time has now rendered obsolete: the “follow.”

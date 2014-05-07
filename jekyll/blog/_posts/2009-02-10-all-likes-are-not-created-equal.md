@@ -9,8 +9,6 @@ tags: [Facebook, FriendFeed, like, Robert Scoble, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 Recently, Facebook released a feature in its newsfeed that allows people to “like” newsfeed items. As it’s described by Facebook’s program manager Leah Pearlman, the feature allows you to [tell your friends you approve of what they posted][1]:

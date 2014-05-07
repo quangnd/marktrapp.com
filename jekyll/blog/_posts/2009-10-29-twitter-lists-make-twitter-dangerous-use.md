@@ -9,8 +9,6 @@ tags: [categorization, lists, Robert Scoble, Twitter, commentary]
 
 license: none
 
-layout: post
-
 ---
 
 The big buzz in the social media world lately revolves around Twitter’s rollout of its “list” feature, which allows you and others to create lists of your followers: easily tagging them so you can share those lists with others. Robert Scoble [thinks it’s a game changer][1], and is pushing the value proposition for them hard. But I think lists, because they have no consent mechanism and because they can be made public, are boneheaded, broken, and ultimately make Twitter a dangerous tool to use for anyone who values their reputation.

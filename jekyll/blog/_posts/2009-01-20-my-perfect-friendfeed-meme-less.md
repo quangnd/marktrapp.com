@@ -9,8 +9,6 @@ tags: [All Your Base, Chuck Norris, FriendFeed, lolcats, meme, rickroll, comment
 
 license: none
 
-layout: post
-
 ---
 
 A couple weeks ago, one of the founders of FriendFeed, Paul Buchheit, [asked the world][1] for their ideas on the perfect FriendFeed. I’ve been thinking about this since then, and there are a few standbys: I’d like better filtering options, I’d like to be able to have Tumblr treated like a blog, I’d like a native FriendFeed iPhone client that has 100% of the functionality of the website, and others. But these are either vague, or non-critical to my usage of FriendFeed. I could live without a good iPhone client. And what do I mean “better filtering options?”

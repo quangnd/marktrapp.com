@@ -8,8 +8,6 @@ section: Meta
 
 license: none
 
-layout: post
-
 ---
 
 Travel back to 2007 and 2008. Obama hadn‘t been elected, everyone was upset with the [*Sopranos* series finale][1], and the [Great Recession][2] was just beginning to hit. Back then, the whole “web 2.0” thing was in full swing, and it seemed like every other day someone was launching a new social network. Twitter was just taking off with the masses, and most assumed Facebook was unbeatable. Google was still experimenting with [Jaiku][3]. [Plurk][4] was a thing.

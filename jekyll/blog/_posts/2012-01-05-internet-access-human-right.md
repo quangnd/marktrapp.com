@@ -9,8 +9,6 @@ tags: [human rights, Internet, Vincent Cerf, the web]
 
 license: none
 
-layout: post
-
 ---
 
 Today, Vint Cerf, chief internet evangelist for Google, had an [op-ed piece in the New York Times][1] where he boldly declares internet access is not a human right, and provides an anachronism to demonstrate the weight required to elevate something to the status of a civil or human right:
