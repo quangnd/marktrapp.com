@@ -78,7 +78,7 @@ The last part of ST3 I configured was a build system. You can create one by goin
 
 ```json
 {
-    "shell_cmd": "/usr/local/bin/sbcl", "--disable-debugger", "--load", "$file"],
+    "shell_cmd": "/usr/local/bin/sbcl --disable-debugger --load $file",
     "working_dir": "$file_path"
 }
 ```
