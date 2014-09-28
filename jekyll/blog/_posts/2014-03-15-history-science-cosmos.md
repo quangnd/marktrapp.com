@@ -9,7 +9,7 @@ license: none
 
 ---
 
-Like many others, I was both interested and concerned when it was announced there'd be a reboot of *Cosmos*. I wasn't yet born when it first aired, but I nevertheless saw it when I was a kid and loved it. I read Sagan's book of the same name and *Contact*, which lead to reading the works of Stephen Hawking, Richard Feynman, and many others. I thought, as I'm sure many others did, *how is the guy who made Family Guy of all things going ruin it*?
+Like many others, I was both interested and concerned when it was announced there'd be a reboot of *Cosmos*. I wasn't yet born when it first aired, but I nevertheless saw it when I was a kid and loved it. I read Sagan's book of the same name and *Contact*, which lead to reading the works of Stephen Hawking, Richard Feynman, and many others. I thought, as I'm sure many others did, *how is the guy who made Family Guy of all things going ruin it?*
 
 After seeing the first episode this past weekend, I'm still on the fence. While I don't think Seth McFarlane ruined the memory of the original, and the choice of Neil deGrasse Tyson to take on the mantle of trying to follow Carl Sagan's superb narration was flawless, it nevertheless comes off as problematic.
 
@@ -108,7 +108,7 @@ So you have this shot of Tyson whizzing through this minefield of a Kuiper belt 
 
 #### Voyager I
 
-Voyager I is then shown, complete with its famous golden record. However, the record is shown rotating under its cover with music blaring. This isn't the case at all: there is nowhere near enough power to maintain the continuous playing of a record for decades. And as noted above, there is no medium through which the music would play even if it were. In reality, directions for playing the recorded are [etched on the cover][10], complete with some basic diagrams about how to measure time and where we are in the galaxy.
+Voyager I is then shown, complete with its famous golden record. However, the record is shown rotating under its cover with music blaring. This isn't the case at all: there is nowhere near enough power to maintain the continuous playing of a record for decades. And as noted above, there is no medium through which the music would play even if there were. In reality, directions for playing the recorded are [etched on the cover][10], complete with some basic diagrams about how to measure time and where we are in the galaxy.
 
 A couple of interesting notes about the [contents of the golden record][11]:
 
