@@ -52,7 +52,7 @@ Still under a minute, we reach the next animation, where Tyson mentions "atoms a
 
 ### Credits
 
-At 3 minutes in, we see the executive producer is Brannon Braga. Just kidding (but [only slightly][5]).
+At 3 minutes in, we see the next big mistake: the executive producer is Brannon Braga. Just kidding (but [only slightly][5]).
 
 A bit later, we're treated to a very impressive nova remnant/iris combination that forms the basis for Cosmos's title card as the *Ship of the Imagination* passed by the camera on the right, making a "whooshing" sound as it does so. Things don't "whoosh" in space. Sound requires a medium through which to travel, something space is definitely missing. In fact, this happens *every single time* an external shot of the *Ship of the Imagination* is used. I won't call it out again, but keep that in mind as you watch the rest of the episode.
 
