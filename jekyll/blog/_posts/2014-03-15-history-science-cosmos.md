@@ -40,7 +40,7 @@ However, while the "ice" part of the narration is correct, there is no known org
 
 ### Stars that never die
 
-In the very next animation, deGrasse Tyson states we'll also "explore the planets of stars that never die." Depending on how you define "die", this is either another impossibility or, in actuality, not that wild and fantastical. There are many types of stars and equally as many different expected lifecycles for stars. Some stars might explode into supernovae, some may even turn into black holes. But many will burn through their fuel and eventually shrink down to a small fraction of their former selves called a black dwarf.
+In the very next animation, Tyson states we'll also "explore the planets of stars that never die." Depending on how you define "die", this is either another impossibility or, in actuality, not that wild and fantastical. There are many types of stars and equally as many different expected lifecycles for stars. Some stars might explode into supernovae, some may even turn into black holes. But many will burn through their fuel and eventually shrink down to a small fraction of their former selves called a black dwarf.
 
 The supernova is pretty uncontroversially a "death" of a star: there is nothing left but a cloud of star material that may then go on to form something else, like a new star. So that leaves the other two scenarios: black holes and dwarfs. It is in these two scenarios where we need to hone our understanding of the word "die". What does it mean for a star to "die"? Do we mean the same thing as a super nova, where there is no single "thing" we can point to and say, "that's a star"?
 
@@ -48,7 +48,7 @@ If so, black holes and black dwarfs would qualify as "stars that never die", tho
 
 ### Atoms as massive as suns
 
-Still under a minute, we reach the next animation, where deGrasse Tyson mentions "atoms as massive as suns". There are no such things in the Universe. The element with the largest atomic radius, [Cesium][4], is a mere 265 pm (or 2.65 x 10<sup>-10</sup> meters).
+Still under a minute, we reach the next animation, where Tyson mentions "atoms as massive as suns". There are no such things in the Universe. The element with the largest atomic radius, [Cesium][4], is a mere 265 pm (or 2.65 x 10<sup>-10</sup> meters).
 
 ### Credits
 
@@ -60,7 +60,7 @@ A bit later, we're treated to a very impressive nova remnant/iris combination th
 
 ### Earth / Ship of the Imagination
 
-deGrasse Tyson is shown on the bridge of the *Ship of the Imagination*, explaining how things work on it. He then shows a picture of the Earth from 250 million years ago, and another of the Earth "how it could appear 250 million years from now", complete with evidence that human life is still there. This is all well and good (it's a ship of the imagination after all), but I want to call back to something he said in the opening. If you remember, this was the contract as described by him:
+Tyson is shown on the bridge of the *Ship of the Imagination*, explaining how things work on it. He then shows a picture of the Earth from 250 million years ago, and another of the Earth "how it could appear 250 million years from now", complete with evidence that human life is still there. This is all well and good (it's a ship of the imagination after all), but I want to call back to something he said in the opening. If you remember, this was the contract as described by him:
 
 > This adventure is made possible by generations of searchers strictly adhering to a simple set of rules:
 >
@@ -78,11 +78,11 @@ Less than 3 minutes after laying these terms out, *Cosmos* is already violating 
 
 #### Mercury
 
-Around the 6 minute mark, deGrasse Tyson begins to narrate our journey through the solar system. He has something to say about almost every planet, except Mercury. "The Sun holds all the worlds in our solar system in its gravitational embrace, starting with Mercury." And that's it. We don't even get a clear shot of the closest planet to the Sun. Why no love for Mercury? Someone on the *Cosmos* staff is *clearly* an Anti-Mercurite.
+Around the 6 minute mark, Tyson begins to narrate our journey through the solar system. He has something to say about almost every planet, except Mercury. "The Sun holds all the worlds in our solar system in its gravitational embrace, starting with Mercury." And that's it. We don't even get a clear shot of the closest planet to the Sun. Why no love for Mercury? Someone on the *Cosmos* staff is *clearly* an Anti-Mercurite.
 
 #### Mars
 
-Continuing on to Mars, where deGrasse Tyson says that Mars has "as much land as Earth itself." This necessitates some clarification. Mars is not as large as Earth: in fact, it only has ~38% of the surface area of Earth. However, because the Earth is mostly covered in water, the land Mars does have is about as much as the *dry* land on Earth.
+Continuing on to Mars, where Tyson says that Mars has "as much land as Earth itself." This necessitates some clarification. Mars is not as large as Earth: in fact, it only has ~38% of the surface area of Earth. However, because the Earth is mostly covered in water, the land Mars does have is about as much as the *dry* land on Earth.
 
 #### Asteroid Belt
 
@@ -90,7 +90,7 @@ The *Ship of the Imagination* reaches the asteroid belt, where we see a very cro
 
 #### Jupiter
 
-Past the asteroid belt we arrive at Jupiter and are treated to a number of lingering shots of Jupiter's Great Red Spot. However, while there are some impressive winds associated with the Great Red Spot, what's portrayed is way too fast. In the animations, we see the clouds rotate about the eye of the storm fairly quickly, indicating a rotational period of only a minute or two. But the Great Red Spot is so vast that its rotational period is about [six *days*][7]. From the vantage point of deGrasse Tyson (who gets up from his seat to view the spectacle) there wouldn't be much movement at all.
+Past the asteroid belt we arrive at Jupiter and are treated to a number of lingering shots of Jupiter's Great Red Spot. However, while there are some impressive winds associated with the Great Red Spot, what's portrayed is way too fast. In the animations, we see the clouds rotate about the eye of the storm fairly quickly, indicating a rotational period of only a minute or two. But the Great Red Spot is so vast that its rotational period is about [six *days*][7]. From the vantage point of Tyson (who gets up from his seat to view the spectacle) there wouldn't be much movement at all.
 
 #### Uranus and Neptune
 
@@ -102,9 +102,9 @@ Past Neptune we reach the Kuiper belt, which for some reason is never referred t
 
 Oddly, the density drops down to a more reasonable level when Pluto is reached. This is totally fascinating to me. If you're older than, say, 12, you remember a time when Pluto was considered a planet in the same vein as the other eight. However, this was a bit controversial and arbitrary amongst astronomers: Pluto always seemed like the odd one out. But given there was nothing else found like it, nobody made too much of a fuss. However, as astronomers identified more and more objects in the vicinity of Pluto, its status as a planet became called into question. It was totally shot when Kuiper belt objects Sedna and Eris were found to be about the same size of Pluto (or, in the case of Eris, possibly even larger).
 
-Neil deGrasse Tyson, as director of the Hayden Planetarium, caused a bit of a stir himself when he omitted Pluto from the planetarium's planetary exhibit. His decision was vindicated by the 2006 IAU vote on how planets should be classified. Under the [IAU definition][9], Pluto would not be counted as a "major planet" (the same category as Earth or Jupiter) because it has not "cleared the neighborhood" around its orbit: i.e., there's other stuff floating about where Pluto orbits.
+Tyson, as director of the Hayden Planetarium, caused a bit of a stir himself when he omitted Pluto from the planetarium's planetary exhibit. His decision was vindicated by the 2006 IAU vote on how planets should be classified. Under the [IAU definition][9], Pluto would not be counted as a "major planet" (the same category as Earth or Jupiter) because it has not "cleared the neighborhood" around its orbit: i.e., there's other stuff floating about where Pluto orbits.
 
-So you have this shot of Neil deGrasse Tyson whizzing through this minefield of a Kuiper belt (which isn't nearly as dense) only to get to Pluto—which is supposed to be part of that minefield—but is instead shown to have a clear orbit. One wonders if someone in the graphics team did that intentionally just to mess with people.
+So you have this shot of Tyson whizzing through this minefield of a Kuiper belt (which isn't nearly as dense) only to get to Pluto—which is supposed to be part of that minefield—but is instead shown to have a clear orbit. One wonders if someone in the graphics team did that intentionally just to mess with people.
 
 #### Voyager I
 
@@ -117,7 +117,7 @@ A couple of interesting notes about the [contents of the golden record][11]:
 
 #### Oort Cloud
 
-Not a whole lot wrong with this segment, but I wanted to talk about the explanation of why nobody has ever seen the Oort Cloud. As deGrasse Tyson explains, the Oort cloud is incredibly sparse. Why did they completely flub the visual depiction of the asteroid belt and the Kuiper belt only to explicitly call attention to the density of the Oort Cloud? It's a strange decision.
+Not a whole lot wrong with this segment, but I wanted to talk about the explanation of why nobody has ever seen the Oort Cloud. As Tyson explains, the Oort cloud is incredibly sparse. Why did they completely flub the visual depiction of the asteroid belt and the Kuiper belt only to explicitly call attention to the density of the Oort Cloud? It's a strange decision.
 
 One nitpick with the explanation: it's not *merely* that the Oort cloud is incredibly sparse. After all, we're able to visually confirm objects within the asteroid and Kuiper belts without issue even though they too are sparse. The issue is that it's sparse *and* the objects are too far away.
 
@@ -125,7 +125,7 @@ One nitpick with the explanation: it's not *merely* that the Oort cloud is incre
 
 #### Exoplanets and rogue planets
 
-This segment is a bit hamfisted and disjointed. It starts off innocently enough, with a factually correct description of how many planets theorized to be orbiting other stars in the galaxy. But then deGrasse Tyson wonders, "what do we know about life? We've met only one kind so far: Earthlife." and then immeditely starts talking about rogue planets.
+This segment is a bit hamfisted and disjointed. It starts off innocently enough, with a factually correct description of how many planets theorized to be orbiting other stars in the galaxy. But then Tyson wonders, "what do we know about life? We've met only one kind so far: Earthlife." and then immeditely starts talking about rogue planets.
 
 To be clear: weird, strange new forms of life that defy our conventional understanding of the term are not limited to rogue planets. We may find such things even in our own backyard, on satelites like Jupiter's Europa, or even Saturn's Titan.
 
@@ -133,23 +133,23 @@ A bit later, he defines rogue planets as "orphans, cast away from their mother s
 
 #### Milky Way Visuals
 
-The section on the Milky Way concludes with a stark, "infrared" visual where deGrasse Tyson states "every single dot, not just the bright ones, is a star." This is wrong. Half the visual is covered in a vast, dark cloud of interstellar dust, commonly referred to as the [Great Rift][15].
+The section on the Milky Way concludes with a stark, "infrared" visual where Tyson states "every single dot, not just the bright ones, is a star." This is wrong. Half the visual is covered in a vast, dark cloud of interstellar dust, commonly referred to as the [Great Rift][15].
 
-Later, the camera pans far outside of the Milky Way and deGrasse Tyson states that "we're now a hundred thousand light years from home." In reality, in that visual we would be much farther away than that. The Milky Way Galaxy itself is 100,000 light years across. I'd argue the *Ship of the Imagination* is at least half a million light years away, if not farther.
+Later, the camera pans far outside of the Milky Way and Tyson states that "we're now a hundred thousand light years from home." In reality, in that visual we would be much farther away than that. The Milky Way Galaxy itself is 100,000 light years across. I'd argue the *Ship of the Imagination* is at least half a million light years away, if not farther.
 
 ### Local Group
 
 First, Andromeda is not "the galaxy next door". It's close, relatively speaking, and it is the closest *spiral* galaxy to us, but there are [a dozen other galaxies closer][16]. The closest, the [Canis Major Dwarf Galaxy][17], is a mere 25,000 light years away: there's less distance between us and it than us and the center of the Milky Way.
 
-Second, when deGrasse Tyson says "a smattering of other, smaller [galaxies]", he means 54.
+Second, when Tyson says "a smattering of other, smaller [galaxies]", he means 54.
 
 ### The Multiverse
 
-Skipping over the Virgo Supercluseter and the Observable Universe segments, deGrasse Tyson makes a pretty big claim:
+Skipping over the Virgo Supercluseter and the Observable Universe segments, Tyson makes a pretty big claim:
 
 > Many of us suspect that all of this—all the worlds, stars, galaxies, and clusters in our observable Universe—is but one tiny bubble in an infinite ocean of other Universes: a multiverse.
 
-While the multiverse has support from a number of prominent scientists, its existence is controversial. There is no evidence—direct or otherwise—to suggest that the Multiverse is real. Reasonable scientists [often disagree][18] on whether it exists, or whether we can even know it exists. This is not a ["Flat Earthers vs. reality" type of debate][19], and it's a bit disingenuous to put that out there without mentioning the controversy especially considering the terms of rejecting ideas that fail the test of expirmental observation deGrasse Tyson required us to accept at the start of the episode.
+While the multiverse has support from a number of prominent scientists, its existence is controversial. There is no evidence—direct or otherwise—to suggest that the Multiverse is real. Reasonable scientists [often disagree][18] on whether it exists, or whether we can even know it exists. This is not a ["Flat Earthers vs. reality" type of debate][19], and it's a bit disingenuous to put that out there without mentioning the controversy especially considering the terms of rejecting ideas that fail the test of expirmental observation Tyson required us to accept at the start of the episode.
 
 ### The Early Modern Period
 
@@ -157,7 +157,7 @@ This section is rough and strays heavily into outright fiction. Because of the s
 
 #### Heliocentrism
 
-* Non-geocentric views of the Universe have had a long tradition dating back to classical Greece, a thousand years before the timeline presented by deGrasse Tyson and it was not "obvious that Earth was motionless."
+* Non-geocentric views of the Universe have had a long tradition dating back to classical Greece, a thousand years before the timeline presented by Tyson and it was not "obvious that Earth was motionless."
 * In 1599, the claim that "everyone knew the Sun and stars were just lights in the sky [that] revolved around the Earth" is false. Even discounting the efforts by the ancient Greeks, Romans, and early medieval astronomers, Copernicus had been working on his heliocentric model 30 years prior, and astronomers like Kepler and Tycho Brahe had published their findings endorsing the helicocentric model by 1596.
 * Likewise, Copernicus built his work upon the findings of others, and he credited them directly and extensively. He did not make a "radical proposal".
 
@@ -173,7 +173,7 @@ This section is rough and strays heavily into outright fiction. Because of the s
 
 #### Excommunication
 
-At this point, I want to interject and explain what excommunication is, because deGrasse Tyson never explains what it meant for Bruno to be excommunicated by three different groups.
+At this point, I want to interject and explain what excommunication is, because Tyson never explains what it meant for Bruno to be excommunicated by three different groups.
 
 In the context of Christianity, the Communion is what unites Christians with Jesus Christ. The details vary from demonination to demonination, but it's essentially the thing that makes Christians *Christians*.
 
@@ -199,11 +199,11 @@ Now that all of that is out of the way, let's pick up *Cosmos*'s story of Bruno 
 
 #### Giodorno Bruno's trial and execution
 
-After a number of failed teaching gigs in France and Germany, he returned to his native Italy where he continued his streak of pissing off the locals and losing bids for teaching positions to people like Galileo Galilei. deGrasse Tyson suggests he may have returned because he was homesick: I'd argue it's because he pissed off everyone elsewhere and had nowhere else to go.
+After a number of failed teaching gigs in France and Germany, he returned to his native Italy where he continued his streak of pissing off the locals and losing bids for teaching positions to people like Galileo Galilei. Tyson suggests he may have returned because he was homesick: I'd argue it's because he pissed off everyone elsewhere and had nowhere else to go.
 
-deGrasse Tyson refers to Bruno's imprisonment by the Inquisition as "falling into the clutches of the thought police." This is a bit disingenuous. Bruno wasn't arrested and tried merely for having heretical ideas. He was arrested and tried because, as discussed above, he wouldn't stop talking about them. To be clear, this is no more defensible: we now have centuries of political philosophy that cogently argues for the freedom of expression. But this was yet another missed opportunity to give an accurate portrayal of history.
+Tyson refers to Bruno's imprisonment by the Inquisition as "falling into the clutches of the thought police." This is a bit disingenuous. Bruno wasn't arrested and tried merely for having heretical ideas. He was arrested and tried because, as discussed above, he wouldn't stop talking about them. To be clear, this is no more defensible: we now have centuries of political philosophy that cogently argues for the freedom of expression. But this was yet another missed opportunity to give an accurate portrayal of history.
 
-deGrasse Tyson then asks, "*why* was the Church willing to go to *such* lengths to torment Bruno? What were they afraid of?" The answer suggested by deGrasse Tyson is that "if Bruno was right, then the sacred books and the authority of the Church would be open to question." Again, this is disingenuous at best, and patently false at worst. Bruno was not the first, nor would he be the last, person to speak out against the Church. Heck, while Bruno was doing his thing, the Protestant Reformation—which really did cripple the notion of an omnipresent, omnipotent Church—was in full swing.
+Tyson then asks, "*why* was the Church willing to go to *such* lengths to torment Bruno? What were they afraid of?" The answer suggested by Tyson is that "if Bruno was right, then the sacred books and the authority of the Church would be open to question." Again, this is disingenuous at best, and patently false at worst. Bruno was not the first, nor would he be the last, person to speak out against the Church. Heck, while Bruno was doing his thing, the Protestant Reformation—which really did cripple the notion of an omnipresent, omnipotent Church—was in full swing.
 
 Oddly, after glossing over the theological issues with Bruno's philosophy throughout the segment, there's a scene in which the supposed heresies of which Bruno was convicted are listed, three of which are theological in nature and never mentioned before this point:
 
@@ -214,9 +214,9 @@ Oddly, after glossing over the theological issues with Bruno's philosophy throug
 
 To be clear, this is a fiction. We don't know what heresies Bruno was convicted of: the record of his trial has been lost. Various historians have created their own speculative lists, indicating that his assertion of an infinite Universe or multiple worlds was but one issue among several theological errors. But we do know that the Church had no stance on the Copernican model of the Universe at the time of his conviction, so he could not have been convicted of a heresy related to that.
 
-We also know that Bruno was not highly regarded by other scientists at the time, like Kepler and Galileo, contrary to deGrasse Tyson's claim that Galileo realized 10 years later that Bruno had "been right all along."
+We also know that Bruno was not highly regarded by other scientists at the time, like Kepler and Galileo, contrary to Tyson's claim that Galileo realized 10 years later that Bruno had "been right all along."
 
-deGrasse Tyson wraps up the segment on Bruno with the following monologue:
+Tyson wraps up the segment on Bruno with the following monologue:
 
 > Bruno was no scientist. His vision of the cosmos was a lucky guess, because he had no evidence to support it. Like most guesses, it could well have turned out wrong. But once the idea was in the air, it gave others a target to aim at, if only to disprove it.
 
@@ -230,9 +230,9 @@ For the most part, the Cosmic Calendar is a faithful retelling of cosmology as w
 
 First, the description of how the Moon formed—where it was simply a collection of random debris that coalesced in a singular object—is a bit of an oversimplification of the currently accepted lunar origin hypotheses. The most widely accepted hypothesis of how the Moon was formed is called the [giant impact hypothesis][24], where a planet the size of Mars called *Theia* collided with Earth and its resulant ejecta coallesced to for the Moon. *Cosmos* shows a planetoid hitting Earth, but what they showed is much smaller than the proposed Theia.[^1]
 
-Second, deGrasse Tyson mentions that we "invented Astronomy." The use of "invented" is problematic: we didn't make astronomy up like we did with, say, astrology. I'd strongly argue "discover" is a more appropriate description of our relation to astronomy and the other sciences.
+Second, Tyson mentions that we "invented Astronomy." The use of "invented" is problematic: we didn't make astronomy up like we did with, say, astrology. I'd strongly argue "discover" is a more appropriate description of our relation to astronomy and the other sciences.
 
-Third, another slight nitpick: deGrasse Tyson dates a "revolution in the way we live" (the so-called [Neolithic Revolution][25]) at around 10,000 years ago. It actually occurred 12,000–13,000 years ago. A drop in the bucket on the cosmological scale, but still 20–30% longer than deGrasse Tyson describes.
+Third, another slight nitpick: Tyson dates a "revolution in the way we live" (the so-called [Neolithic Revolution][25]) at around 10,000 years ago. It actually occurred 12,000–13,000 years ago. A drop in the bucket on the cosmological scale, but still 20–30% longer than Tyson describes.
 
 ## Conclusion
 
