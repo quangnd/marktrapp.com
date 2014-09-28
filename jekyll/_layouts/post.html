@@ -15,6 +15,12 @@ layout: article
     {% else %}
     {{ content | indent: 4 }}
     {% endif %}
+    {% if site.cta %}
+    <hr>
+    <section class="cta">
+        {{ site.cta | markdownify | indent: 8 }}
+    </section>
+    {% endif %}
 </div>
 <footer>
     <hr>
