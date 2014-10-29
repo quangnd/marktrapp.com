@@ -26,7 +26,9 @@ archive:
 
 post_groups:
     - key: section
-      key_plural: sections
+      group: sections
+    - key: layout
+      group: post_groups
 
 redcarpet:
     extensions: ['highlight', 'footnotes']
