@@ -50,8 +50,20 @@ This is broken. There are a number of ways this could’ve been mitigated:
 
 But instead, we’re left with a crappy UI and my Facebook activity is a lot less extant. Disappointing. If you’re on Facebook’s UI team, please fix this.[^1] If you’re working on your own UI, please use Facebook’s current delete workflow as a great example of what *not* to do.
 
+## Update
+
+Shortly after I published this post, [Daniel Lo Nigro][4], a front-end developer at Facebook, reached out to me and let me know they were working on a fix. Sure enough, a few months later, I noticed Facebook quietly updated the dialog to completely remove the history eraser checkbox:
+
+<figure>
+    <img src="/assets/images/facebook-delete-confirmation-no-checkbox.png" alt="Facebook’s delete confirmation dialog without the &amp;delete all &amp; checkbox">
+    <figcaption>Facebook’s delete confirmation dialog without the "delete all" checkbox</figcaption>
+</figure>
+
+Thanks, Facebook!
+
 [^1]: And maybe see if my posts could be restored? Had to try.
 
 [1]: https://www.youtube.com/watch?v=NITBfc1EOBo&t=27s "Ren and Stimpy: The Button"
 [2]: https://www.facebook.com/help/120994304648896?sr=1&sid=0scNG3ZYTQL1VlJjM "Facebook support: Can I retrieve deleted messages?"
 [3]: http://gethuman.com/contact/Facebook/ "GetHuman profile for Facebook"
+[4]: http://dan.cx "Daniel Lo Nigro's website"
