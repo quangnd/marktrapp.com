@@ -34,7 +34,7 @@ You can find more information about Brandopoly in [my write-up][2] in the projec
 
 ## My role
 
-I originally joined Bear Brook after college as an IT manager, acting as the technical liason for vendors and clients while being in charge of all of Bear Brook's on-site tech and Brandopoly's devops. Eventually, I took over the development of the Brandopoly product, releasing a version for small businesses in 2009 and a rewrite of the enterprise product in 2011, replacing the now-7-year-old code base and infrastructure to a more modern, modular system.[^2] I’ve continued to work on its development since then.
+I originally joined Bear Brook after college as an IT manager, acting as the technical liaison for vendors and clients while being in charge of all of Bear Brook's on-site tech and Brandopoly's devops. Eventually, I took over the development of the Brandopoly product, releasing a version for small businesses in 2009 and a rewrite of the enterprise product in 2011, replacing the now-7-year-old code base and infrastructure to a more modern, modular system.[^2] I’ve continued to work on its development since then.
 
 ## What’s next
 
@@ -44,7 +44,6 @@ I’m itching to apply my knowledge to new challenges. I have a few personal pro
 
 [^1]: This lead to the opportunity to move cross-country to Portland, Oregon.
 [^2]: We were actually able to do this gradually without disruption to Brandopoly's clients: nobody even noticed until the end of the migration when we launched a new UI.
-
 
 [1]: http://bearbrook.com "Bear Brook’s website"
 [2]: http://marktrapp.com/projects/brandopoly "My write-up on Brandopoly"
