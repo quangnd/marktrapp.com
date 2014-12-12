@@ -30,6 +30,7 @@ The second thing, having a system in place that was faster and easier to use tha
 
 The two aspects of Brandopoly allowed companies to get their branded stuff out in front of everybody quickly. Instead of waiting days to get the new branded materials, and hours to modify them for the specific use cases, teams would be able to create customized marketing materials with the correct branding within a few minutes. It was this ease of use that led to its quick adoption by some of the largest entertainment companies, including ABC and HBO.
 
+You can find more information about Brandopoly in [my write-up][2] in the projects section.
 
 ## My role
 
@@ -37,16 +38,16 @@ I originally joined Bear Brook after college as an IT manager, acting as the tec
 
 ## What’s next
 
-The Bureau of Labor Statistics says the [average time a person stays at a job][2] is now 4.4 years, with most millenials (of which I am a part) expect to stay at any one job for less than 3 years. This January will be my 7th anniversary working for Bear Brook continuously: it’s time for a change.
+The Bureau of Labor Statistics says the [average time a person stays at a job][3] is now 4.4 years, with most millennials (of which I am a part) expect to stay at any one job for less than 3 years. This January will be my 7th anniversary working for Bear Brook continuously: it’s time for a change.
 
-I’m itching to apply my knowledge to new challenges. I have a few personal projects I’ll no doubt spend some time on over the next few months, and I plan on blogging a lot more, but if you, or someone you know, is looking for someone with [my background, skills, and expertise][3], [let’s talk][4].
+I’m itching to apply my knowledge to new challenges. I have a few personal projects I’ll no doubt spend some time on over the next few months, and I plan on blogging a lot more, but if you, or someone you know, is looking for someone with [my background, skills, and expertise][4], [let’s talk][5].
 
 [^1]: This lead to the opportunity to move cross-country to Portland, Oregon.
 [^2]: We were actually able to do this gradually without disruption to Brandopoly's clients: nobody even noticed until the end of the migration when we launched a new UI.
 
 
 [1]: http://bearbrook.com "Bear Brook’s website"
-[2]: http://www.forbes.com/sites/jeannemeister/2012/08/14/job-hopping-is-the-new-normal-for-millennials-three-ways-to-prevent-a-human-resource-nightmare/ "Job Hopping Is the “New Normal” for Millennials: Three Ways to Prevent a Human Resource Nightmare"
-[3]: http://brandopoly.com "Brandopoly’s website"
+[2]: http://marktrapp.com/projects/brandopoly "My write-up on Brandopoly"
+[3]: http://www.forbes.com/sites/jeannemeister/2012/08/14/job-hopping-is-the-new-normal-for-millennials-three-ways-to-prevent-a-human-resource-nightmare/ "Job Hopping Is the “New Normal” for Millennials: Three Ways to Prevent a Human Resource Nightmare"
 [4]: http://marktrapp.com/about "My about page"
 [5]: http://marktrapp.com/contact "My contact page"
