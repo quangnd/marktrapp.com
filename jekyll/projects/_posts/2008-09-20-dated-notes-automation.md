@@ -6,6 +6,7 @@ excerpt: An Automator workflow for creating dated text files.
 
 permalink: /projects/dated-notes-automation
 
+section: Personal Projects
 tags: [Automator, MIT license]
 
 license: MIT

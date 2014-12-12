@@ -6,6 +6,7 @@ excerpt: A Jekyll plugin to provide an indentation filter.
 
 permalink: /projects/jekyll-indent-filter
 
+section: Personal Projects
 tags: [Jekyll, Ruby, MIT]
 
 license: MIT

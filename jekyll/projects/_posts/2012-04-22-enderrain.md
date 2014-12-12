@@ -7,6 +7,7 @@ note: Minecraft 1.4 and later includes the ability to use [game rules](http://mi
 
 permalink: /projects/enderrain
 
+section: Personal Projects
 tags: [Endermen, Minecraft]
 
 license: none

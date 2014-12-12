@@ -6,6 +6,7 @@ excerpt: A Jekyll plugin to provide a sort tag.
 
 permalink: /projects/jekyll-sort-tag
 
+section: Personal Projects
 tags: [Jekyll, Ruby, MIT]
 
 license: MIT

@@ -6,6 +6,7 @@ excerpt: A Jekyll plugin to strip extraneous whitespace.
 
 permalink: /projects/jekyll-collapse-newlines
 
+section: Personal Projects
 tags: [Jekyll, Ruby, MIT]
 
 license: MIT

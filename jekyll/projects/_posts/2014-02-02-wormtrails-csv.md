@@ -5,6 +5,7 @@ excerpt: A Common Lisp library for generating streamgraph-like charts called “
 
 permalink: /projects/wormtrails-csv
 
+section: Personal Projects
 tags: [Common Lisp, Lisp, MIT, streamgraph, wormtrail]
 
 license: MIT

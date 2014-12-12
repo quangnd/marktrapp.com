@@ -6,6 +6,7 @@ excerpt: A Safari extension to set the YouTube home page to the subscriptions fe
 
 permalink: /projects/youtube-subs-home
 
+section: Personal Projects
 tags: [extension, Safari, YouTube, GPLv2 license]
 
 license: GPLv2 only

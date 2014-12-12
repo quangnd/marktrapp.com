@@ -6,6 +6,7 @@ excerpt: A Jekyll plugin to group posts by arbitrary front-matter keys.
 
 permalink: /projects/jekyll-post-groups
 
+section: Personal Projects
 tags: [Jekyll, Ruby, MIT]
 
 license: MIT

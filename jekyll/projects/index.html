@@ -7,12 +7,24 @@ layout: default
 ---
 <section class="listing">
     <h1>{{ page.title }}</h1>
-    {% for post in site.posts %}
-    {% if post.categories contains 'projects' %}
-    <article>
-        <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
-        {{ post.excerpt }}
-    </article>
+    {% capture section_names %}{% for section in site.sections %}{{ section | first }}||{% endfor %}{% endcapture %}
+    {% assign section_names_sorted  = section_names | split: '||' | sort %}
+    {% for section_name in section_names_sorted %}
+    {% for post in site.sections[section_name] %}
+    {% if post.categories contains 'projects' and post.unlisted != true %}
+    <section>
+        <h1 id="{{ section_name | escape }}">{{ section_name }}</h1>
+        {% for post in site.sections[section_name] %}
+        {% if post.categories contains 'projects' and post.unlisted != true %}
+        <article>
+            <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
+            {{ post.excerpt }}
+        </article>
+        {% endif %}
+        {% endfor %}
+    </section>
+    {% break %}
     {% endif %}
+    {% endfor %}
     {% endfor %}
 </section>

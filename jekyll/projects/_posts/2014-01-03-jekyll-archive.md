@@ -6,6 +6,7 @@ excerpt: A Jekyll plugin to create a set of archive pages.
 
 permalink: /projects/jekyll-archive
 
+section: Personal Projects
 tags: [Jekyll, Ruby, MIT]
 
 license: MIT
