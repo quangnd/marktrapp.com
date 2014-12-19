@@ -42,7 +42,7 @@ Elsewhere, in a letter to his son Christopher (so-called [Letter 91][2]), he beg
 
 > Here is a small consignment of “The Ring”: the last two chapters that have been written, and the end of the Fourth Book of that great Romance, in which you will see that, as is all too easy, I have got the hero into such a fix that not even an author will be able to extricate him without labour and difficulty. Lewis was moved almost to tears by the last chapter. All the same, I chiefly want to hear what you think, as for a long time now I have written with you most in mind.
 
-The last two chapters of the “Fourth Book” refer to the end of *The Two Towers*[^1]: in the last two chapters—“Shelob’s Lair” and “The Choices of Master Samwise”—only two characters are present: Frodo and Sam. The latter chapter, aptly named, is told exclusively through the narrative of Sam.
+The last two chapters of the “Fourth Book” refer to the end of *The Two Towers*:[^1] in the last two chapters—“Shelob’s Lair” and “The Choices of Master Samwise”—only two characters are present: Frodo and Sam. The latter chapter, aptly named, is told exclusively through the narrative of Sam.
 
 But perhaps the clearest evidence in support of Sam being the true hero of the story comes from a letter to his publisher, Milton Waldman (so-called [Letter 131][3]):
 
