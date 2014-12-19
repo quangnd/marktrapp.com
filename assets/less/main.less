@@ -43,7 +43,7 @@ blockquote, dd, dl, p {
 
 html {
     @media print {
-        font-size: 0.75rem;
+        font-size: 0.55rem;
 
         * {
             color: @color-black !important;
@@ -61,12 +61,20 @@ body {
         background-size: 64px 64px;
     }
 
+    @media print {
+        background: none;
+    }
+
     > header {
         max-width: @viewport-full-max;
         margin: 1em auto;
 
         @media (min-width: @screen-sm-min) {
             position: relative;
+        }
+
+        @media print {
+            margin: 1rem 0;
         }
 
         h1 {
@@ -84,6 +92,7 @@ body {
                 margin-left: 0 !important;
                 text-indent: 0;
                 line-height: 1;
+                background: none;
             }
         }
 
@@ -166,6 +175,7 @@ body {
         font-size: 0.75rem;
 
         @media print {
+            display: none;
             max-width: 100%;
 
             a {
@@ -207,6 +217,10 @@ h1, h2, h3, h4, h5, h6 {
     a {
         display: block;
         text-decoration: none;
+    }
+
+    @media print {
+        font-weight: bold;
     }
 }
 
@@ -255,6 +269,7 @@ main {
 
     @media print {
         margin: 0;
+        max-width: 100%;
     }
 
     > article {
@@ -265,7 +280,7 @@ main {
         }
 
         @media print {
-            padding-right: 0;
+            padding-right: 0 !important;
         }
 
         > h1 {
