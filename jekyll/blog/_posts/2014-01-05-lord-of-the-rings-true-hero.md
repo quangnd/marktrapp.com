@@ -20,13 +20,13 @@ Frodo seems like an obvious choice: he begins the journey, most of the main char
 
 A decent choice is Aragorn: when the Fellowship disbands and Frodo goes east to Mordor, it’s Aragorn who holds the rest of the group together and marshals the forces of Gondor and Rohan to withstand Saruman and Sauron.
 
-Gandalf is also an option: while he ultimately held an advisorial role, it is unlikely any of the characters would’ve succeeded with their quests were it not for his help.
+Gandalf is also an option: while he ultimately held an advisory role, it is unlikely any of the characters would’ve succeeded with their quests were it not for his help.
 
 Or perhaps someone else? It’s a choice left up to the reader: if Gimli was the true hero in your mind, awesome.
 
 Over the years, there’s been some question as to who J.R.R. Tolkien himself thought was the true hero of the story when writing *the Lord of the Rings*. The two main contenders generally tend to be Aragorn, an obvious choice for the reasons above, and… Sam Gamgee.
 
-Yeah, that Sam. The gardner and faithful companion to Frodo. The one who got really excited to cook up some stewed rabbit at the doorstep of Sauron.
+Yeah, that Sam. The gardener and faithful companion to Frodo. The one who got really excited to cook up some stewed rabbit at the doorstep of Sauron.
 
 ## The case for Sam
 
@@ -50,13 +50,13 @@ But perhaps the clearest evidence in support of Sam being the true hero of the s
 
 ## What about Aragorn?
 
-If you’re not sold on Sam, a lot of the above evidence seems like it might be circumstatial. *Letter 184* merely refers to Sam as “a most heroic character”, not *the* hero. And *Letter 91* doesn’t mention Sam by name.
+If you’re not sold on Sam, a lot of the above evidence seems like it might be circumstantial. *Letter 184* merely refers to Sam as “a most heroic character”, not *the* hero. And *Letter 91* doesn’t mention Sam by name.
 
 But what of *Letter 131*? Surely that’s enough to seal the deal. The trouble is that the excerpted passage above is actually nestled within a very long paragraph:
 
 > Since we now try to deal with “ordinary life”, springing up ever unquenched under the trample of world policies and events, there are love-stories touched in, or love in different modes, wholly absent from *The Hobbit*. But the highest love-story, that of Aragorn and Arwen Elrond‘s daughter is only alluded to as a known thing. It is told elsewhere in a short tale. *Of Aragorn and Arwen Undómiel.* I think the simple “rustic” love of Sam and his Rosie (nowhere elaborated) is absolutely essential to the study of his (the chief hero’s) character, and to the theme of the relation of ordinary life (breathing, eating, working, begetting) and quests, sacrifice, causes, and the “longing for Elves”, and sheer beauty. But I will say no more, nor defend the theme of mistaken love seen in Éowyn and her first love for Aragorn. I do not feel much can now be done to heal the faults of this large and much-embracing tale – or to make it “publishable”, if it is not so now.
 
-Notice something, or someone, who seems to be the focus of that paragarph? It’s not Sam: it’s Aragorn. Aragorn’s love for Arwen. Éowyn’s love for Aragorn.
+Notice something, or someone, who seems to be the focus of that paragraph? It’s not Sam: it’s Aragorn. Aragorn’s love for Arwen. Éowyn’s love for Aragorn.
 
 If you’re convinced that Aragorn, not Sam, is the true hero of *the Lord of the Rings*, there’s a way to read the fourth sentence such that when Tolkien parathentically states “the chief hero” he’s not referring to Sam, but to Aragorn, and the sentence about Sam is merely a contrast to the love stories involving the chief hero (i.e. Aragorn).
 
@@ -85,7 +85,7 @@ Finally, Christopher Tolkien himself believed his father meant Sam was the chief
 > **To this Christopher replied, very succinctly, that he was certain that “the chief hero” referred to Sam.**
 
 [^1]: *The Lord of the Rings* was published in three volumes with two books each; *The Two Towers* contains books 3 and 4. Later in the same letter, Tolkien discusses how to get out of the hole he dug himself in books 5 and 6 (i.e., *The Return of the King*).
-[^2]: Thanks for redditor [richlaw][9] for [pointing this out][10].
+[^2]: Thanks to redditor [richlaw][9] for [pointing this out][10].
 
 [1]: http://tolkiengateway.net/wiki/Letter_184 "Tolkien Gateway article on Letter 184"
 [2]: http://tolkiengateway.net/wiki/Letter_91 "Tolkien Gateway article on Letter 91"
