@@ -23,7 +23,7 @@ Before I go and talk about possible answers to that, there’s another gotcha to
 
 Scandalous social drama aside, even the kings of normative social networking, Facebook, attempt to fight this problem by setting guidelines and banning those who don’t follow their definition of a “friend.” As I’m sure you experience with your own usage of Facebook, the enforcement leaves a lot to be desired.
 
-Assuming Facebook *could* determine what one’s motivations were, the restrictions are seen as arbitrary and contrary to what we consider Frienship: if I’ve met a person once offline, does that count? What about a video conference? If they’ve emailed me? It’s going to be hard, if not impossible, to come up with a definition of Friendship arbitrarily and expect people to go along with it. If one defines it as “two people are friends if they shake hands,” there’s going to be a large contingent of disenfranchised people who have preferred the “high-five” as their preferred friend-making nomenclature.
+Assuming Facebook *could* determine what one’s motivations were, the restrictions are seen as arbitrary and contrary to what we consider Friendship: if I’ve met a person once offline, does that count? What about a video conference? If they’ve emailed me? It’s going to be hard, if not impossible, to come up with a definition of Friendship arbitrarily and expect people to go along with it. If one defines it as “two people are friends if they shake hands,” there’s going to be a large contingent of disenfranchised people who have preferred the “high-five” as their preferred friend-making nomenclature.
 
 ## Describing, not defining, Friendship
 

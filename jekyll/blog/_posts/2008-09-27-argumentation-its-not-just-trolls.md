@@ -57,7 +57,7 @@ Since the topic is the focal point of a discussion, anyone can give their ideas 
 
 What does this get us? There’s no longer a one-to-one relationship between ideas about a topic and a person. Since I’m not being judged, I’m free to come up with multiple viewpoints about a topic, some of which may compete with or even contradict each other.
 
-In fact, since nobody in a discussion is there to win, an idea, possibly formed as an amalagmation of multiple different ideas, may wind up being the best possible theory. In the end, the knowledge of the topic for all participants is greater than it was before the discussion.
+In fact, since nobody in a discussion is there to win, an idea, possibly formed as an amalgamation of multiple different ideas, may wind up being the best possible theory. In the end, the knowledge of the topic for all participants is greater than it was before the discussion.
 
 ## Homework
 

@@ -13,9 +13,9 @@ license: none
 
 This weekend, Louis Gray [offered up his suggestions][1] on what FriendFeed must do in order to continue to grow. It included imperatives on for FriendFeed in a variety of areas: from the need to appeal to the mainstream, to its need to better define its value. Several other bloggers and big names in tech jumped on this, laying charges from FriendFeed’s [lack of big fish awareness][2] to FriendFeed’s [apparent lack of a business model][3].
 
-This is all part of a phenomenon that occurs in the blogosphere on an almost daily basis, and something I call *armchair entrepeneuring*. Offering feedback is one thing: but the sheer hubris of tech bloggers that they know how to run a company better than the ones actually running it is entirely different. It’s never merely “I’ve used this product, and this is what’s good about it, and this is what stinks about it;” it’s always “you poor fools, you clearly dropped the ball, and let me show you exactly why.” Nevermind that very few of the people have actually been in a startup, executive, entrepenuerial, or product management position: if they don’t get it, you’re clearly doing it wrong.
+This is all part of a phenomenon that occurs in the blogosphere on an almost daily basis, and something I call *armchair entrepeneuring*. Offering feedback is one thing: but the sheer hubris of tech bloggers that they know how to run a company better than the ones actually running it is entirely different. It’s never merely “I’ve used this product, and this is what’s good about it, and this is what stinks about it;” it’s always “you poor fools, you clearly dropped the ball, and let me show you exactly why.” Nevermind that very few of the people have actually been in a startup, executive, entrepreneurial, or product management position: if they don’t get it, you’re clearly doing it wrong.
 
-But my issue isn’t on the credentials of those who lay these charges against entrepenuers, but on how formulaic, and ultimately myopic, they are.
+But my issue isn’t on the credentials of those who lay these charges against entrepreneurs, but on how formulaic, and ultimately myopic, they are.
 
 Consider the following:
 
