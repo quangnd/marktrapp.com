@@ -1,0 +1,18 @@
+{% for section_name in include.section_names %}
+{% for post in site.sections[section_name] %}
+{% if post.categories contains 'blog' and post.unlisted != true %}
+<section>
+    <h1 id="{{ section_name | escape }}">{{ section_name }}</h1>
+    {% for post in site.sections[section_name] %}
+    {% if post.categories contains 'blog' and post.unlisted != true %}
+    <article>
+        <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
+        {{ post.excerpt }}
+    </article>
+    {% endif %}
+    {% endfor %}
+</section>
+{% break %}
+{% endif %}
+{% endfor %}
+{% endfor %}

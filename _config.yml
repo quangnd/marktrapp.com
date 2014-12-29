@@ -30,6 +30,8 @@ post_groups:
     - key: layout
       group: post_groups
 
+blog_presort: ['Programming', 'Philosophy']
+
 redcarpet:
     extensions: ['highlight', 'footnotes']
 
