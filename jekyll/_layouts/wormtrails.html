@@ -9,11 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="msapplication-TileImage" content="/assets/iamges/logo-green-144-alpha.png">
         <meta name="msapplication-TileColor" content="#DFD9C4">
-        {% if page.path == 'index.html' %}
-        <title>{{ site.name }} | {{ site.tagline}}</title>
-        {% else %}
         <title>{{ page.title }} | {{ site.name }}</title>
-        {% endif %}
         <link rel="canonical" href="{{ site.uri }}{{ page.url }}">
         <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Blog and Projects" href="/atom.xml">
         <link rel="stylesheet" href="/assets/css/main.css">
