@@ -61,6 +61,8 @@ cta: "Comments and feedback are welcome and appreciated. Need help on your next 
 feed:
     categories: ['blog', 'projects']
 
+sourcecode: https://github.com/itafroma/marktrapp.com
+
 prefix:
     diff: https://github.com/itafroma/marktrapp.com/commits/production/jekyll/
     edit: https://github.com/itafroma/marktrapp.com/edit/production/jekyll/
