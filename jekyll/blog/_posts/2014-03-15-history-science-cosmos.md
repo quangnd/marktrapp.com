@@ -30,7 +30,7 @@ So I hope the list of mistakes, ambiguities, and outright fictions are taken in 
 About 45 seconds in, deGrasse's narration mentions that we will "encounter beings who live in fire and ice." The image displayed is an animation of this guy:
 
 <figure>
-    <img src="/assets/images/tardigrade.png" alt="Tardigrade">
+    <img src="/assets/images/history-science-cosmos/tardigrade.png" alt="Tardigrade">
     <figcaption>Tardigrade</figcaption>
 </figure>
 

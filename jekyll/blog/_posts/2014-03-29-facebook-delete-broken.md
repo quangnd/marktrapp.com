@@ -24,7 +24,7 @@ Periodically, I like to clean up my Facebook timeline and remove boring posts th
 Pretty simple, right? Almost. Here’s what the confirmation dialog looks like when you delete a post that was imported via a third-party service, like Twitter:
 
 <figure>
-    <img src="/assets/images/facebook-delete-confirmation.png" alt="Facebook’s delete confirmation dialog">
+    <img src="/assets/images/facebook-delete-broken/facebook-delete-confirmation.png" alt="Facebook’s delete confirmation dialog">
     <figcaption>Facebook’s delete confirmation dialog</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ But instead, we’re left with a crappy UI and my Facebook activity is a lot les
 Shortly after I published this post, [Daniel Lo Nigro][4], a front-end developer at Facebook, reached out to me and let me know they were working on a fix. Sure enough, a few months later, I noticed Facebook quietly updated the dialog to completely remove the history eraser checkbox:
 
 <figure>
-    <img src="/assets/images/facebook-delete-confirmation-no-checkbox.png" alt="Facebook’s delete confirmation dialog without the &amp;delete all &amp; checkbox">
+    <img src="/assets/images/facebook-delete-broken/facebook-delete-confirmation-no-checkbox.png" alt="Facebook’s delete confirmation dialog without the &amp;delete all &amp; checkbox">
     <figcaption>Facebook’s delete confirmation dialog without the "delete all" checkbox</figcaption>
 </figure>
 
