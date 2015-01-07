@@ -41,7 +41,7 @@ license can be found in the source code.
 
 ## Copyright and license
 
-This plugin in its derivative form is copyright © 2013 Mark Trapp. All
+This plugin in its derivative form is copyright © 2013—2014 Mark Trapp. All
 rights reserved. It is made available via the MIT license. A copy of the license
 can be found in the `LICENSE` file.
 

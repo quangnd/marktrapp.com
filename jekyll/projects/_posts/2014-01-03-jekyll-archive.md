@@ -67,7 +67,7 @@ And by [Ilkka Laukkanen][4]:
 
 ## Copyright and license
 
-This plugin is copyright © 2013 [Mark Trapp][7]. All rights reserved. It is made
+This plugin is copyright © 2013–2014 [Mark Trapp][7]. All rights reserved. It is made
 available via the MIT license. A copy of the license can be found in the
 `LICENSE` file.
 

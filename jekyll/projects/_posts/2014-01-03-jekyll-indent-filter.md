@@ -54,7 +54,7 @@ The `<pre>` and `<code>` indentation solution was inspired by [kerotaa][3]'s
 
 ## Copyright and license
 
-This plugin is copyright © 2013 Mark Trapp. All rights reserved. It is made
+This plugin is copyright © 2013—2014 Mark Trapp. All rights reserved. It is made
 available via the MIT license. A copy of the license can be found in the
 `LICENSE` file.
 

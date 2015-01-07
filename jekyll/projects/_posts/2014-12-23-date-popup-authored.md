@@ -57,7 +57,7 @@ Date Popup Authored was inspired by the hacks provided by [brice][7] and [Rob Lo
 
 ## Copyright and license
 
-This module is copyright © 2011 Mark Trapp. All rights reserved. As required by [Drupal.org's licensing guidelines][10], it is made available via the [GPLv2 license][11] or later.
+This module is copyright © 2011—2015 Mark Trapp. All rights reserved. As required by [Drupal.org's licensing guidelines][10], it is made available via the [GPLv2 license][11] or later.
 
 [1]: https://jqueryui.com "jQuery UI website"
 [2]: https://drupal.org/node/895232 "Installing modules (Drupal 7)"

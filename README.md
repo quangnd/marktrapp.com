@@ -30,7 +30,7 @@ The generated site will be contained in the `_sites` directory.
 
 ## Licenses and usage
 
-Where applicable, all files are copyright © 2013–2014 Mark Trapp.
+Where applicable, all files are copyright © 2013–2015 Mark Trapp.
 
 Files within this repository are licensed on an individual basis. Note that there are automatic limitations to copyright (called "fair use" or "fair dealing")—including, but not limited to, excerpting, commentary, and personal reproduction—that do not require a license.
 
