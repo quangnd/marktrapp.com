@@ -20,9 +20,21 @@ gems:
     - 'jekyll/itafroma/post_groups'
 
 archive:
-    path: /blog
-    layout: archive
-    exclude: ['projects', 'hidden', 'pages']
+    - path: /blog/:year
+      title: Blog archive — :year
+      layout: archive
+      exclude:
+        categories: ['projects', 'hidden', 'pages']
+    - path: /blog/:year/:month
+      title: Blog archive — :long_month :year
+      layout: archive
+      exclude:
+        categories: ['projects', 'hidden', 'pages']
+    - path: /blog/:year/:month/:day
+      title: 'Blog archive — :long_month :i_day, :year'
+      layout: archive
+      exclude:
+        categories: ['projects', 'hidden', 'pages']
 
 post_groups:
     - key: section

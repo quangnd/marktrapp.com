@@ -1,14 +1,6 @@
 ---
 # license: MIT
 ---
-{% case page.archive.date_pattern %}
-{% when '%Y' %}
-    {% assign datename = page.date | date: "%Y" %}
-{% when '%Y/%m' %}
-    {% assign datename = page.date | date: "%B %Y" %}
-{% when '%Y/%m/%d' %}
-    {% assign datename = page.date | date: "%B %d, %Y" %}
-{% endcase %}
 <!DOCTYPE html>
 <html>
     <head>
@@ -52,14 +44,12 @@
         </header>
         <main>
             <section class="listing">
-                <h1>Blog archive — {{ datename }}</h1>
+                <h1>{{ page.title }}</h1>
                 {% for post in page.archive.posts reversed %}
-                {% unless post.categories contains 'projects' or post.tags contains 'hidden' %}
                 <article>
                     <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
                     {{ post.excerpt }}
                 </article>
-                {% endunless %}
                 {% endfor %}
             </section>
         </main>
