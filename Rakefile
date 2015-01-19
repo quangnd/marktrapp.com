@@ -49,6 +49,11 @@ task :build_drafts => :prepare do
   cp_r "#{prep}/.", "#{target}/assets"
 end
 
+desc 'Regenerate the website files and serve them locally.'
+task :serve => :build do
+  sh 'bundle exec jekyll serve --drafts --trace --skip-initial-build'
+end
+
 desc 'Clean up prepared and built files.'
 task :clean do
   rm_rf [prep, target]
