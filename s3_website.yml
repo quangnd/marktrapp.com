@@ -65,6 +65,11 @@ routing_rules:
       redirect:
         host_name: github.com
         replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2010-06-24-tom-tom-car-kit-doesnt-work-iphone-4-heres-fix.md
+    - condition:
+        key_prefix_equals: blog/2009/01/20/my-perfect-friendfeed-meme-less/
+      redirect:
+        host_name: github.com
+        replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-01-20-my-perfect-friendfeed-meme-less.md
 
     # Posts with adjusted permalinks
     - condition:
