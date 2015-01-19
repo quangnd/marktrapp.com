@@ -2,7 +2,7 @@
 # Build script for MarkTrapp.com
 #
 # Author:: Mark Trapp
-# Copyright: Copyright (c) 2013 Mark Trapp
+# Copyright: Copyright (c) 2013–2015 Mark Trapp
 # License:: MIT
 
 npm_bin = `npm bin`.chomp
@@ -79,3 +79,9 @@ task :refs do |t|
     end
   end
 end
+
+desc 'Deploy website to S3.'
+task :deploy do |t|
+  sh 'bundle exec s3_website push'
+end
+

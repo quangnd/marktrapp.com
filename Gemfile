@@ -3,6 +3,7 @@ gem 'redcarpet'
 gem 'jekyll'
 gem 'rake'
 gem 'rouge'
+gem 's3_website'
 
 # Jekyll plugins
 gem 'jekyll-itafroma-archive'

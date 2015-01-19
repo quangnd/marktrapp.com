@@ -1,0 +1,100 @@
+#
+# s3_website configuration
+#
+# More info about s3_website: https://github.com/laurilehmijoki/s3_website
+#
+# Copyright © 2015 Mark Trapp. All rights reserved.
+
+max_age:
+  "assets/*": 6000
+  "*": 300
+gzip: true
+s3_reduced_redundancy: true
+concurrency_level: 5
+cloudfront_invalidate_root: true
+
+routing_rules:
+    - condition:
+        key_prefix_equals: projects/quickies/
+      redirect:
+        replace_key_prefix_with: projects/
+    - condition:
+        key_prefix_equals: projects/fun/
+      redirect:
+        replace_key_prefix_with: projects/
+    - condition:
+        key_prefix_equals: sites/marktrapp.com/files/
+      redirect:
+        replace_key_prefix_with: files/
+    - condition:
+        key_prefix_equals: tags/
+      redirect:
+        replace_key_with: blog/
+    - condition:
+        key_prefix_equals: taxonomy/term/
+      redirect:
+        replace_key_with: blog/
+    - condition:
+        key_prefix_equals: author/
+      redirect:
+        replace_key_with: about/
+
+    # Posts removed from the site
+    - condition:
+        key_prefix_equals: blog/2009/10/12/dirty-little-google-voice-secret/
+      redirect:
+        host_name: github.com
+        replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-10-12-dirty-little-google-voice-secret.md
+    - condition:
+        key_prefix_equals: blog/2008/09/24/college-mark/
+      redirect:
+        host_name: github.com
+        replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2008-09-24-college-mark.md
+    - condition:
+        key_prefix_equals: blog/2009/01/08/twitter-vs-business-business-model/
+      redirect:
+        host_name: github.com
+        replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-01-08-twitter-vs-business-business-model.md
+    - condition:
+        key_prefix_equals: blog/2009/01/16/buddyfeed-native-friendfeed-client/
+      redirect:
+        host_name: github.com
+        replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2009-01-16-buddyfeed-native-friendfeed-client.md
+    - condition:
+        key_prefix_equals: blog/2010/06/24/tom-tom-car-kit-doesnt-work-iphone-4-heres-fix/
+      redirect:
+        host_name: github.com
+        replace_key_with: itafroma/marktrapp.com/blob/production/jekyll/blog/_posts/2010-06-24-tom-tom-car-kit-doesnt-work-iphone-4-heres-fix.md
+
+    # Posts with adjusted permalinks
+    - condition:
+        key_prefix_equals: author/
+      redirect:
+        replace_key_with: about/
+    - condition:
+        key_prefix_equals: projects/jekyll-collapse_newlines
+      redirect:
+        replace_key_with: projects/jekyll-collapse-newlines/
+    - condition:
+        key_prefix_equals: blog/2014/01/19/lisp-with-os-x-sublime-text
+      redirect:
+        replace_key_with: blog/2014/01/20/lisp-with-os-x-sublime-text/
+    - condition:
+        key_prefix_equals: blog/2014/01/06/group-posts-jekyll-front-matter
+      redirect:
+        replace_key_with: blog/2014/01/07/group-posts-jekyll-front-matter/
+    - condition:
+        key_prefix_equals: blog/2014/01/05/lord-of-the-rings-true-hero
+      redirect:
+        replace_key_with: blog/2014/01/06/lord-of-the-rings-true-hero/
+    - condition:
+        key_prefix_equals: blog/2014/01/04/whats-changed
+      redirect:
+        replace_key_with: blog/2014/01/05/whats-changed/
+
+# Private data
+# s3_id: YOUR_AWS_S3_ACCESS_KEY_ID
+# s3_secret: YOUR_AWS_S3_SECRET_ACCESS_KEY
+# s3_bucket: your.blog.bucket.com
+# cloudfront_distribution_id: your-dist-id
+
