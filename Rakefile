@@ -45,7 +45,7 @@ end
 
 desc 'Regenerate the website files (with drafts) and place them into _site.'
 task :build_drafts => :prepare do
-  sh 'bundle exec jekyll build --drafts'
+  sh 'bundle exec jekyll build --trace --drafts'
   cp_r "#{prep}/.", "#{target}/assets"
 end
 
