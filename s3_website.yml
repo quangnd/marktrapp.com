@@ -8,7 +8,13 @@
 max_age:
   "assets/*": 6000
   "*": 300
-gzip: true
+gzip:
+  - .css
+  - .html
+  - .js
+  - .md
+  - .svg
+  - .txt
 s3_reduced_redundancy: true
 concurrency_level: 5
 cloudfront_invalidate_root: true
