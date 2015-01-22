@@ -6,8 +6,8 @@
 # Copyright © 2015 Mark Trapp. All rights reserved.
 
 max_age:
-  "assets/*": 6000
-  "*": 300
+  "assets/*": 86400
+  "*": 3600
 gzip:
   - .css
   - .html
