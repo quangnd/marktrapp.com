@@ -49,7 +49,7 @@ Continue on to part 2: "[Data structures][16]".
 [1]: http://en.wikipedia.org/wiki/Zork "Wikipedia article on Zork"
 [2]: http://en.wikipedia.org/wiki/Grue_%28monster%29#Zork_lore "Wikipedia article on grues in Zork lore"
 [3]: http://en.wikipedia.org/wiki/Z-machine "Wikipedia article on Z-machine"
-[4]: https://github.com/itafroma/zork "Github repository for the Zork porting project"
+[4]: https://github.com/itafroma/zork-php "Github repository for the Zork porting project"
 [5]: http://pdp-10.trailing-edge.com/mit_emacs_170_teco_1220/01/info/mit-dm.txt.html "Information on MIT-DMS"
 [6]: http://en.wikipedia.org/wiki/Tim_Anderson_(Zork) "Wikipedia article on Tim Anderson"
 [7]: http://www.infocom-if.org/authors/blank.html "Infocom author page on Marc Blank"
