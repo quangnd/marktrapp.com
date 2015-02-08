@@ -153,6 +153,6 @@ Assuming these problems are resolved, this RFC is a net win for PHP and it'd be 
 [5]: http://php.net/manual/en/function.substr.php "PHP manual page for substr()"
 [6]: http://php.net/manual/en/control-structures.declare.php "PHP manual page for declare()"
 [7]: http://php.net/manual/en/security.magicquotes.php "PHP manual page for magic quotes"
-[8]: http://marc.info/?l=php-internals&m=142336319118979&w=2 "php-internals: Rasmus's analysis of the Scalar Type Hints RFC"
-[9]: http://marc.info/?l=php-internals&m=142342474929165&w=2 "php-internals: Syntactical change to Scalar Type Hints RFC"
+[8]: http://news.php.net/php.internals/82106 "php-internals: Rasmus's analysis of the Scalar Type Hints RFC"
+[9]: http://news.php.net/php.internals/82162 "php-internals: Syntactical change to Scalar Type Hints RFC"
 [10]: https://wiki.php.net/rfc/return_types "PHP RFC: Return Type Declarations"
