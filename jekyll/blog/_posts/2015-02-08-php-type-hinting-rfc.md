@@ -22,7 +22,7 @@ In PHP, functions and method calls are split into two large bins: internal funct
 ```php
 function foo($bar) {
     if (!is_int($bar)) {
-        throw new \InvalidArgumentException('$foo must be an integer.');
+        throw new \InvalidArgumentException('$bar must be an integer.');
     }
 
     return $bar * 2;
