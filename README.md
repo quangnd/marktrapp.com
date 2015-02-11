@@ -3,7 +3,7 @@
 This repository contains the code for generating [marktrapp.com][1]. The purpose behind providing the website source is threefold:
 
 * Make it relatively easy to submit fixes or changes to those that want to
-* Maintain some amount of transparancy about what goes into the website
+* Maintain some amount of transparency about what goes into the website
 * Act as an example for anyone who wants to use a static site generator
 
 ## System requirements
