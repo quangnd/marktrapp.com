@@ -143,7 +143,11 @@ Even discounting the perpetual war between strong and weak typing proponents, th
 
 Assuming these problems are resolved, this RFC is a net win for PHP and it'd be a real shame if philosophical issues about purity kill it. Perfect is not only the enemy of the good, but also of the good enough.
 
-[^1]: Note the return type declaration is a feature of PHP7 and was [passed separately][10] from the scalar type hinting RFC.
+## Update
+
+A *lot* happened with respect to scalar type definitions since this blog was posted, including the version of the RFC talked about here [being withdrawn][10] less than a day before voting closed. However, a [new version of the RFC][11]—almost identical to the first—eventually did pass. The major change: `declare()` can now only be declared at the top of a file.
+
+[^1]: Note the return type declaration is a feature of PHP7 and was [passed separately][13] from the scalar type hinting RFC.
 [^2]: I might add that this ability to mix and match strong and weak typing was considered a benefit of HHVM's handling of Hack and PHP.
 
 [1]: https://wiki.php.net/rfc/scalar_type_hints "PHP RFC: Scalar Type Hints"
@@ -155,4 +159,6 @@ Assuming these problems are resolved, this RFC is a net win for PHP and it'd be 
 [7]: http://php.net/manual/en/security.magicquotes.php "PHP manual page for magic quotes"
 [8]: http://news.php.net/php.internals/82106 "php-internals: Rasmus's analysis of the Scalar Type Hints RFC"
 [9]: http://news.php.net/php.internals/82162 "php-internals: Syntactical change to Scalar Type Hints RFC"
-[10]: https://wiki.php.net/rfc/return_types "PHP RFC: Return Type Declarations"
+[10]: http://news.php.net/php.internals/82750 "'I quit.' from Andrea Faulds to php.internals"
+[11]: https://wiki.php.net/rfc/scalar_type_hints_v5 "PHP RFC: Scalar Type Declarations"
+[12]: https://wiki.php.net/rfc/return_types "PHP RFC: Return Type Declarations"
