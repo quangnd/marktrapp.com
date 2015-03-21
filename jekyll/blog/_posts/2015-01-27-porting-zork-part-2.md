@@ -111,7 +111,7 @@ I have no idea what this means. After porting, I've determined that that `<MAKE-
 
 `<MAKE-SLOT>` is the first subroutine I've run into that cross-references another file's code, so as part of its implementation of I ported `<OPUT>` and `<OGET>` from `defs.mud`. I'll talk more about them later in the series, but they're essentially wrappers around PHP's associated array assignment that ensure the correct object property is referenced (`Room::$rprops` for rooms and `Object::$oprops` for items).
 
-[1]: http://marktrapp.com/blog/2015/01/27/porting-zork-part-1/ "Porting Zork — Part 1: Introduction"
+[1]: https://marktrapp.com/blog/2015/01/27/porting-zork-part-1/ "Porting Zork — Part 1: Introduction"
 [2]: https://github.com/itafroma/zork-mdl/blob/master/prim.mud "prim.mud source code"
 [3]: https://github.com/itafroma/zork-mdl/blob/ffd99fada4c4e8f46b7ae6fe15722b920560d011/prim.mud#L2-L8 "<MSETG> implementation"
 [4]: https://github.com/itafroma/zork-mdl/blob/ffd99fada4c4e8f46b7ae6fe15722b920560d011/prim.mud#L10-L19 "<PSETG> implementation"

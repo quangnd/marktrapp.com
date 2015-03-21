@@ -36,7 +36,7 @@ Thanks to everyone who checked it out, provided feedback, and bug reports: it wa
 
 [1]: http://jekyllrb.com "Jekyll project page"
 [2]: https://github.com/itafroma/jekyll-archive#acknowledgments "Precursor Gists for Jekyll archive functionality"
-[3]: http://marktrapp.com/projects/jekyll-archive/ "Jekyll Archive Generator project page"
+[3]: https://marktrapp.com/projects/jekyll-archive/ "Jekyll Archive Generator project page"
 [4]: https://github.com/jekyll "Jekyll's GitHub profile"
 [5]: https://github.com/jekyll/jekyll-archives "Jekyll Archives project page"
 [6]: https://github.com/itafroma/jekyll-archive/releases/tag/0.4.2 "Jekyll Archive Generator 0.4.2 on GitHub"

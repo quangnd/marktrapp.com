@@ -75,5 +75,5 @@ This plugin is copyright © 2014 Mark Trapp. All rights reserved. It is made ava
 * “[Grouping posts by a front-matter key in Jekyll][1]”
 * [RubyGems project page][2]
 
-[1]: http://marktrapp.com/blog/2014/01/06/group-posts-jekyll-front-matter "Grouping posts by a front-matter key in Jekyll"
+[1]: https://marktrapp.com/blog/2014/01/06/group-posts-jekyll-front-matter "Grouping posts by a front-matter key in Jekyll"
 [2]: https://rubygems.org/gems/jekyll-itafroma-post_groups "RubyGems project page"

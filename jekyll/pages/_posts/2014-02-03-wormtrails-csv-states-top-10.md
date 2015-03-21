@@ -250,4 +250,4 @@ This graph is quite large: scroll down and to the right to see it in its entiret
     <area target="_new" shape="rect" onmouseover="updateBanner('California (pop. 37,253,956)', '#0E7FF5')" coords="3325,25,3425,3">
 </map>
 
-[1]: http://marktrapp.com/blog/2014/02/03/american-population-growth/ "Visualizing US city and state growth with Wormtrails"
+[1]: https://marktrapp.com/blog/2014/02/03/american-population-growth/ "Visualizing US city and state growth with Wormtrails"

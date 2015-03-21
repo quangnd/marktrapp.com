@@ -45,5 +45,5 @@ The final thing to identify in an argument is its soundness. A *sound* argument 
 
 The three steps outlined are important: in fact, all arguments can be parsed with these three steps alone (obviously, each step has its own methods and tricks for completing them, more on that in later posts). Besides providing a foundation for understanding an argument, every bad argument can be defeated with at least one of the steps: either the argument doesn’t provide reasons for a conclusion, the conclusion doesn’t necessarily follow from the reasons provided, the reasons provided are simply false, or a combination of the three.
 
-[1]: http://marktrapp.com/blog/2008/09/27/argumentation-its-not-just-trolls "Argumentation: it’s not just for trolls"
-[2]: http://marktrapp.com/blog/2009/01/03/armchair-entrepeneuring "Armchair Entrepeneuring"
+[1]: https://marktrapp.com/blog/2008/09/27/argumentation-its-not-just-trolls "Argumentation: it’s not just for trolls"
+[2]: https://marktrapp.com/blog/2009/01/03/armchair-entrepeneuring "Armchair Entrepeneuring"

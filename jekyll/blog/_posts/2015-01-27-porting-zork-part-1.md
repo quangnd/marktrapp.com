@@ -61,4 +61,4 @@ Continue on to part 2: "[Data structures][16]".
 [13]: https://github.com/itafroma/zork/tree/master/src/mdl "Zork MDL source code"
 [14]: http://perilsofparallel.blogspot.com "Greg Pfister's blog"
 [15]: https://github.com/itafroma/zork/blob/master/src/mdl/prim.mud "prim.mud source code"
-[16]: http://marktrapp.com/blog/2015/01/27/porting-zork-part-2/ "Porting Zork — Part 2: Data structures"
+[16]: https://marktrapp.com/blog/2015/01/27/porting-zork-part-2/ "Porting Zork — Part 2: Data structures"

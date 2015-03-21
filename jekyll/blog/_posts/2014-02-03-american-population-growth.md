@@ -103,4 +103,4 @@ Totally unreadable, but hilarious.
 [5]: http://xach.com "Zach Beane’s website"
 [6]: http://www.xach.com/moviecharts/ "Movie box office charts"
 [7]: https://github.com/xach/wormtrails "Wormtrails repository on GitHub"
-[8]: http://marktrapp.com/projects/wormtrails-csv/ "Wormtrails CSV project page"
+[8]: https://marktrapp.com/projects/wormtrails-csv/ "Wormtrails CSV project page"

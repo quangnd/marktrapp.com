@@ -58,7 +58,7 @@ Social media helps you get the information that’s interesting to you: and part
 
 [1]: http://en.wikipedia.org/wiki/I_Want_You_to_Want_Me "Wikipedia article on Cheap Trick’s “I Want You To Want Me"
 [2]: http://www.imdb.com/title/tt0223897/ "IMDB entry for Pay It Forward"
-[3]: http://marktrapp.com/blog/2008/09/23/friendship-digital-world-part-2 "Friendship in the Digital World: Part 2"
+[3]: https://marktrapp.com/blog/2008/09/23/friendship-digital-world-part-2 "Friendship in the Digital World: Part 2"
 [4]: http://nowsourcing.com/blog/2008/09/29/friendfeed-is-all-about-friends-who-reciprocate/ "Friendfeed Is All About Friends Who Reciprocate"
 [5]: http://www.shootingatbubbles.com/archives/dont-guilt-me-into-being-a-friend/ "Don’t Guilt Me Into Being A Friend"
 [6]: http://www.web-strategist.com/blog/2008/09/29/why-friending-will-be-an-obsolete/ "Why ‘Friending’ Will Be Obsolete"

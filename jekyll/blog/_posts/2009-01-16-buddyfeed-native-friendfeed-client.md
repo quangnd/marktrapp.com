@@ -55,4 +55,4 @@ Sounds good to me. Here’s to the next version!
 [2]: http://fftogo.com/ "FFToGo website"
 [3]: http://www.codewalrus.com/buddyfeed/ "BuddyFeed website"
 [4]: http://friendfeed.com/api/ "FriendFeed API"
-[5]: http://marktrapp.com/blog/2009/01/07/testing-testing-1-2-3 "Testing, Testing, 1-2-3"
+[5]: https://marktrapp.com/blog/2009/01/07/testing-testing-1-2-3 "Testing, Testing, 1-2-3"

@@ -260,4 +260,4 @@ This graph is quite large: scroll down and to the right to see it in its entiret
     <area target="_new" shape="rect" onmouseover="updateBanner('New York (pop. 20,009,000)', '#F42710')" coords="3325,26,3525,626">
 </map>
 
-[1]: http://marktrapp.com/blog/2014/02/03/american-population-growth/ "Visualizing US city and state growth with Wormtrails"
+[1]: https://marktrapp.com/blog/2014/02/03/american-population-growth/ "Visualizing US city and state growth with Wormtrails"

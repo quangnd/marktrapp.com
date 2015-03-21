@@ -51,5 +51,5 @@ So Friendship is a great thing not because of some gain in personal interest, bu
 
 This part had a lot of abstraction, but it’s important to talk about the importance of Friendship and how it relates to other similar ideas before we can really get into it’s application. Part 3 will bring this back down to Earth where we can start to think about how these concepts relate back to friendships in the digital world.
 
-[1]: http://marktrapp.com/blog/2008/09/22/friendship-digital-world-part-1 "Friendship in the digital world (Part 1)"
+[1]: https://marktrapp.com/blog/2008/09/22/friendship-digital-world-part-1 "Friendship in the digital world (Part 1)"
 [2]: http://en.wikipedia.org/wiki/Xenu "Wikipedia article on Xenu"

@@ -192,4 +192,4 @@ I created a general-purpose plugin that allows posts to be grouped on any front-
 [3]: https://github.com/jekyll/jekyll/blob/92064134d67eb17392a45e4fc82d83423a4b8ff4/lib/jekyll/site.rb#L309 "site_payload within site.rb"
 [4]: http://pages.github.com "GitHub Pages website"
 [5]: https://github.com/jekyll/jekyll/blob/92064134d67eb17392a45e4fc82d83423a4b8ff4/lib/jekyll/site.rb#L279 "post_attr_hash within site.rb"
-[6]: http://marktrapp.com/projects/jekyll-post-groups/ "Jekyll Post Group Generator project page"
+[6]: https://marktrapp.com/projects/jekyll-post-groups/ "Jekyll Post Group Generator project page"

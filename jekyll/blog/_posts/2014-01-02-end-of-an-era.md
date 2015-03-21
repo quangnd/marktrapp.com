@@ -46,7 +46,7 @@ I’m itching to apply my knowledge to new challenges. I have a few personal pro
 [^2]: We were actually able to do this gradually without disruption to Brandopoly's clients: nobody even noticed until the end of the migration when we launched a new UI.
 
 [1]: http://bearbrook.com "Bear Brook’s website"
-[2]: http://marktrapp.com/projects/brandopoly "My write-up on Brandopoly"
+[2]: https://marktrapp.com/projects/brandopoly "My write-up on Brandopoly"
 [3]: http://www.forbes.com/sites/jeannemeister/2012/08/14/job-hopping-is-the-new-normal-for-millennials-three-ways-to-prevent-a-human-resource-nightmare/ "Job Hopping Is the “New Normal” for Millennials: Three Ways to Prevent a Human Resource Nightmare"
-[4]: http://marktrapp.com/about "My about page"
-[5]: http://marktrapp.com/contact "My contact page"
+[4]: https://marktrapp.com/about "My about page"
+[5]: https://marktrapp.com/contact "My contact page"
