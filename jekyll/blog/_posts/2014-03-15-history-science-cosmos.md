@@ -46,13 +46,9 @@ The supernova is pretty uncontroversially a "death" of a star: there is nothing 
 
 If so, black holes and black dwarfs would qualify as "stars that never die", though black holes are theorized to be able to "evaporate" via a mechanism known as Hawking radiation. In this case, you won't have to go very far to explore the planet of a star that never dies: the Sun is one of them. The Sun is main-sequence star: it is expected to follow a stellar life cycle that [will eventually lead][3] to its perpetual existence as a black dwarf. But black dwarfs and non-evaporating black holes stretch the boundaries of what one might consider "alive" in a stellar sense: they emit no light, have no internal combustion. They're alive in the sense that a charred ember is when compared to a roaring fire.
 
-### Atoms as massive as suns
-
-Still under a minute, we reach the next animation, where Tyson mentions "atoms as massive as suns". There are no such things in the Universe. The element with the largest atomic radius, [Cesium][4], is a mere 265 pm (or 2.65 x 10<sup>-10</sup> meters).
-
 ### Credits
 
-At 3 minutes in, we see the next big mistake: the executive producer is Brannon Braga. Just kidding (but [only slightly][5]).
+At 3 minutes in, we see the next big mistake: the executive producer is Brannon Braga. Just kidding (but [only slightly][4]).
 
 A bit later, we're treated to a very impressive nova remnant/iris combination that forms the basis for Cosmos's title card as the *Ship of the Imagination* passed by the camera on the right, making a "whooshing" sound as it does so. Things don't "whoosh" in space. Sound requires a medium through which to travel, something space is definitely missing. In fact, this happens *every single time* an external shot of the *Ship of the Imagination* is used. I won't call it out again, but keep that in mind as you watch the rest of the episode.
 
@@ -86,15 +82,15 @@ Continuing on to Mars, where Tyson says that Mars has "as much land as Earth its
 
 #### Asteroid Belt
 
-The *Ship of the Imagination* reaches the asteroid belt, where we see a very crowded array of rocks and debris that wouldn't be out of place in a remade *Empire Strikes Back*. However, the asteroid belt is not that dense. In fact, the Asteroid Belt is mostly empty: while the density of the belt is not uniform, Marc Rayman of the JPL [estimates][6] an average distance of about 1.9 million km, or 8 times the distance from the Earth to the Moon. It's just that space is so big that "mostly empty" still translates into a lot of asteroids.
+The *Ship of the Imagination* reaches the asteroid belt, where we see a very crowded array of rocks and debris that wouldn't be out of place in a remade *Empire Strikes Back*. However, the asteroid belt is not that dense. In fact, the Asteroid Belt is mostly empty: while the density of the belt is not uniform, Marc Rayman of the JPL [estimates][5] an average distance of about 1.9 million km, or 8 times the distance from the Earth to the Moon. It's just that space is so big that "mostly empty" still translates into a lot of asteroids.
 
 #### Jupiter
 
-Past the asteroid belt we arrive at Jupiter and are treated to a number of lingering shots of Jupiter's Great Red Spot. However, while there are some impressive winds associated with the Great Red Spot, what's portrayed is way too fast. In the animations, we see the clouds rotate about the eye of the storm fairly quickly, indicating a rotational period of only a minute or two. But the Great Red Spot is so vast that its rotational period is about [six *days*][7]. From the vantage point of Tyson (who gets up from his seat to view the spectacle) there wouldn't be much movement at all.
+Past the asteroid belt we arrive at Jupiter and are treated to a number of lingering shots of Jupiter's Great Red Spot. However, while there are some impressive winds associated with the Great Red Spot, what's portrayed is way too fast. In the animations, we see the clouds rotate about the eye of the storm fairly quickly, indicating a rotational period of only a minute or two. But the Great Red Spot is so vast that its rotational period is about [six *days*][6]. From the vantage point of Tyson (who gets up from his seat to view the spectacle) there wouldn't be much movement at all.
 
 #### Uranus and Neptune
 
-We then reach Uranus and Neptune, who, like Mercury, are given a bit of a raw deal by being grouped together. One thing to note here is that Uranus's rings, while clearly visible in the flyby, are actually so faint they were [discovered by accident][8] while looking for something else. Unlike Saturn, whose rings are made of highly-reflective ice, Uranus's rings are mostly made up of light absorbant rock.
+We then reach Uranus and Neptune, who, like Mercury, are given a bit of a raw deal by being grouped together. One thing to note here is that Uranus's rings, while clearly visible in the flyby, are actually so faint they were [discovered by accident][7] while looking for something else. Unlike Saturn, whose rings are made of highly-reflective ice, Uranus's rings are mostly made up of light absorbant rock.
 
 #### The Kuiper belt and Pluto
 
@@ -102,18 +98,18 @@ Past Neptune we reach the Kuiper belt, which for some reason is never referred t
 
 Oddly, the density drops down to a more reasonable level when Pluto is reached. This is totally fascinating to me. If you're older than, say, 12, you remember a time when Pluto was considered a planet in the same vein as the other eight. However, this was a bit controversial and arbitrary amongst astronomers: Pluto always seemed like the odd one out. But given there was nothing else found like it, nobody made too much of a fuss. However, as astronomers identified more and more objects in the vicinity of Pluto, its status as a planet became called into question. It was totally shot when Kuiper belt objects Sedna and Eris were found to be about the same size of Pluto (or, in the case of Eris, possibly even larger).
 
-Tyson, as director of the Hayden Planetarium, caused a bit of a stir himself when he omitted Pluto from the planetarium's planetary exhibit. His decision was vindicated by the 2006 IAU vote on how planets should be classified. Under the [IAU definition][9], Pluto would not be counted as a "major planet" (the same category as Earth or Jupiter) because it has not "cleared the neighborhood" around its orbit: i.e., there's other stuff floating about where Pluto orbits.
+Tyson, as director of the Hayden Planetarium, caused a bit of a stir himself when he omitted Pluto from the planetarium's planetary exhibit. His decision was vindicated by the 2006 IAU vote on how planets should be classified. Under the [IAU definition][8], Pluto would not be counted as a "major planet" (the same category as Earth or Jupiter) because it has not "cleared the neighborhood" around its orbit: i.e., there's other stuff floating about where Pluto orbits.
 
 So you have this shot of Tyson whizzing through this minefield of a Kuiper belt (which isn't nearly as dense) only to get to Pluto—which is supposed to be part of that minefield—but is instead shown to have a clear orbit. One wonders if someone in the graphics team did that intentionally just to mess with people.
 
 #### Voyager I
 
-Voyager I is then shown, complete with its famous golden record. However, the record is shown rotating under its cover with music blaring. This isn't the case at all: there is nowhere near enough power to maintain the continuous playing of a record for decades. And as noted above, there is no medium through which the music would play even if there were. In reality, directions for playing the recorded are [etched on the cover][10], complete with some basic diagrams about how to measure time and where we are in the galaxy.
+Voyager I is then shown, complete with its famous golden record. However, the record is shown rotating under its cover with music blaring. This isn't the case at all: there is nowhere near enough power to maintain the continuous playing of a record for decades. And as noted above, there is no medium through which the music would play even if there were. In reality, directions for playing the recorded are [etched on the cover][9], complete with some basic diagrams about how to measure time and where we are in the galaxy.
 
-A couple of interesting notes about the [contents of the golden record][11]:
+A couple of interesting notes about the [contents of the golden record][10]:
 
 * It also contains a number of video segments.
-* The song playing in *Cosmos* is Blind Willie Johnson playing "[Dark was the night, Cold Was the Ground][12]". It is, in fact, one of the song samples features on the golden record.
+* The song playing in *Cosmos* is Blind Willie Johnson playing "[Dark was the night, Cold Was the Ground][11]". It is, in fact, one of the song samples features on the golden record.
 
 #### Oort Cloud
 
@@ -129,17 +125,17 @@ This segment is a bit hamfisted and disjointed. It starts off innocently enough,
 
 To be clear: weird, strange new forms of life that defy our conventional understanding of the term are not limited to rogue planets. We may find such things even in our own backyard, on satelites like Jupiter's Europa, or even Saturn's Titan.
 
-A bit later, he defines rogue planets as "orphans, cast away from their mother stars during the choatic birth of their native star systems" and "molten at the core and frozen at the surface". While it's certainly possible there are exemplars of such rogue planets, [our evidence so far][13] points to most of them being Jupiter-sized (or larger) gas giants. We also have evidence to believe that many of these rogue planets are actually "failed" stars called "[brown dwarfs][14]", never bound to any star system but not massive enough to sustain the fusion reaction required for an active star.
+A bit later, he defines rogue planets as "orphans, cast away from their mother stars during the choatic birth of their native star systems" and "molten at the core and frozen at the surface". While it's certainly possible there are exemplars of such rogue planets, [our evidence so far][12] points to most of them being Jupiter-sized (or larger) gas giants. We also have evidence to believe that many of these rogue planets are actually "failed" stars called "[brown dwarfs][13]", never bound to any star system but not massive enough to sustain the fusion reaction required for an active star.
 
 #### Milky Way Visuals
 
-The section on the Milky Way concludes with a stark, "infrared" visual where Tyson states "every single dot, not just the bright ones, is a star." This is wrong. Half the visual is covered in a vast, dark cloud of interstellar dust, commonly referred to as the [Great Rift][15].
+The section on the Milky Way concludes with a stark, "infrared" visual where Tyson states "every single dot, not just the bright ones, is a star." This is wrong. Half the visual is covered in a vast, dark cloud of interstellar dust, commonly referred to as the [Great Rift][14].
 
 Later, the camera pans far outside of the Milky Way and Tyson states that "we're now a hundred thousand light years from home." In reality, in that visual we would be much farther away than that. The Milky Way Galaxy itself is 100,000 light years across. I'd argue the *Ship of the Imagination* is at least half a million light years away, if not farther.
 
 ### Local Group
 
-First, Andromeda is not "the galaxy next door". It's close, relatively speaking, and it is the closest *spiral* galaxy to us, but there are [a dozen other galaxies closer][16]. The closest, the [Canis Major Dwarf Galaxy][17], is a mere 25,000 light years away: there's less distance between us and it than us and the center of the Milky Way.
+First, Andromeda is not "the galaxy next door". It's close, relatively speaking, and it is the closest *spiral* galaxy to us, but there are [a dozen other galaxies closer][15]. The closest, the [Canis Major Dwarf Galaxy][16], is a mere 25,000 light years away: there's less distance between us and it than us and the center of the Milky Way.
 
 Second, when Tyson says "a smattering of other, smaller [galaxies]", he means 54.
 
@@ -149,7 +145,7 @@ Skipping over the Virgo Supercluseter and the Observable Universe segments, Tyso
 
 > Many of us suspect that all of this—all the worlds, stars, galaxies, and clusters in our observable Universe—is but one tiny bubble in an infinite ocean of other Universes: a multiverse.
 
-While the multiverse has support from a number of prominent scientists, its existence is controversial. There is no evidence—direct or otherwise—to suggest that the Multiverse is real. Reasonable scientists [often disagree][18] on whether it exists, or whether we can even know it exists. This is not a ["Flat Earthers vs. reality" type of debate][19], and it's a bit disingenuous to put that out there without mentioning the controversy especially considering the terms of rejecting ideas that fail the test of expirmental observation Tyson required us to accept at the start of the episode.
+While the multiverse has support from a number of prominent scientists, its existence is controversial. There is no evidence—direct or otherwise—to suggest that the Multiverse is real. Reasonable scientists [often disagree][17] on whether it exists, or whether we can even know it exists. This is not a ["Flat Earthers vs. reality" type of debate][18], and it's a bit disingenuous to put that out there without mentioning the controversy especially considering the terms of rejecting ideas that fail the test of expirmental observation Tyson required us to accept at the start of the episode.
 
 ### The Early Modern Period
 
@@ -163,8 +159,8 @@ This section is rough and strays heavily into outright fiction. Because of the s
 
 #### Giodorno Bruno, Part 1
 
-* Giodorno Bruno was not the first, much less the only, person to envison an infinite cosmos. As [Corey Powell notes][20], Nicolas of Cusa envisioned the same thing a century earlier.
-* Bruno's undoing was not "[daring] to read the ancient books banned by the Church" or specifically reading the works of Lucretius. His first brush with the religious authorities was when he was accused of advocating a specific type of [heresy unreleated to cosmology][21] and when he was found to have an annotated text of [Erasmus][22], a promninent figure in early Protestantism.
+* Giodorno Bruno was not the first, much less the only, person to envison an infinite cosmos. As [Corey Powell notes][19], Nicolas of Cusa envisioned the same thing a century earlier.
+* Bruno's undoing was not "[daring] to read the ancient books banned by the Church" or specifically reading the works of Lucretius. His first brush with the religious authorities was when he was accused of advocating a specific type of [heresy unreleated to cosmology][20] and when he was found to have an annotated text of [Erasmus][21], a promninent figure in early Protestantism.
 * He was not accosted and thrown out of his order: he fled and voluntarily gave up the habit when he learned an investigation into the above was underway. In fact, he picked up his habit again at the convincing of his fellow Demonincian brothers.
 * Likewise, the picture of him cold and alone by a campfire having visions is a fiction. Bruno was initially successful wherever he went. As Powell continues:
     > Despite his heresies, Bruno was neither impoverished nor alone. In reality, he had a series of powerful patrons. In 1579, he was appointed a professor of philosophy in Tolouse, France. In 1581, King Henry III of France offered him a lucrative lectureship at the Sorbonne. In 1583 he visited England, lived with the ambassador to France, and met regularly with the Court…and so on. The gaunt, lonely fellow you see on screen in Cosmos is not the real Bruno.
@@ -186,7 +182,7 @@ That breaking of the bonds is called *excommunication*. Generally, the consequen
 
 Excommunication is not, and never was, a euphemism for capital punishment. It's also intended to be temporary (what Roman Catholics refer to as a "medicinal penalty"): atone for whatever you did and it's lifted. Atonement generally consists of recognizing whatever you did was wrong (confession) and making up for the act (penance). Of course, if you don't believe you did anything wrong or you simply don't want to be a part of the demonination, you wouldn't do any of that and you'd simply stay excommunicated.
 
-However, back when most of the Western World was under autocratic rule, if you kept making waves and stirring the pot and being a general rabblerouser, someone in a position of authority was going to decide that something is going to need to be done about you. Because virtually all monarchs believed they [ruled with divine favor][23], they considered themselves defenders of the faith as they saw it. This meant civil authorities having laws against spiritual wrongs like heresy and blasphemy, almost all of which were cruel and unusual.
+However, back when most of the Western World was under autocratic rule, if you kept making waves and stirring the pot and being a general rabblerouser, someone in a position of authority was going to decide that something is going to need to be done about you. Because virtually all monarchs believed they [ruled with divine favor][22], they considered themselves defenders of the faith as they saw it. This meant civil authorities having laws against spiritual wrongs like heresy and blasphemy, almost all of which were cruel and unusual.
 
 #### Giodorno Bruno, Part 2
 
@@ -228,41 +224,40 @@ So what should we take from this? That Kepler and Galileo were wrong? That if so
 
 For the most part, the Cosmic Calendar is a faithful retelling of cosmology as we know it. There are a few points to touch on, though.
 
-First, the description of how the Moon formed—where it was simply a collection of random debris that coalesced in a singular object—is a bit of an oversimplification of the currently accepted lunar origin hypotheses. The most widely accepted hypothesis of how the Moon was formed is called the [giant impact hypothesis][24], where a planet the size of Mars called *Theia* collided with Earth and its resulant ejecta coallesced to for the Moon. *Cosmos* shows a planetoid hitting Earth, but what they showed is much smaller than the proposed Theia.[^1]
+First, the description of how the Moon formed—where it was simply a collection of random debris that coalesced in a singular object—is a bit of an oversimplification of the currently accepted lunar origin hypotheses. The most widely accepted hypothesis of how the Moon was formed is called the [giant impact hypothesis][23], where a planet the size of Mars called *Theia* collided with Earth and its resulant ejecta coallesced to for the Moon. *Cosmos* shows a planetoid hitting Earth, but what they showed is much smaller than the proposed Theia.[^1]
 
 Second, Tyson mentions that we "invented Astronomy." The use of "invented" is problematic: we didn't make astronomy up like we did with, say, astrology. I'd strongly argue "discover" is a more appropriate description of our relation to astronomy and the other sciences.
 
-Third, another slight nitpick: Tyson dates a "revolution in the way we live" (the so-called [Neolithic Revolution][25]) at around 10,000 years ago. It actually occurred 12,000–13,000 years ago. A drop in the bucket on the cosmological scale, but still 20–30% longer than Tyson describes.
+Third, another slight nitpick: Tyson dates a "revolution in the way we live" (the so-called [Neolithic Revolution][24]) at around 10,000 years ago. It actually occurred 12,000–13,000 years ago. A drop in the bucket on the cosmological scale, but still 20–30% longer than Tyson describes.
 
 ## Conclusion
 
 This was a long, tedious exercise. I doubt I'll do another for the other episodes. While some (or, perhaps, most) of what I wrote here may seem pedantic or missing the point, the one thing I hope people take away from this exposition is that while *Cosmos* is a great eye opener if you have never experienced the wonders of our Universe, but you would do yourself a grave disservice if you take it at face value or use it as a reference. Science and history are complicated, messy subjects that are nevertheless worth exploring to their fullest extent: don't let your only exposure to it be an carefully edited hour of passive viewing for a few weeks.
 
-[^1]: It's important to note that the giant impact hypothesis is [not without its problems][26], even if the general idea is currently considered to be the most feasible.
+[^1]: It's important to note that the giant impact hypothesis is [not without its problems][25], even if the general idea is currently considered to be the most feasible.
 
 [1]: http://www.newscientist.com/article/dn14690-water-bears-are-first-animal-to-survive-space-vacuum.html
 [2]: http://books.google.com/books?id=QW2il1xeUvQC&lpg=PA207&ots=9PgBa_vx-M&pg=PA207
 [3]: http://io9.com/what-the-death-of-the-sun-will-look-like-471796727
-[4]: https://en.wikipedia.org/wiki/Caesium
-[5]: http://www.treknews.net/2011/09/24/brannon-braga-takes-full-responsibility-for-decisions-that-hurt-the-star-trek-franchise/
-[6]: http://dawn.jpl.nasa.gov/mission/faqs.asp
-[7]: http://www.universetoday.com/15163/jupiters-great-red-spot/
-[8]: https://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Rings
-[9]: https://en.wikipedia.org/wiki/IAU_definition_of_planet#Final_definition
-[10]: https://en.wikipedia.org/wiki/File:Voyager_Golden_Record_Cover_Explanation.svg
-[11]: https://en.wikipedia.org/wiki/Contents_of_the_Voyager_Golden_Record
-[12]: https://www.youtube.com/watch?v=BNj2BXW852g
-[13]: http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question62.html
-[14]: https://en.wikipedia.org/wiki/Great_Rift_%28astronomy%29
-[15]: https://en.wikipedia.org/wiki/File:Local_Group.svg
-[16]: https://en.wikipedia.org/wiki/Canis_Major_Dwarf
-[17]: http://www.space.com/2066-milky-andromeda-study-settles-massive.html
-[18]: http://www.nytimes.com/2003/04/12/opinion/a-brief-history-of-the-multiverse.html?pagewanted=all
-[19]: http://www.rawstory.com/rs/2014/03/09/neil-degrasse-tyson-tells-cnn-stop-giving-equal-time-to-the-flat-earthers/
-[20]: http://blogs.discovermagazine.com/outthere/2014/03/10/cosmos-pick-wrong-hero
-[21]: https://en.wikipedia.org/wiki/Arianism
-[22]: https://en.wikipedia.org/wiki/Erasmus
-[23]: https://en.wikipedia.org/wiki/Divine_right_of_kings
-[24]: https://en.wikipedia.org/wiki/Giant_impact_hypothesis
-[25]: http://en.wikipedia.org/wiki/Neolithic_Revolution
-[26]: http://news.sciencemag.org/2012/03/findings-cast-doubt-moon-origins
+[4]: http://www.treknews.net/2011/09/24/brannon-braga-takes-full-responsibility-for-decisions-that-hurt-the-star-trek-franchise/
+[5]: http://dawn.jpl.nasa.gov/mission/faqs.asp
+[6]: http://www.universetoday.com/15163/jupiters-great-red-spot/
+[7]: https://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Rings
+[8]: https://en.wikipedia.org/wiki/IAU_definition_of_planet#Final_definition
+[9]: https://en.wikipedia.org/wiki/File:Voyager_Golden_Record_Cover_Explanation.svg
+[10]: https://en.wikipedia.org/wiki/Contents_of_the_Voyager_Golden_Record
+[11]: https://www.youtube.com/watch?v=BNj2BXW852g
+[12]: http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question62.html
+[13]: https://en.wikipedia.org/wiki/Great_Rift_%28astronomy%29
+[14]: https://en.wikipedia.org/wiki/File:Local_Group.svg
+[15]: https://en.wikipedia.org/wiki/Canis_Major_Dwarf
+[16]: http://www.space.com/2066-milky-andromeda-study-settles-massive.html
+[17]: http://www.nytimes.com/2003/04/12/opinion/a-brief-history-of-the-multiverse.html?pagewanted=all
+[18]: http://www.rawstory.com/rs/2014/03/09/neil-degrasse-tyson-tells-cnn-stop-giving-equal-time-to-the-flat-earthers/
+[19]: http://blogs.discovermagazine.com/outthere/2014/03/10/cosmos-pick-wrong-hero
+[20]: https://en.wikipedia.org/wiki/Arianism
+[21]: https://en.wikipedia.org/wiki/Erasmus
+[22]: https://en.wikipedia.org/wiki/Divine_right_of_kings
+[23]: https://en.wikipedia.org/wiki/Giant_impact_hypothesis
+[24]: http://en.wikipedia.org/wiki/Neolithic_Revolution
+[25]: http://news.sciencemag.org/2012/03/findings-cast-doubt-moon-origins
