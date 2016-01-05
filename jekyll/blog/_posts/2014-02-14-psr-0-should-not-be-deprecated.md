@@ -52,6 +52,14 @@ Second, Phil [assured][7] that by deprecation, it would simply mean that PSR-4 w
 
 In effect, it would be to deprecate PSR-0’s autoloader in favor of PSR-4, but say nothing about the folder hierarchy guidelines. If you want to structure your library to be PSR-0 compliant (in addition to being PSR-4 compliant), the PHP-FIG would not be saying that you’re doing it wrong. That’s something I can agree with.
 
+## Update 2
+
+Despite Phil Sturgeon's assurances that PSR-0 would not be disavowed, the PHP-FIG has effectively done so anyway. The note at the top of PSR-0 makes no indication that the deprecation might only apply to the autoloader and not the folder hierarchy recommendation:
+
+> **Deprecated** - As of 2014-10-21 PSR-0 has been marked as deprecated. PSR-4 is now recommended as an alternative.
+
+And on the new PHP-FIG new site, launched late in 2015, PSR-0 is [segregated from other PSRs][8]. According to the [discussion on the PHP-FIG mailing list][9], the purpose of this segregation was to indicate PHP-FIG's position that the PSR is "obsolete" or "unaccepted", both of which would seem to support that PHP-FIG, as part of its deprecation of PSR-0, has disavowed it. I continue to hold the position that this is a mistake.
+
 [^1]: In essence, incorporating the namespace in to the class name to deal with the lack of namespace support in PHP 5.2.
 [^2]: Or, if you roll your own autoloader, manually map my library’s namespace to whatever the folder structure is.
 [^3]: Or WordPress, Joomla!, or any other system that has a large, disparate contributor base.
@@ -63,3 +71,5 @@ In effect, it would be to deprecate PSR-0’s autoloader in favor of PSR-4, but 
 [5]: https://drupal.org/node/1971198 "[policy] Drupal and PSR-0/PSR-4 Class Loading"
 [6]: https://twitter.com/philsturgeon/status/434112525006028800 "it was measured and well written. Good stuff. I still feel like “if you’ve made it confusing, you’ve done it wrong.” is true. :)"
 [7]: https://twitter.com/philsturgeon/status/434117621055643648 "it's not so much disavow, just: you should use PSR-4 but PSR-0 is around if you want it. Composer won’t delete it, etc."
+[8]: http://www.php-fig.org/psr/ "PHP Standards Recommendations"
+[9]: https://groups.google.com/forum/#!topic/php-fig/LJP7dcgh7uQ "List deprecated PSRs separately on http://www.php-fig.org/psr/?"
