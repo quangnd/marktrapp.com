@@ -15,7 +15,7 @@ After seeing the first episode this past weekend, I'm still on the fence. While 
 
 When I watched the episode, I laughed out loud at a number of segments, leading me to begin writing what follows. There are some really boneheaded mistakes in the episode, and it's a bit amusing to call them out. But after a few days of expanding this list, talking to other people about it, and some reflection, I'm convinced that's not merely why I found it problematic.
 
-And, as several people have reminded me, first and foremost *Cosmos* is an introduction to science. It's not meant to be absolutely cutting edge or a deep dive into the minutae of various aspects of astrophysics or cosmology. Because of that, it's tempting to give it a pass when it makes these mistakes.
+And, as several people have reminded me, first and foremost *Cosmos* is an introduction to science. It's not meant to be absolutely cutting edge or a deep dive into the minutiae of various aspects of astrophysics or cosmology. Because of that, it's tempting to give it a pass when it makes these mistakes.
 
 But at the same time, *Cosmos*—at least this version—is not merely a piece of throwaway content to merely say, "yeah, we got science talk in primetime!" Or rather, it shouldn't be, and we do ourselves a disservice to couch it in those terms. For many, who are like myself watching the original *Cosmos*, this might be the first time being exposed to more than is learned in a middle school science course.
 
@@ -90,7 +90,7 @@ Past the asteroid belt we arrive at Jupiter and are treated to a number of linge
 
 #### Uranus and Neptune
 
-We then reach Uranus and Neptune, who, like Mercury, are given a bit of a raw deal by being grouped together. One thing to note here is that Uranus's rings, while clearly visible in the flyby, are actually so faint they were [discovered by accident][7] while looking for something else. Unlike Saturn, whose rings are made of highly-reflective ice, Uranus's rings are mostly made up of light absorbant rock.
+We then reach Uranus and Neptune, who, like Mercury, are given a bit of a raw deal by being grouped together. One thing to note here is that Uranus's rings, while clearly visible in the flyby, are actually so faint they were [discovered by accident][7] while looking for something else. Unlike Saturn, whose rings are made of highly-reflective ice, Uranus's rings are mostly made up of light absorbent rock.
 
 #### The Kuiper belt and Pluto
 
@@ -121,9 +121,9 @@ One nitpick with the explanation: it's not *merely* that the Oort cloud is incre
 
 #### Exoplanets and rogue planets
 
-This segment is a bit hamfisted and disjointed. It starts off innocently enough, with a factually correct description of how many planets theorized to be orbiting other stars in the galaxy. But then Tyson wonders, "what do we know about life? We've met only one kind so far: Earthlife." and then immeditely starts talking about rogue planets.
+This segment is a bit hamfisted and disjointed. It starts off innocently enough, with a factually correct description of how many planets theorized to be orbiting other stars in the galaxy. But then Tyson wonders, "what do we know about life? We've met only one kind so far: Earthlife." and then immediately starts talking about rogue planets.
 
-To be clear: weird, strange new forms of life that defy our conventional understanding of the term are not limited to rogue planets. We may find such things even in our own backyard, on satelites like Jupiter's Europa, or even Saturn's Titan.
+To be clear: weird, strange new forms of life that defy our conventional understanding of the term are not limited to rogue planets. We may find such things even in our own backyard, on satellites like Jupiter's Europa, or even Saturn's Titan.
 
 A bit later, he defines rogue planets as "orphans, cast away from their mother stars during the choatic birth of their native star systems" and "molten at the core and frozen at the surface". While it's certainly possible there are exemplars of such rogue planets, [our evidence so far][12] points to most of them being Jupiter-sized (or larger) gas giants. We also have evidence to believe that many of these rogue planets are actually "failed" stars called "[brown dwarfs][13]", never bound to any star system but not massive enough to sustain the fusion reaction required for an active star.
 
@@ -145,7 +145,7 @@ Skipping over the Virgo Supercluseter and the Observable Universe segments, Tyso
 
 > Many of us suspect that all of this—all the worlds, stars, galaxies, and clusters in our observable Universe—is but one tiny bubble in an infinite ocean of other Universes: a multiverse.
 
-While the multiverse has support from a number of prominent scientists, its existence is controversial. There is no evidence—direct or otherwise—to suggest that the Multiverse is real. Reasonable scientists [often disagree][17] on whether it exists, or whether we can even know it exists. This is not a ["Flat Earthers vs. reality" type of debate][18], and it's a bit disingenuous to put that out there without mentioning the controversy especially considering the terms of rejecting ideas that fail the test of expirmental observation Tyson required us to accept at the start of the episode.
+While the multiverse has support from a number of prominent scientists, its existence is controversial. There is no evidence—direct or otherwise—to suggest that the multiverse is real. Reasonable scientists [often disagree][17] on whether it exists, or whether we can even know it exists. This is not a ["Flat Earthers vs. reality" type of debate][18], and it's a bit disingenuous to put that out there without mentioning the controversy especially considering the terms of rejecting ideas that fail the test of experimental observation Tyson required us to accept at the start of the episode.
 
 ### The Early Modern Period
 
@@ -154,16 +154,16 @@ This section is rough and strays heavily into outright fiction. Because of the s
 #### Heliocentrism
 
 * Non-geocentric views of the Universe have had a long tradition dating back to classical Greece, a thousand years before the timeline presented by Tyson and it was not "obvious that Earth was motionless."
-* In 1599, the claim that "everyone knew the Sun and stars were just lights in the sky [that] revolved around the Earth" is false. Even discounting the efforts by the ancient Greeks, Romans, and early medieval astronomers, Copernicus had been working on his heliocentric model 30 years prior, and astronomers like Kepler and Tycho Brahe had published their findings endorsing the helicocentric model by 1596.
+* In 1599, the claim that "everyone knew the Sun and stars were just lights in the sky [that] revolved around the Earth" is false. Even discounting the efforts by the ancient Greeks, Romans, and early medieval astronomers, Copernicus had been working on his heliocentric model 30 years prior, and astronomers like Kepler and Tycho Brahe had published their findings endorsing the heliocentric model by 1596.
 * Likewise, Copernicus built his work upon the findings of others, and he credited them directly and extensively. He did not make a "radical proposal".
 
 #### Giodorno Bruno, Part 1
 
 * Giodorno Bruno was not the first, much less the only, person to envison an infinite cosmos. As [Corey Powell notes][19], Nicolas of Cusa envisioned the same thing a century earlier.
-* Bruno's undoing was not "[daring] to read the ancient books banned by the Church" or specifically reading the works of Lucretius. His first brush with the religious authorities was when he was accused of advocating a specific type of [heresy unreleated to cosmology][20] and when he was found to have an annotated text of [Erasmus][21], a promninent figure in early Protestantism.
-* He was not accosted and thrown out of his order: he fled and voluntarily gave up the habit when he learned an investigation into the above was underway. In fact, he picked up his habit again at the convincing of his fellow Demonincian brothers.
+* Bruno's undoing was not "[daring] to read the ancient books banned by the Church" or specifically reading the works of Lucretius. His first brush with the religious authorities was when he was accused of advocating a specific type of [heresy unreleated to cosmology][20] and when he was found to have an annotated text of [Erasmus][21], a prominent figure in early Protestantism.
+* He was not accosted and thrown out of his order: he fled and voluntarily gave up the habit when he learned an investigation into the above was underway. In fact, he picked up his habit again at the convincing of his fellow Dominican brothers.
 * Likewise, the picture of him cold and alone by a campfire having visions is a fiction. Bruno was initially successful wherever he went. As Powell continues:
-    > Despite his heresies, Bruno was neither impoverished nor alone. In reality, he had a series of powerful patrons. In 1579, he was appointed a professor of philosophy in Tolouse, France. In 1581, King Henry III of France offered him a lucrative lectureship at the Sorbonne. In 1583 he visited England, lived with the ambassador to France, and met regularly with the Court…and so on. The gaunt, lonely fellow you see on screen in Cosmos is not the real Bruno.
+    > Despite his heresies, Bruno was neither impoverished nor alone. In reality, he had a series of powerful patrons. In 1579, he was appointed a professor of philosophy in Toulouse, France. In 1581, King Henry III of France offered him a lucrative lectureship at the Sorbonne. In 1583 he visited England, lived with the ambassador to France, and met regularly with the Court…and so on. The gaunt, lonely fellow you see on screen in Cosmos is not the real Bruno.
 
     > Nor was Bruno the simple, humble figure shown on TV. A major reason he moved around so much is that he was argumentative, sarcastic, and drawn to controversy. He engaged in bitter academic disputes, many of which had nothing to do with his cosmic framework. One example He fled France because of a violent dispute about the proper use of a compass (seriously).
 
@@ -171,27 +171,27 @@ This section is rough and strays heavily into outright fiction. Because of the s
 
 At this point, I want to interject and explain what excommunication is, because Tyson never explains what it meant for Bruno to be excommunicated by three different groups.
 
-In the context of Christianity, the Communion is what unites Christians with Jesus Christ. The details vary from demonination to demonination, but it's essentially the thing that makes Christians *Christians*.
+In the context of Christianity, the Communion is what unites Christians with Jesus Christ. The details vary from denomination to denomination, but it's essentially the thing that makes Christians *Christians*.
 
 That bond can be severed, however: if, for example, you decide that you don't want to be a Christian anymore, you'd no longer be in communion with the Church. Similarly, there are certain beliefs that a Church may hold to be core to its understanding of Christianity: by rejecting those beliefs, you'd fail to be in communion with the Church as well.
 
 That breaking of the bonds is called *excommunication*. Generally, the consequences for excommunication are as follows:
 
 * You can't participate in any of the Sacraments. Sacraments are specific Christian rites—like receiving the Holy Eucharist—that are manifestations of God's divine favor.
-* You may be ostracised by those who don't want to associate with people who are not of the same faith. One practical implication of this, as Giodorno Bruno occasionally ran into, may be that you can't attend or teach at an institution associated with the demoniation from which you were excommunicated.
+* You may be ostracized by those who don't want to associate with people who are not of the same faith. One practical implication of this, as Giodorno Bruno occasionally ran into, may be that you can't attend or teach at an institution associated with the denomination from which you were excommunicated.
 
-Excommunication is not, and never was, a euphemism for capital punishment. It's also intended to be temporary (what Roman Catholics refer to as a "medicinal penalty"): atone for whatever you did and it's lifted. Atonement generally consists of recognizing whatever you did was wrong (confession) and making up for the act (penance). Of course, if you don't believe you did anything wrong or you simply don't want to be a part of the demonination, you wouldn't do any of that and you'd simply stay excommunicated.
+Excommunication is not, and never was, a euphemism for capital punishment. It's also intended to be temporary (what Roman Catholics refer to as a "medicinal penalty"): atone for whatever you did and it's lifted. Atonement generally consists of recognizing whatever you did was wrong (confession) and making up for the act (penance). Of course, if you don't believe you did anything wrong or you simply don't want to be a part of the denomination, you wouldn't do any of that and you'd simply stay excommunicated.
 
-However, back when most of the Western World was under autocratic rule, if you kept making waves and stirring the pot and being a general rabblerouser, someone in a position of authority was going to decide that something is going to need to be done about you. Because virtually all monarchs believed they [ruled with divine favor][22], they considered themselves defenders of the faith as they saw it. This meant civil authorities having laws against spiritual wrongs like heresy and blasphemy, almost all of which were cruel and unusual.
+However, back when most of the Western World was under autocratic rule, if you kept making waves and stirring the pot and being a general rabble-rouser, someone in a position of authority was going to decide that something is going to need to be done about you. Because virtually all monarchs believed they [ruled with divine favor][22], they considered themselves defenders of the faith as they saw it. This meant civil authorities having laws against spiritual wrongs like heresy and blasphemy, almost all of which were cruel and unusual.
 
 #### Giodorno Bruno, Part 2
 
 Now that all of that is out of the way, let's pick up *Cosmos*'s story of Bruno again:
 
-* Bruno was automatically excommunicated by the Roman Catholic Church when he professed himself to be a Calvanist during his travels.
-* Bruno was temporarily excommunicated by the Calvanists when he distributed a pamphlet attacking a prominent professor and refused to apologize. We do not know the contents of the pamphlet other than that he called the professor a "pedagogue" and that it contained a couple of dozen perceived errors made by the professor.
-* Bruno was subsequently excommunicated by the Lutherans, well after his journey to England, when they accused him of being a Calvanist.
-* With respect to his time in England, he enjoyed a fair amount of success and published a number of works. There is no evience to suggest the scene depicted in *Cosmos* ever happened. He only left after a riot stormed the French embassy at which he had his residence.
+* Bruno was automatically excommunicated by the Roman Catholic Church when he professed himself to be a Calvinist during his travels.
+* Bruno was temporarily excommunicated by the Calvinists when he distributed a pamphlet attacking a prominent professor and refused to apologize. We do not know the contents of the pamphlet other than that he called the professor a "pedagogue" and that it contained a couple of dozen perceived errors made by the professor.
+* Bruno was subsequently excommunicated by the Lutherans, well after his journey to England, when they accused him of being a Calvinist.
+* With respect to his time in England, he enjoyed a fair amount of success and published a number of works. There is no evidence to suggest the scene depicted in *Cosmos* ever happened. He only left after a riot stormed the French embassy at which he had his residence.
 
 #### Giodorno Bruno's trial and execution
 
@@ -216,7 +216,7 @@ Tyson wraps up the segment on Bruno with the following monologue:
 
 > Bruno was no scientist. His vision of the cosmos was a lucky guess, because he had no evidence to support it. Like most guesses, it could well have turned out wrong. But once the idea was in the air, it gave others a target to aim at, if only to disprove it.
 
-I found this to be the most problematic aspect of the entire Bruno segment. As I've repeatedly called back to, the terms by which we were supposed to be on this journey through the cosmos was that we "test ideas by experimental observation, reject the ones that fail, [and] follow the evidence to wherever it leads." Bruno did none of that. He simply had a crazy idea that happened to be similar to what we now believe to be the case. Nobody took Bruno's ideas and ran with them. Actual scientists at the time correctly rejected Bruno's vision of reality precicely because it was baseless.
+I found this to be the most problematic aspect of the entire Bruno segment. As I've repeatedly called back to, the terms by which we were supposed to be on this journey through the cosmos was that we "test ideas by experimental observation, reject the ones that fail, [and] follow the evidence to wherever it leads." Bruno did none of that. He simply had a crazy idea that happened to be similar to what we now believe to be the case. Nobody took Bruno's ideas and ran with them. Actual scientists at the time correctly rejected Bruno's vision of reality precisely because it was baseless.
 
 So what should we take from this? That Kepler and Galileo were wrong? That if someone has a crazy idea and no evidence to support it, we should still treat it as a valid hypothesis? What does that mean for flat Earthers, or the multitude of crank theories that are unfalsifiable in principle?
 
@@ -224,7 +224,7 @@ So what should we take from this? That Kepler and Galileo were wrong? That if so
 
 For the most part, the Cosmic Calendar is a faithful retelling of cosmology as we know it. There are a few points to touch on, though.
 
-First, the description of how the Moon formed—where it was simply a collection of random debris that coalesced in a singular object—is a bit of an oversimplification of the currently accepted lunar origin hypotheses. The most widely accepted hypothesis of how the Moon was formed is called the [giant impact hypothesis][23], where a planet the size of Mars called *Theia* collided with Earth and its resulant ejecta coallesced to for the Moon. *Cosmos* shows a planetoid hitting Earth, but what they showed is much smaller than the proposed Theia.[^1]
+First, the description of how the Moon formed—where it was simply a collection of random debris that coalesced in a singular object—is a bit of an oversimplification of the currently accepted lunar origin hypotheses. The most widely accepted hypothesis of how the Moon was formed is called the [giant impact hypothesis][23], where a planet the size of Mars called *Theia* collided with Earth and its resultant ejecta coalesced to for the Moon. *Cosmos* shows a planetoid hitting Earth, but what they showed is much smaller than the proposed Theia.[^1]
 
 Second, Tyson mentions that we "invented Astronomy." The use of "invented" is problematic: we didn't make astronomy up like we did with, say, astrology. I'd strongly argue "discover" is a more appropriate description of our relation to astronomy and the other sciences.
 
